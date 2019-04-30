@@ -1,0 +1,14402 @@
+export const List_of_Presidents_of_the_United_States= ` <!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   List of Presidents of the United States - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_Presidents_of_the_United_States","wgTitle":"List of Presidents of the United States","wgCurRevisionId":894434191,"wgRevisionId":894434191,"wgArticleId":19908980,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia pending changes protected pages","Use mdy dates from April 2017","Articles with short description","Lists of national presidents","Lists relating to the United States presidency","Presidents of the United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_Presidents_of_the_United_States","wgRelevantArticleId":19908980,"wgRequestId":"XMTJlApAIDAAAAjr53gAAACL","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":894434191,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q35073","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});
+  </script>
+  <link href="https://en.wikipedia.org/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="https://en.wikipedia.org/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="https://en.wikipedia.org/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="https://en.wikipedia.org/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.34.0-wmf.1" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Greater_coat_of_arms_of_the_United_States.svg/1200px-Greater_coat_of_arms_of_the_United_States.svg.png" property="og:image"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_Presidents_of_the_United_States" rel="alternate"/>
+  <link href="https://en.wikipedia.org/w/index.php?title=List_of_Presidents_of_the_United_States&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="https://en.wikipedia.org/w/index.php?title=List_of_Presidents_of_the_United_States&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="https://en.wikipedia.org/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/List_of_Presidents_of_the_United_States" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <!--[if lt IE 9]><script src="https://en.wikipedia.org/w/load.php?lang=qqx&amp;modules=html5shiv&amp;only=scripts&amp;skin=fallback&amp;sync=1"></script><![endif]-->
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-List_of_Presidents_of_the_United_States rootpage-List_of_Presidents_of_the_United_States skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+    <div class="mw-indicator" id="mw-indicator-pp-autoreview">
+     <a href="/wiki/Wikipedia:Protection_policy#pending" title="All edits by unregistered and new users are subject to review prior to becoming visible to unregistered users">
+      <img alt="Page protected with pending changes" data-file-height="512" data-file-width="512" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b7/Pending-protection-shackle.svg/20px-Pending-protection-shackle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b7/Pending-protection-shackle.svg/30px-Pending-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b7/Pending-protection-shackle.svg/40px-Pending-protection-shackle.svg.png 2x" width="20"/>
+     </a>
+    </div>
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    List of Presidents of the United States
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <div class="flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint nomobile" id="mw-fr-revisiontag">
+      <div class="flaggedrevs_short_basic">
+       <img alt="Changes must be reviewed before being displayed on this page." class="flaggedrevs-icon" src="/w/extensions/FlaggedRevs/frontend/modules/img/doc-magnify.png" title="Changes must be reviewed before being displayed on this page."/>
+       <img alt="show/hide details" class="fr-toggle-arrow" id="mw-fr-revisiontoggle" src="/w/extensions/FlaggedRevs/frontend/modules/img/arrow-down.png" style="display:none;"/>
+      </div>
+      <div id="mw-fr-revisiondetails-wrapper" style="position:relative;">
+       <div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">
+        This is the
+        <a href="/wiki/Wikipedia:Pending_changes" title="Wikipedia:Pending changes">
+         latest accepted revision
+        </a>
+        ,
+        <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:Log&amp;type=review&amp;page=List_of_Presidents_of_the_United_States">
+         reviewed
+        </a>
+        on
+        <i>
+         27 April 2019
+        </i>
+        .
+       </div>
+      </div>
+     </div>
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Jump to navigation
+    </a>
+    <a class="mw-jump-link" href="#p-search">
+     Jump to search
+    </a>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <p class="mw-empty-elt">
+      </p>
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikimedia list article
+      </div>
+      <div class="hatnote navigation-not-searchable" role="note">
+       For the 1999 C-SPAN series, see
+       <a href="/wiki/American_Presidents:_Life_Portraits" title="American Presidents: Life Portraits">
+        American Presidents: Life Portraits
+       </a>
+       . For other uses, see
+       <a class="mw-disambig" href="/wiki/President_of_the_United_States_(disambiguation)" title="President of the United States (disambiguation)">
+        President of the United States (disambiguation)
+       </a>
+       .
+      </div>
+      <table class="vertical-navbox nowraplinks vcard hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tbody>
+        <tr>
+         <td style="padding-top:0.4em;line-height:1.2em">
+          This article is part of
+          <a href="/wiki/Category:Politics_of_the_United_States" title="Category:Politics of the United States">
+           a series
+          </a>
+          on the
+         </td>
+        </tr>
+        <tr>
+         <th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em">
+          <a href="/wiki/Politics_of_the_United_States" title="Politics of the United States">
+           Politics of the
+           <br/>
+           United States of America
+          </a>
+         </th>
+        </tr>
+        <tr>
+         <td style="padding:0.2em 0 0.4em">
+          <a class="image" href="/wiki/File:Greater_coat_of_arms_of_the_United_States.svg">
+           <img alt="Greater coat of arms of the United States.svg" data-file-height="476" data-file-width="451" decoding="async" height="142" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Greater_coat_of_arms_of_the_United_States.svg/135px-Greater_coat_of_arms_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Greater_coat_of_arms_of_the_United_States.svg/203px-Greater_coat_of_arms_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Greater_coat_of_arms_of_the_United_States.svg/270px-Greater_coat_of_arms_of_the_United_States.svg.png 2x" width="135"/>
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em">
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:lavender;">
+            <a href="/wiki/Federal_government_of_the_United_States" title="Federal government of the United States">
+             Federal Government
+            </a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+            <ul>
+             <li>
+              <b>
+               <a href="/wiki/United_States_Constitution" title="United States Constitution">
+                Constitution of the United States
+               </a>
+              </b>
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <a href="/wiki/Law_of_the_United_States" title="Law of the United States">
+               Law
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Taxation_in_the_United_States" title="Taxation in the United States">
+               Taxation
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em">
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:lavender;">
+            <a href="/wiki/United_States_Congress" title="United States Congress">
+             Legislature
+            </a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+            <a class="image" href="/wiki/File:Seal_of_the_United_States_Congress.svg">
+             <img alt="Seal of the United States Congress.svg" data-file-height="1052" data-file-width="1055" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Seal_of_the_United_States_Congress.svg/30px-Seal_of_the_United_States_Congress.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Seal_of_the_United_States_Congress.svg/45px-Seal_of_the_United_States_Congress.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Seal_of_the_United_States_Congress.svg/60px-Seal_of_the_United_States_Congress.svg.png 2x" width="30"/>
+            </a>
+            <ul>
+             <li>
+              <b>
+               <a href="/wiki/United_States_Congress" title="United States Congress">
+                United States Congress
+               </a>
+              </b>
+             </li>
+            </ul>
+            <p>
+             <a class="image" href="/wiki/File:US_House_235-198_(2V).svg">
+              <img alt="US House 235-198 (2V).svg" data-file-height="263" data-file-width="512" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/US_House_235-198_%282V%29.svg/50px-US_House_235-198_%282V%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/US_House_235-198_%282V%29.svg/75px-US_House_235-198_%282V%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/US_House_235-198_%282V%29.svg/100px-US_House_235-198_%282V%29.svg.png 2x" width="50"/>
+             </a>
+             <a class="image" href="/wiki/File:116th_United_States_Senate.svg">
+              <img alt="116th United States Senate.svg" data-file-height="185" data-file-width="360" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/116th_United_States_Senate.svg/50px-116th_United_States_Senate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/116th_United_States_Senate.svg/75px-116th_United_States_Senate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/116th_United_States_Senate.svg/100px-116th_United_States_Senate.svg.png 2x" width="50"/>
+             </a>
+            </p>
+            <hr/>
+            <p>
+             <a class="image" href="/wiki/File:Seal_of_the_United_States_House_of_Representatives.svg">
+              <img alt="Seal of the United States House of Representatives.svg" data-file-height="1030" data-file-width="1030" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Seal_of_the_United_States_House_of_Representatives.svg/30px-Seal_of_the_United_States_House_of_Representatives.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Seal_of_the_United_States_House_of_Representatives.svg/45px-Seal_of_the_United_States_House_of_Representatives.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Seal_of_the_United_States_House_of_Representatives.svg/60px-Seal_of_the_United_States_House_of_Representatives.svg.png 2x" width="30"/>
+             </a>
+            </p>
+            <ul>
+             <li>
+              <b>
+               <a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">
+                House of Representatives
+               </a>
+              </b>
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <a href="/wiki/Speaker_of_the_United_States_House_of_Representatives" title="Speaker of the United States House of Representatives">
+               Speaker
+              </a>
+              <a href="/wiki/Nancy_Pelosi" title="Nancy Pelosi">
+               Nancy Pelosi
+              </a>
+              (D)
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <a href="/wiki/Party_leaders_of_the_United_States_House_of_Representatives" title="Party leaders of the United States House of Representatives">
+               Majority Leader
+              </a>
+              <a href="/wiki/Steny_Hoyer" title="Steny Hoyer">
+               Steny Hoyer
+              </a>
+              (D)
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <a href="/wiki/Party_leaders_of_the_United_States_House_of_Representatives" title="Party leaders of the United States House of Representatives">
+               Minority Leader
+              </a>
+              <a href="/wiki/Kevin_McCarthy_(California_politician)" title="Kevin McCarthy (California politician)">
+               Kevin McCarthy
+              </a>
+              (R)
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <a href="/wiki/List_of_United_States_congressional_districts" title="List of United States congressional districts">
+               Congressional districts
+              </a>
+             </li>
+            </ul>
+            <hr/>
+            <p>
+             <a class="image" href="/wiki/File:Seal_of_the_United_States_Senate.svg">
+              <img alt="Seal of the United States Senate.svg" data-file-height="1030" data-file-width="1030" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/30px-Seal_of_the_United_States_Senate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/45px-Seal_of_the_United_States_Senate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/60px-Seal_of_the_United_States_Senate.svg.png 2x" width="30"/>
+             </a>
+            </p>
+            <ul>
+             <li>
+              <b>
+               <a href="/wiki/United_States_Senate" title="United States Senate">
+                Senate
+               </a>
+              </b>
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">
+               President
+              </a>
+              <a href="/wiki/Mike_Pence" title="Mike Pence">
+               Mike Pence
+              </a>
+              (R)
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <a href="/wiki/President_pro_tempore_of_the_United_States_Senate" title="President pro tempore of the United States Senate">
+               President Pro Tempore
+              </a>
+              <a href="/wiki/Chuck_Grassley" title="Chuck Grassley">
+               Chuck Grassley
+              </a>
+              (R)
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <a href="/wiki/President_pro_tempore_of_the_United_States_Senate#President_pro_tempore_emeritus" title="President pro tempore of the United States Senate">
+               President Pro Tempore Emeritus
+              </a>
+              <a href="/wiki/Patrick_Leahy" title="Patrick Leahy">
+               Patrick Leahy
+              </a>
+              (D)
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <a href="/wiki/Party_leaders_of_the_United_States_Senate" title="Party leaders of the United States Senate">
+               Majority Leader
+              </a>
+              <a href="/wiki/Mitch_McConnell" title="Mitch McConnell">
+               Mitch McConnell
+              </a>
+              (R)
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <a href="/wiki/Party_leaders_of_the_United_States_Senate" title="Party leaders of the United States Senate">
+               Minority Leader
+              </a>
+              <a href="/wiki/Chuck_Schumer" title="Chuck Schumer">
+               Chuck Schumer
+              </a>
+              (D)
+             </li>
+            </ul>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em">
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:lavender;">
+            <a href="/wiki/Federal_government_of_the_United_States#Executive_branch" title="Federal government of the United States">
+             Executive
+            </a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+            <a class="image" href="/wiki/File:Seal_of_the_President_of_the_United_States.svg">
+             <img alt="Seal of the President of the United States.svg" data-file-height="2425" data-file-width="2424" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/30px-Seal_of_the_President_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/45px-Seal_of_the_President_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/60px-Seal_of_the_President_of_the_United_States.svg.png 2x" width="30"/>
+            </a>
+            <ul>
+             <li>
+              <b>
+               <a href="/wiki/President_of_the_United_States" title="President of the United States">
+                President of the United States
+               </a>
+              </b>
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <a href="/wiki/Donald_Trump" title="Donald Trump">
+               Donald Trump
+              </a>
+              (R)
+             </li>
+            </ul>
+            <p>
+             <a class="image" href="/wiki/File:Seal_of_the_Vice_President_of_the_United_States.svg">
+              <img alt="Seal of the Vice President of the United States.svg" data-file-height="2437" data-file-width="2437" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Seal_of_the_Vice_President_of_the_United_States.svg/30px-Seal_of_the_Vice_President_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Seal_of_the_Vice_President_of_the_United_States.svg/45px-Seal_of_the_Vice_President_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Seal_of_the_Vice_President_of_the_United_States.svg/60px-Seal_of_the_Vice_President_of_the_United_States.svg.png 2x" width="30"/>
+             </a>
+            </p>
+            <ul>
+             <li>
+              <b>
+               <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">
+                Vice President of the United States
+               </a>
+              </b>
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <a href="/wiki/Mike_Pence" title="Mike Pence">
+               Mike Pence
+              </a>
+              (R)
+             </li>
+            </ul>
+            <hr/>
+            <ul>
+             <li>
+              <a href="/wiki/Cabinet_of_the_United_States" title="Cabinet of the United States">
+               Cabinet
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_federal_agencies_in_the_United_States" title="List of federal agencies in the United States">
+               Federal agencies
+              </a>
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/Executive_Office_of_the_President" title="Executive Office of the President">
+               Executive Office
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em">
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:lavender;">
+            <a href="/wiki/Federal_judiciary_of_the_United_States" title="Federal judiciary of the United States">
+             Judiciary
+            </a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+            <a class="image" href="/wiki/File:Seal_of_the_United_States_Supreme_Court.svg">
+             <img alt="Seal of the United States Supreme Court.svg" data-file-height="720" data-file-width="720" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Seal_of_the_United_States_Supreme_Court.svg/30px-Seal_of_the_United_States_Supreme_Court.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Seal_of_the_United_States_Supreme_Court.svg/45px-Seal_of_the_United_States_Supreme_Court.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Seal_of_the_United_States_Supreme_Court.svg/60px-Seal_of_the_United_States_Supreme_Court.svg.png 2x" width="30"/>
+            </a>
+            <ul>
+             <li>
+              <b>
+               <a href="/wiki/Supreme_Court_of_the_United_States" title="Supreme Court of the United States">
+                Supreme Court of the United States
+               </a>
+              </b>
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <a href="/wiki/Chief_Justice_of_the_United_States" title="Chief Justice of the United States">
+               Chief Justice
+              </a>
+              <a href="/wiki/John_Roberts" title="John Roberts">
+               John Roberts
+              </a>
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <a href="/wiki/Clarence_Thomas" title="Clarence Thomas">
+               Thomas
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Ruth_Bader_Ginsburg" title="Ruth Bader Ginsburg">
+               Ginsburg
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Stephen_Breyer" title="Stephen Breyer">
+               Breyer
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Samuel_Alito" title="Samuel Alito">
+               Alito
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Sonia_Sotomayor" title="Sonia Sotomayor">
+               Sotomayor
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Elena_Kagan" title="Elena Kagan">
+               Kagan
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Neil_Gorsuch" title="Neil Gorsuch">
+               Gorsuch
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Brett_Kavanaugh" title="Brett Kavanaugh">
+               Kavanaugh
+              </a>
+             </li>
+            </ul>
+            <hr/>
+            <ul>
+             <li>
+              <a href="/wiki/United_States_courts_of_appeals" title="United States courts of appeals">
+               Courts of Appeals
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/United_States_district_court" title="United States district court">
+               District Courts
+              </a>
+              <span style="font-size:85%;">
+               (
+               <a href="/wiki/List_of_United_States_district_and_territorial_courts" title="List of United States district and territorial courts">
+                list
+               </a>
+               )
+              </span>
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <a href="/wiki/Federal_tribunals_in_the_United_States" title="Federal tribunals in the United States">
+               Other tribunals
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em">
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:lavender;">
+            <a href="/wiki/Elections_in_the_United_States" title="Elections in the United States">
+             Elections
+            </a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+            <ul>
+             <li>
+              <a href="/wiki/United_States_presidential_election" title="United States presidential election">
+               Presidential elections
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/United_States_midterm_election" title="United States midterm election">
+               Midterm elections
+              </a>
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <a href="/wiki/Off-year_election" title="Off-year election">
+               Off-year elections
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em">
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:lavender;">
+            <a href="/wiki/Political_parties_in_the_United_States" title="Political parties in the United States">
+             Political parties
+            </a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+            <ul>
+             <li>
+              <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">
+               Democratic
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+               Republican
+              </a>
+             </li>
+            </ul>
+            <hr/>
+            <ul>
+             <li>
+              <a href="/wiki/Third_party_(United_States)" title="Third party (United States)">
+               Third parties
+              </a>
+              <ul>
+               <li>
+                <a href="/wiki/Libertarian_Party_(United_States)" title="Libertarian Party (United States)">
+                 Libertarian
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Green_Party_of_the_United_States" title="Green Party of the United States">
+                 Green
+                </a>
+               </li>
+              </ul>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em">
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:lavender;">
+            <a href="/wiki/Federalism_in_the_United_States" title="Federalism in the United States">
+             Federalism
+            </a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+            <ul>
+             <li>
+              <b>
+               <a href="/wiki/State_governments_of_the_United_States" title="State governments of the United States">
+                State Government
+               </a>
+              </b>
+             </li>
+            </ul>
+            <hr/>
+            <ul>
+             <li>
+              <a class="mw-redirect" href="/wiki/List_of_current_United_States_governors" title="List of current United States governors">
+               Governors
+              </a>
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <a href="/wiki/State_legislature_(United_States)" title="State legislature (United States)">
+               Legislatures
+              </a>
+              (
+              <a href="/wiki/List_of_United_States_state_legislatures" title="List of United States state legislatures">
+               List
+              </a>
+              )
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <a href="/wiki/State_court_(United_States)" title="State court (United States)">
+               State courts
+              </a>
+             </li>
+            </ul>
+            <ul>
+             <li>
+              <ul>
+               <li>
+                <a href="/wiki/Local_government_in_the_United_States" title="Local government in the United States">
+                 Local government
+                </a>
+               </li>
+              </ul>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;">
+          <a class="image" href="/wiki/File:Flag_of_the_United_States.svg">
+           <img alt="Flag of the United States.svg" class="noviewer" data-file-height="650" data-file-width="1235" decoding="async" height="17" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/48px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/64px-Flag_of_the_United_States.svg.png 2x" width="32"/>
+          </a>
+          <a href="/wiki/Portal:United_States" title="Portal:United States">
+           United States portal
+          </a>
+          <div class="hlist" style="text-align:center;font-weight:normal;">
+           <ul>
+            <li>
+             <a href="/wiki/Outline_of_political_science#Politics_by_region" title="Outline of political science">
+              Other countries
+             </a>
+            </li>
+            <li>
+             <a class="extiw" href="https://commons.wikimedia.org/wiki/Atlas_of_the_United_States" title="commons:Atlas of the United States">
+              Atlas
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view">
+             <a href="/wiki/Template:Politics_of_the_United_States" title="Template:Politics of the United States">
+              <abbr title="View this template">
+               v
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-talk">
+             <a href="/wiki/Template_talk:Politics_of_the_United_States" title="Template talk:Politics of the United States">
+              <abbr title="Discuss this template">
+               t
+              </abbr>
+             </a>
+            </li>
+            <li class="nv-edit">
+             <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Politics_of_the_United_States&amp;action=edit">
+              <abbr title="Edit this template">
+               e
+              </abbr>
+             </a>
+            </li>
+           </ul>
+          </div>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <p>
+       The
+       <a href="/wiki/President_of_the_United_States" title="President of the United States">
+        President of the United States
+       </a>
+       is the
+       <a href="/wiki/Head_of_state" title="Head of state">
+        head of state
+       </a>
+       and
+       <a href="/wiki/Head_of_government" title="Head of government">
+        head of government
+       </a>
+       of the
+       <a href="/wiki/United_States" title="United States">
+        United States
+       </a>
+       ,
+       <a href="/wiki/Indirect_election" title="Indirect election">
+        indirectly elected
+       </a>
+       to a four-year
+       <a href="/wiki/Term_of_office" title="Term of office">
+        term
+       </a>
+       by the people through the
+       <a class="mw-redirect" href="/wiki/Electoral_College_(United_States)" title="Electoral College (United States)">
+        Electoral College
+       </a>
+       . The officeholder leads the
+       <a href="/wiki/Executive_(government)" title="Executive (government)">
+        executive branch
+       </a>
+       of the
+       <a href="/wiki/Federal_government_of_the_United_States" title="Federal government of the United States">
+        federal government
+       </a>
+       and is the
+       <a href="/wiki/Commander-in-chief" title="Commander-in-chief">
+        commander-in-chief
+       </a>
+       of the
+       <a href="/wiki/United_States_Armed_Forces" title="United States Armed Forces">
+        United States Armed Forces
+       </a>
+       .
+      </p>
+      <p>
+       Since the office was established in 1789, 44 men have served as president. The first,
+       <a href="/wiki/George_Washington" title="George Washington">
+        George Washington
+       </a>
+       , won a unanimous vote of the Electoral College.
+       <a href="/wiki/Grover_Cleveland" title="Grover Cleveland">
+        Grover Cleveland
+       </a>
+       served two non-consecutive terms in office and is therefore counted as the 22nd and 24th President of the United States; the 45th and current president is
+       <a href="/wiki/Donald_Trump" title="Donald Trump">
+        Donald Trump
+       </a>
+       (since January 20, 2017). There are currently four
+       <a class="mw-redirect" href="/wiki/Living_Presidents_of_the_United_States" title="Living Presidents of the United States">
+        living former presidents
+       </a>
+       . The most recent former president to
+       <a href="/wiki/Death_and_state_funeral_of_George_H._W._Bush" title="Death and state funeral of George H. W. Bush">
+        die
+       </a>
+       was
+       <a href="/wiki/George_H._W._Bush" title="George H. W. Bush">
+        George H. W. Bush
+       </a>
+       on November 30, 2018.
+      </p>
+      <p>
+       The presidency of
+       <a href="/wiki/William_Henry_Harrison" title="William Henry Harrison">
+        William Henry Harrison
+       </a>
+       , who died 31 days after taking office in 1841, was the shortest in American history.
+       <a href="/wiki/Franklin_D._Roosevelt" title="Franklin D. Roosevelt">
+        Franklin D. Roosevelt
+       </a>
+       served the longest, over twelve years, before dying early in his fourth term in 1945. He is the only U.S. president to have served more than two terms. Since the ratification of the
+       <a href="/wiki/Twenty-second_Amendment_to_the_United_States_Constitution" title="Twenty-second Amendment to the United States Constitution">
+        Twenty-second Amendment to the United States Constitution
+       </a>
+       in 1951, no person may be elected president more than twice and no one who has served more than two years of a term to which someone else was elected may be elected more than once.
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Of those who have served as the nation's president, four died in office of natural causes (William Henry Harrison,
+       <a href="/wiki/Zachary_Taylor" title="Zachary Taylor">
+        Zachary Taylor
+       </a>
+       ,
+       <a href="/wiki/Warren_G._Harding" title="Warren G. Harding">
+        Warren G. Harding
+       </a>
+       , and Franklin D. Roosevelt), four were
+       <a href="/wiki/List_of_United_States_presidential_assassination_attempts_and_plots" title="List of United States presidential assassination attempts and plots">
+        assassinated
+       </a>
+       (
+       <a href="/wiki/Abraham_Lincoln" title="Abraham Lincoln">
+        Abraham Lincoln
+       </a>
+       ,
+       <a href="/wiki/James_A._Garfield" title="James A. Garfield">
+        James A. Garfield
+       </a>
+       ,
+       <a href="/wiki/William_McKinley" title="William McKinley">
+        William McKinley
+       </a>
+       and
+       <a href="/wiki/John_F._Kennedy" title="John F. Kennedy">
+        John F. Kennedy
+       </a>
+       ), and one resigned (
+       <a href="/wiki/Richard_Nixon" title="Richard Nixon">
+        Richard Nixon
+       </a>
+       , facing
+       <a href="/wiki/Impeachment_process_against_Richard_Nixon" title="Impeachment process against Richard Nixon">
+        impeachment
+       </a>
+       ).
+       <a href="/wiki/John_Tyler" title="John Tyler">
+        John Tyler
+       </a>
+       was the first vice president to assume the presidency during a presidential term, and set the precedent that a vice president who does so becomes the fully functioning president with his own presidency, as opposed to a
+       <a href="/wiki/Caretaker_government" title="Caretaker government">
+        caretaker president
+       </a>
+       . The
+       <a href="/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution" title="Twenty-fifth Amendment to the United States Constitution">
+        Twenty-fifth Amendment
+       </a>
+       to the Constitution put Tyler's precedent into law in 1967. It also established a mechanism by which an intra-term vacancy in the vice presidency could be filled. Richard Nixon was the first president to fill a vacancy under this provision when he
+       <a class="mw-redirect" href="/wiki/United_States_vice_presidential_selection,_1973" title="United States vice presidential selection, 1973">
+        selected
+       </a>
+       <a href="/wiki/Gerald_Ford" title="Gerald Ford">
+        Gerald Ford
+       </a>
+       for the office following
+       <a href="/wiki/Spiro_Agnew" title="Spiro Agnew">
+        Spiro Agnew
+       </a>
+       's resignation in 1973. The following year, Ford became the second to do so when he
+       <a class="mw-redirect" href="/wiki/United_States_vice_presidential_selection,_1974" title="United States vice presidential selection, 1974">
+        chose
+       </a>
+       <a href="/wiki/Nelson_Rockefeller" title="Nelson Rockefeller">
+        Nelson Rockefeller
+       </a>
+       to succeed him after he acceded to the presidency. As no mechanism existed for filling an intra-term vacancy in the vice presidency prior to 1967, the office was left vacant until filled through the next ensuing presidential election.
+      </p>
+      <p>
+       Throughout most of its history,
+       <a href="/wiki/Politics_of_the_United_States" title="Politics of the United States">
+        American politics
+       </a>
+       has been dominated by
+       <a href="/wiki/Political_party" title="Political party">
+        political parties
+       </a>
+       . The Constitution is silent on the issue of political parties, and at the time it came into force in 1789, there were no parties. Soon after the
+       <a href="/wiki/1st_United_States_Congress" title="1st United States Congress">
+        1st Congress
+       </a>
+       convened, factions began rallying around dominant
+       <a href="/wiki/Presidency_of_George_Washington" title="Presidency of George Washington">
+        Washington Administration
+       </a>
+       officials, such as
+       <a href="/wiki/Alexander_Hamilton" title="Alexander Hamilton">
+        Alexander Hamilton
+       </a>
+       and
+       <a href="/wiki/Thomas_Jefferson" title="Thomas Jefferson">
+        Thomas Jefferson
+       </a>
+       . Greatly concerned about the capacity of political parties to destroy the fragile unity holding the nation together, Washington remained unaffiliated with any political faction or party throughout his eight-year presidency. He was, and remains, the only U.S. president never affiliated with a political party.
+       <sup class="reference" id="cite_ref-GWpps_2-0">
+        <a href="#cite_note-GWpps-2">
+         [2]
+        </a>
+       </sup>
+       Since Washington, every president has been affiliated with a political party at the time they assumed office.
+      </p>
+      <div class="toc" id="toc">
+       <input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/>
+       <div class="toctitle" dir="ltr" lang="en">
+        <h2>
+         Contents
+        </h2>
+        <span class="toctogglespan">
+         <label class="toctogglelabel" for="toctogglecheckbox">
+         </label>
+        </span>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Presidents">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Presidents
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Subsequent_public_office">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Subsequent public office
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#See_also">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Notes">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Notes
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#References">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-6">
+         <a href="#External_links">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Presidents">
+        Presidents
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=List_of_Presidents_of_the_United_States&amp;action=edit&amp;section=1" title="Edit section: Presidents">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <center>
+       <table class="wikitable" style="text-align:center;">
+        <tbody>
+         <tr>
+          <th colspan="9">
+           <span style="margin:0; font-size:90%; white-space:nowrap;">
+            <span class="legend-text" style="border:1px solid #AAAAAA; padding:1px .6em; background-color:#DDDDDD; color:black; font-size:95%; line-height:1.25; text-align:center;">
+            </span>
+            <a href="/wiki/Independent_politician" title="Independent politician">
+             Unaffiliated
+            </a>
+            (2)
+           </span>
+           <span style="margin:0; font-size:90%; white-space:nowrap;">
+            <span class="legend-text" style="border:1px solid #AAAAAA; padding:1px .6em; background-color:#EA9978; color:black; font-size:95%; line-height:1.25; text-align:center;">
+            </span>
+            <a href="/wiki/Federalist_Party" title="Federalist Party">
+             Federalist
+            </a>
+            (1)
+           </span>
+           <span style="margin:0; font-size:90%; white-space:nowrap;">
+            <span class="legend-text" style="border:1px solid #AAAAAA; padding:1px .6em; background-color:#008000; color:black; font-size:95%; line-height:1.25; text-align:center;">
+            </span>
+            <a href="/wiki/Democratic-Republican_Party" title="Democratic-Republican Party">
+             Democratic-Republican
+            </a>
+            (4)
+           </span>
+           <span style="margin:0; font-size:90%; white-space:nowrap;">
+            <span class="legend-text" style="border:1px solid #AAAAAA; padding:1px .6em; background-color:#3333FF; color:black; font-size:95%; line-height:1.25; text-align:center;">
+            </span>
+            <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">
+             Democratic
+            </a>
+            (15)
+           </span>
+           <span style="margin:0; font-size:90%; white-space:nowrap;">
+            <span class="legend-text" style="border:1px solid #AAAAAA; padding:1px .6em; background-color:#F0C862; color:black; font-size:95%; line-height:1.25; text-align:center;">
+            </span>
+            <a href="/wiki/Whig_Party_(United_States)" title="Whig Party (United States)">
+             Whig
+            </a>
+            (4)
+           </span>
+           <span style="margin:0; font-size:90%; white-space:nowrap;">
+            <span class="legend-text" style="border:1px solid #AAAAAA; padding:1px .6em; background-color:#E81B23; color:black; font-size:95%; line-height:1.25; text-align:center;">
+            </span>
+            <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+             Republican
+            </a>
+            (19)
+           </span>
+           <span style="margin:0; font-size:90%; white-space:nowrap;">
+            <span class="legend-text" style="border:1px solid #AAAAAA; padding:1px .6em; background-color:#B22222; color:black; font-size:95%; line-height:1.25; text-align:center;">
+            </span>
+            <a href="/wiki/National_Union_Party_(United_States)" title="National Union Party (United States)">
+             National Union
+            </a>
+            (2)
+           </span>
+          </th>
+         </tr>
+         <tr>
+          <th colspan="2">
+           Presidency
+           <sup class="reference" id="cite_ref-No_3-0">
+            <a href="#cite_note-No-3">
+             [a]
+            </a>
+           </sup>
+          </th>
+          <th colspan="2">
+           President
+          </th>
+          <th>
+           Prior office
+           <sup class="reference" id="cite_ref-office_4-0">
+            <a href="#cite_note-office-4">
+             [b]
+            </a>
+           </sup>
+          </th>
+          <th colspan="2">
+           Party
+           <sup class="reference" id="cite_ref-2Party_5-0">
+            <a href="#cite_note-2Party-5">
+             [c]
+            </a>
+           </sup>
+          </th>
+          <th>
+           Election
+          </th>
+          <th style="width:18%;">
+           Vice President
+          </th>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_George_Washington" title="Presidency of George Washington">
+            1
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            April 30, 1789
+           </span>
+           <br/>
+           <sup class="reference" id="cite_ref-Washington-term_6-0">
+            <a href="#cite_note-Washington-term-6">
+             [d]
+            </a>
+           </sup>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1797
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg">
+            <img alt="Gilbert Stuart Williamstown Portrait of George Washington.jpg" data-file-height="1932" data-file-width="1588" decoding="async" height="201" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/165px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/248px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/330px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2" style="width:19%;">
+           <b>
+            <big>
+             <a href="/wiki/George_Washington" title="George Washington">
+              George Washington
+             </a>
+            </big>
+           </b>
+           <br/>
+           17321799
+           <br/>
+           <small>
+            (Lived: 67 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-7">
+            <a href="#cite_note-7">
+             [3]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-8">
+            <a href="#cite_note-8">
+             [4]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-9">
+            <a href="#cite_note-9">
+             [5]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Continental_Army" title="Continental Army">
+            Commander-in-Chief
+            <br/>
+            of the
+            <br/>
+            Continental Army
+           </a>
+           <br/>
+           <small>
+            (
+            <a href="/wiki/George_Washington_in_the_American_Revolution" title="George Washington in the American Revolution">
+             17751783
+            </a>
+            )
+           </small>
+          </td>
+          <td rowspan="2" style="background-color:#DDDDDD">
+          </td>
+          <td rowspan="2">
+           <i>
+            Unaffiliated
+           </i>
+           <br/>
+           <sup class="reference" id="cite_ref-GWpps_2-1">
+            <a href="#cite_note-GWpps-2">
+             [2]
+            </a>
+           </sup>
+          </td>
+          <td class="nowrap">
+           <a href="/wiki/1788%E2%80%9389_United_States_presidential_election" title="178889 United States presidential election">
+            178889
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/John_Adams" title="John Adams">
+            John Adams
+           </a>
+           <br/>
+           <sup class="reference" id="cite_ref-Adams-party_10-0">
+            <a href="#cite_note-Adams-party-10">
+             [e]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-Adams-term_11-0">
+            <a href="#cite_note-Adams-term-11">
+             [f]
+            </a>
+           </sup>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/1792_United_States_presidential_election" title="1792 United States presidential election">
+            1792
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Presidency_of_John_Adams" title="Presidency of John Adams">
+            2
+           </a>
+          </td>
+          <td>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1797
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1801
+           </span>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:John_Adams,_Gilbert_Stuart,_c1800_1815.jpg">
+            <img alt="John Adams, Gilbert Stuart, c1800 1815.jpg" data-file-height="1200" data-file-width="990" decoding="async" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/John_Adams%2C_Gilbert_Stuart%2C_c1800_1815.jpg/165px-John_Adams%2C_Gilbert_Stuart%2C_c1800_1815.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/John_Adams%2C_Gilbert_Stuart%2C_c1800_1815.jpg/248px-John_Adams%2C_Gilbert_Stuart%2C_c1800_1815.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/John_Adams%2C_Gilbert_Stuart%2C_c1800_1815.jpg/330px-John_Adams%2C_Gilbert_Stuart%2C_c1800_1815.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/John_Adams" title="John Adams">
+              John Adams
+             </a>
+            </big>
+           </b>
+           <br/>
+           17351826
+           <br/>
+           <small>
+            (Lived: 90 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-12">
+            <a href="#cite_note-12">
+             [6]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-13">
+            <a href="#cite_note-13">
+             [7]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-14">
+            <a href="#cite_note-14">
+             [8]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">
+            1st
+            <br/>
+            Vice President of the United States
+           </a>
+           <br/>
+           <small>
+            (17891797)
+           </small>
+          </td>
+          <td style="background-color:#EA9978">
+          </td>
+          <td>
+           <a href="/wiki/Federalist_Party" title="Federalist Party">
+            Federalist
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1796_United_States_presidential_election" title="1796 United States presidential election">
+            1796
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Thomas_Jefferson" title="Thomas Jefferson">
+            Thomas Jefferson
+           </a>
+           <br/>
+           <sup class="reference" id="cite_ref-Jefferson-party_15-0">
+            <a href="#cite_note-Jefferson-party-15">
+             [g]
+            </a>
+           </sup>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_Thomas_Jefferson" title="Presidency of Thomas Jefferson">
+            3
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1801
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1809
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:Thomas_Jefferson_by_Rembrandt_Peale,_1800.jpg">
+            <img alt="Thomas Jefferson by Rembrandt Peale, 1800.jpg" data-file-height="2996" data-file-width="2512" decoding="async" height="197" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg/165px-Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg/248px-Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg/330px-Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/Thomas_Jefferson" title="Thomas Jefferson">
+              Thomas Jefferson
+             </a>
+            </big>
+           </b>
+           <br/>
+           17431826
+           <br/>
+           <small>
+            (Lived: 83 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-16">
+            <a href="#cite_note-16">
+             [9]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-17">
+            <a href="#cite_note-17">
+             [10]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-18">
+            <a href="#cite_note-18">
+             [11]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">
+            2nd
+            <br/>
+            Vice President of the United States
+           </a>
+           <br/>
+           <small>
+            (17971801)
+           </small>
+          </td>
+          <td rowspan="2" style="background-color:#008000">
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Democratic-Republican_Party" title="Democratic-Republican Party">
+            Democratic-
+            <br/>
+            Republican
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1800_United_States_presidential_election" title="1800 United States presidential election">
+            1800
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Aaron_Burr" title="Aaron Burr">
+            Aaron Burr
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1801
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1805
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/1804_United_States_presidential_election" title="1804 United States presidential election">
+            1804
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/George_Clinton_(vice_president)" title="George Clinton (vice president)">
+            George Clinton
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1805
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1809
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="4">
+           <a href="/wiki/Presidency_of_James_Madison" title="Presidency of James Madison">
+            4
+           </a>
+          </td>
+          <td rowspan="4">
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1809
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1817
+           </span>
+          </td>
+          <td rowspan="4">
+           <a class="image" href="/wiki/File:James_Madison.jpg">
+            <img alt="James Madison.jpg" data-file-height="3000" data-file-width="2465" decoding="async" height="201" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/165px-James_Madison.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/248px-James_Madison.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/330px-James_Madison.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="4">
+           <b>
+            <big>
+             <a href="/wiki/James_Madison" title="James Madison">
+              James Madison
+             </a>
+            </big>
+           </b>
+           <br/>
+           17511836
+           <br/>
+           <small>
+            (Lived: 85 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-19">
+            <a href="#cite_note-19">
+             [12]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-20">
+            <a href="#cite_note-20">
+             [13]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-21">
+            <a href="#cite_note-21">
+             [14]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="4">
+           <a href="/wiki/United_States_Secretary_of_State" title="United States Secretary of State">
+            5th
+            <br/>
+            United States Secretary of State
+           </a>
+           <br/>
+           <small>
+            (18011809)
+           </small>
+          </td>
+          <td rowspan="4" style="background-color:#008000">
+          </td>
+          <td rowspan="4">
+           <a href="/wiki/Democratic-Republican_Party" title="Democratic-Republican Party">
+            Democratic-
+            <br/>
+            Republican
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/1808_United_States_presidential_election" title="1808 United States presidential election">
+            1808
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/George_Clinton_(vice_president)" title="George Clinton (vice president)">
+            George Clinton
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1809
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             April 20, 1812
+            </span>
+            <br/>
+            <i>
+             (Died in office)
+            </i>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td style="background:#ececec;vertical-align:middle;text-align:center;">
+           <i>
+            Office vacant
+            <br/>
+            <small>
+             (Balance of Clinton's term)
+            </small>
+           </i>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/1812_United_States_presidential_election" title="1812 United States presidential election">
+            1812
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Elbridge_Gerry" title="Elbridge Gerry">
+            Elbridge Gerry
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1813
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             November 23, 1814
+            </span>
+            <br/>
+            <i>
+             (Died in office)
+            </i>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td style="background:#ececec;vertical-align:middle;text-align:center;">
+           <i>
+            Office vacant
+            <br/>
+            <small>
+             (Balance of Gerry's term)
+            </small>
+           </i>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_James_Monroe" title="Presidency of James Monroe">
+            5
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1817
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1825
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:James_Monroe_White_House_portrait_1819.jpg">
+            <img alt="James Monroe White House portrait 1819.jpg" data-file-height="3000" data-file-width="2491" decoding="async" height="199" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/James_Monroe_White_House_portrait_1819.jpg/165px-James_Monroe_White_House_portrait_1819.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/James_Monroe_White_House_portrait_1819.jpg/248px-James_Monroe_White_House_portrait_1819.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/James_Monroe_White_House_portrait_1819.jpg/330px-James_Monroe_White_House_portrait_1819.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/James_Monroe" title="James Monroe">
+              James Monroe
+             </a>
+            </big>
+           </b>
+           <br/>
+           17581831
+           <br/>
+           <small>
+            (Lived: 73 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-22">
+            <a href="#cite_note-22">
+             [15]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-23">
+            <a href="#cite_note-23">
+             [16]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-24">
+            <a href="#cite_note-24">
+             [17]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/United_States_Secretary_of_State" title="United States Secretary of State">
+            7th
+            <br/>
+            United States Secretary of State
+           </a>
+           <br/>
+           <small>
+            (18111817)
+           </small>
+          </td>
+          <td rowspan="2" style="background-color:#008000">
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Democratic-Republican_Party" title="Democratic-Republican Party">
+            Democratic-
+            <br/>
+            Republican
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1816_United_States_presidential_election" title="1816 United States presidential election">
+            1816
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Daniel_D._Tompkins" title="Daniel D. Tompkins">
+            Daniel D. Tompkins
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/1820_United_States_presidential_election" title="1820 United States presidential election">
+            1820
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Presidency_of_John_Quincy_Adams" title="Presidency of John Quincy Adams">
+            6
+           </a>
+          </td>
+          <td>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1825
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1829
+           </span>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:John_Quincy_Adams_cropped.jpg">
+            <img alt="John Quincy Adams cropped.jpg" data-file-height="1800" data-file-width="1366" decoding="async" height="217" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/John_Quincy_Adams_cropped.jpg/165px-John_Quincy_Adams_cropped.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/John_Quincy_Adams_cropped.jpg/248px-John_Quincy_Adams_cropped.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/John_Quincy_Adams_cropped.jpg/330px-John_Quincy_Adams_cropped.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/John_Quincy_Adams" title="John Quincy Adams">
+              John Quincy Adams
+             </a>
+            </big>
+           </b>
+           <br/>
+           17671848
+           <br/>
+           <small>
+            (Lived: 80 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-25">
+            <a href="#cite_note-25">
+             [18]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-26">
+            <a href="#cite_note-26">
+             [19]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-27">
+            <a href="#cite_note-27">
+             [20]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a href="/wiki/United_States_Secretary_of_State" title="United States Secretary of State">
+            8th
+            <br/>
+            United States Secretary of State
+           </a>
+           <br/>
+           <small>
+            (18171825)
+           </small>
+          </td>
+          <td style="background-color:#008000">
+          </td>
+          <td>
+           <a href="/wiki/Democratic-Republican_Party" title="Democratic-Republican Party">
+            Democratic-
+            <br/>
+            Republican
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1824_United_States_presidential_election" title="1824 United States presidential election">
+            1824
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/John_C._Calhoun" title="John C. Calhoun">
+            John C. Calhoun
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="3">
+           <a href="/wiki/Presidency_of_Andrew_Jackson" title="Presidency of Andrew Jackson">
+            7
+           </a>
+          </td>
+          <td rowspan="3">
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1829
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1837
+           </span>
+          </td>
+          <td rowspan="3">
+           <a class="image" href="/wiki/File:Andrew_jackson_head.jpg">
+            <img alt="Andrew jackson head.jpg" data-file-height="3000" data-file-width="2472" decoding="async" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Andrew_jackson_head.jpg/165px-Andrew_jackson_head.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Andrew_jackson_head.jpg/248px-Andrew_jackson_head.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Andrew_jackson_head.jpg/330px-Andrew_jackson_head.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="3">
+           <b>
+            <big>
+             <a href="/wiki/Andrew_Jackson" title="Andrew Jackson">
+              Andrew Jackson
+             </a>
+            </big>
+           </b>
+           <br/>
+           17671845
+           <br/>
+           <small>
+            (Lived: 78 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-28">
+            <a href="#cite_note-28">
+             [21]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-29">
+            <a href="#cite_note-29">
+             [22]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-30">
+            <a href="#cite_note-30">
+             [23]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="3">
+           <a href="/wiki/United_States_Senate" title="United States Senate">
+            U.S. Senator
+           </a>
+           <span class="detail 2" style="display: none;">
+            (
+            <a href="/wiki/Classes_of_United_States_Senators" title="Classes of United States Senators">
+             Class 2
+            </a>
+            )
+           </span>
+           <span class="detail 1" style="white-space:nowrap;">
+            from
+            <a href="/wiki/Tennessee" title="Tennessee">
+             Tennessee
+            </a>
+           </span>
+           <br/>
+           <small>
+            (17971798 &amp; 18231825)
+           </small>
+          </td>
+          <td rowspan="3" style="background-color:#3333FF">
+          </td>
+          <td rowspan="3">
+           <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">
+            Democratic
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/1828_United_States_presidential_election" title="1828 United States presidential election">
+            1828
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/John_C._Calhoun" title="John C. Calhoun">
+            John C. Calhoun
+           </a>
+           <br/>
+           <sup class="reference" id="cite_ref-Calhoun-party_31-0">
+            <a href="#cite_note-Calhoun-party-31">
+             [h]
+            </a>
+           </sup>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1829
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             December 28, 1832
+            </span>
+            <br/>
+            <i>
+             (Resigned from office)
+            </i>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td style="background:#ececec;vertical-align:middle;text-align:center;">
+           <i>
+            Office vacant
+            <br/>
+            <small>
+             (Balance of Calhoun's term)
+            </small>
+           </i>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/1832_United_States_presidential_election" title="1832 United States presidential election">
+            1832
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Martin_Van_Buren" title="Martin Van Buren">
+            Martin Van Buren
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1833
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1837
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Presidency_of_Martin_Van_Buren" title="Presidency of Martin Van Buren">
+            8
+           </a>
+          </td>
+          <td>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1837
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1841
+           </span>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:Martin_Van_Buren_edit.jpg">
+            <img alt="Martin Van Buren edit.jpg" data-file-height="2048" data-file-width="1595" decoding="async" height="212" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Martin_Van_Buren_edit.jpg/165px-Martin_Van_Buren_edit.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Martin_Van_Buren_edit.jpg/248px-Martin_Van_Buren_edit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Martin_Van_Buren_edit.jpg/330px-Martin_Van_Buren_edit.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/Martin_Van_Buren" title="Martin Van Buren">
+              Martin Van Buren
+             </a>
+            </big>
+           </b>
+           <br/>
+           17821862
+           <br/>
+           <small>
+            (Lived: 79 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-32">
+            <a href="#cite_note-32">
+             [24]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-33">
+            <a href="#cite_note-33">
+             [25]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-34">
+            <a href="#cite_note-34">
+             [26]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">
+            8th
+            <br/>
+            Vice President of the United States
+           </a>
+           <br/>
+           <small>
+            (18331837)
+           </small>
+          </td>
+          <td style="background-color:#3333FF">
+          </td>
+          <td>
+           <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">
+            Democratic
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1836_United_States_presidential_election" title="1836 United States presidential election">
+            1836
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Richard_Mentor_Johnson" title="Richard Mentor Johnson">
+            Richard M. Johnson
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a class="mw-redirect" href="/wiki/Presidency_of_William_Henry_Harrison" title="Presidency of William Henry Harrison">
+            9
+           </a>
+          </td>
+          <td>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1841
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            April 4, 1841
+           </span>
+           <br/>
+           <small>
+            <i>
+             (Died in office)
+            </i>
+           </small>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:William_Henry_Harrison_daguerreotype_edit.jpg">
+            <img alt="William Henry Harrison daguerreotype edit.jpg" data-file-height="792" data-file-width="663" decoding="async" height="197" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/William_Henry_Harrison_daguerreotype_edit.jpg/165px-William_Henry_Harrison_daguerreotype_edit.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/William_Henry_Harrison_daguerreotype_edit.jpg/248px-William_Henry_Harrison_daguerreotype_edit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/William_Henry_Harrison_daguerreotype_edit.jpg/330px-William_Henry_Harrison_daguerreotype_edit.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/William_Henry_Harrison" title="William Henry Harrison">
+              William Henry Harrison
+             </a>
+            </big>
+           </b>
+           <br/>
+           17731841
+           <br/>
+           <small>
+            (Lived: 68 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-35">
+            <a href="#cite_note-35">
+             [27]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-36">
+            <a href="#cite_note-36">
+             [28]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-37">
+            <a href="#cite_note-37">
+             [29]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a class="mw-redirect" href="/wiki/United_States_Ambassador_to_Colombia" title="United States Ambassador to Colombia">
+            United States Minister to Colombia
+           </a>
+           <br/>
+           <small>
+            (18281829)
+           </small>
+          </td>
+          <td style="background-color:#F0C862">
+          </td>
+          <td>
+           <a href="/wiki/Whig_Party_(United_States)" title="Whig Party (United States)">
+            Whig
+           </a>
+          </td>
+          <td rowspan="3">
+           <a href="/wiki/1840_United_States_presidential_election" title="1840 United States presidential election">
+            1840
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/John_Tyler" title="John Tyler">
+            John Tyler
+           </a>
+           <br/>
+           <small>
+            <i>
+             (Succeeded to presidency)
+            </i>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_John_Tyler" title="Presidency of John Tyler">
+            10
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            April 4, 1841
+            <br/>
+            <sup class="reference" id="cite_ref-Tyler-oath_38-0">
+             <a href="#cite_note-Tyler-oath-38">
+              [i]
+             </a>
+            </sup>
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1845
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:Tyler_Daguerreotype_crop_(restoration).jpg">
+            <img alt="Tyler Daguerreotype crop (restoration).jpg" data-file-height="972" data-file-width="750" decoding="async" height="214" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tyler_Daguerreotype_crop_%28restoration%29.jpg/165px-Tyler_Daguerreotype_crop_%28restoration%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tyler_Daguerreotype_crop_%28restoration%29.jpg/248px-Tyler_Daguerreotype_crop_%28restoration%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tyler_Daguerreotype_crop_%28restoration%29.jpg/330px-Tyler_Daguerreotype_crop_%28restoration%29.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/John_Tyler" title="John Tyler">
+              John Tyler
+             </a>
+            </big>
+           </b>
+           <br/>
+           17901862
+           <br/>
+           <small>
+            (Lived: 71 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-39">
+            <a href="#cite_note-39">
+             [30]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-40">
+            <a href="#cite_note-40">
+             [31]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-41">
+            <a href="#cite_note-41">
+             [32]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">
+            10th
+            <br/>
+            Vice President of the United States
+           </a>
+           <br/>
+           <small>
+            (1841)
+           </small>
+          </td>
+          <td style="background-color:#F0C862">
+          </td>
+          <td>
+           <a href="/wiki/Whig_Party_(United_States)" title="Whig Party (United States)">
+            Whig
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             April 4, 1841
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             September 13, 1841
+            </span>
+           </small>
+          </td>
+          <td rowspan="2" style="background:#ececec;vertical-align:middle;text-align:center;">
+           <i>
+            Office vacant
+           </i>
+          </td>
+         </tr>
+         <tr>
+          <td style="background-color:#DDDDDD">
+          </td>
+          <td>
+           <i>
+            Unaffiliated
+           </i>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             September 13, 1841
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1845
+            </span>
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-Tyler-party_42-0">
+            <a href="#cite_note-Tyler-party-42">
+             [j]
+            </a>
+           </sup>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Presidency_of_James_K._Polk" title="Presidency of James K. Polk">
+            11
+           </a>
+          </td>
+          <td>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1845
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1849
+           </span>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:JKP.jpg">
+            <img alt="JKP.jpg" data-file-height="2440" data-file-width="1689" decoding="async" height="238" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/JKP.jpg/165px-JKP.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/JKP.jpg/248px-JKP.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/JKP.jpg/330px-JKP.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/James_K._Polk" title="James K. Polk">
+              James K. Polk
+             </a>
+            </big>
+           </b>
+           <br/>
+           17951849
+           <br/>
+           <small>
+            (Lived: 53 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-43">
+            <a href="#cite_note-43">
+             [33]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-44">
+            <a href="#cite_note-44">
+             [34]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-45">
+            <a href="#cite_note-45">
+             [35]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a href="/wiki/Governor_of_Tennessee" title="Governor of Tennessee">
+            9th
+            <br/>
+            Governor of Tennessee
+           </a>
+           <br/>
+           <small>
+            (18391841)
+           </small>
+          </td>
+          <td style="background-color:#3333FF">
+          </td>
+          <td>
+           <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">
+            Democratic
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1844_United_States_presidential_election" title="1844 United States presidential election">
+            1844
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/George_M._Dallas" title="George M. Dallas">
+            George M. Dallas
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a class="mw-redirect" href="/wiki/Presidency_of_Zachary_Taylor" title="Presidency of Zachary Taylor">
+            12
+           </a>
+          </td>
+          <td>
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1849
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            July 9, 1850
+           </span>
+           <br/>
+           <small>
+            <i>
+             (Died in office)
+            </i>
+           </small>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:Zachary_Taylor_restored_and_cropped.jpg">
+            <img alt="Zachary Taylor restored and cropped.jpg" data-file-height="1026" data-file-width="780" decoding="async" height="217" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Zachary_Taylor_restored_and_cropped.jpg/165px-Zachary_Taylor_restored_and_cropped.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Zachary_Taylor_restored_and_cropped.jpg/248px-Zachary_Taylor_restored_and_cropped.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Zachary_Taylor_restored_and_cropped.jpg/330px-Zachary_Taylor_restored_and_cropped.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/Zachary_Taylor" title="Zachary Taylor">
+              Zachary Taylor
+             </a>
+            </big>
+           </b>
+           <br/>
+           17841850
+           <br/>
+           <small>
+            (Lived: 65 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-46">
+            <a href="#cite_note-46">
+             [36]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-47">
+            <a href="#cite_note-47">
+             [37]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-48">
+            <a href="#cite_note-48">
+             [38]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a href="/wiki/Major_general_(United_States)" title="Major general (United States)">
+            Major General
+           </a>
+           of the
+           <a href="/wiki/1st_Infantry_Regiment_(United_States)" title="1st Infantry Regiment (United States)">
+            1st Infantry Regiment
+           </a>
+           <br/>
+           <a href="/wiki/United_States_Army" title="United States Army">
+            United States Army
+           </a>
+           <br/>
+           <small>
+            (18461849)
+            <br/>
+            <i>
+             (No prior elected office)
+            </i>
+           </small>
+          </td>
+          <td style="background-color:#F0C862">
+          </td>
+          <td>
+           <a href="/wiki/Whig_Party_(United_States)" title="Whig Party (United States)">
+            Whig
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/1848_United_States_presidential_election" title="1848 United States presidential election">
+            1848
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Millard_Fillmore" title="Millard Fillmore">
+            Millard Fillmore
+           </a>
+           <br/>
+           <small>
+            <i>
+             (Succeeded to presidency)
+            </i>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Presidency_of_Millard_Fillmore" title="Presidency of Millard Fillmore">
+            13
+           </a>
+          </td>
+          <td>
+           <span class="date" style="white-space:nowrap;">
+            July 9, 1850
+            <br/>
+            <sup class="reference" id="cite_ref-Fillmore-oath_49-0">
+             <a href="#cite_note-Fillmore-oath-49">
+              [k]
+             </a>
+            </sup>
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1853
+           </span>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:Millard_Fillmore_by_Brady_Studio_1855-65-crop.jpg">
+            <img alt="Millard Fillmore by Brady Studio 1855-65-crop.jpg" data-file-height="2334" data-file-width="1667" decoding="async" height="231" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Millard_Fillmore_by_Brady_Studio_1855-65-crop.jpg/165px-Millard_Fillmore_by_Brady_Studio_1855-65-crop.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Millard_Fillmore_by_Brady_Studio_1855-65-crop.jpg/248px-Millard_Fillmore_by_Brady_Studio_1855-65-crop.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Millard_Fillmore_by_Brady_Studio_1855-65-crop.jpg/330px-Millard_Fillmore_by_Brady_Studio_1855-65-crop.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/Millard_Fillmore" title="Millard Fillmore">
+              Millard Fillmore
+             </a>
+            </big>
+           </b>
+           <br/>
+           18001874
+           <br/>
+           <small>
+            (Lived: 74 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-50">
+            <a href="#cite_note-50">
+             [39]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-51">
+            <a href="#cite_note-51">
+             [40]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-52">
+            <a href="#cite_note-52">
+             [41]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">
+            12th
+            <br/>
+            Vice President of the United States
+           </a>
+           <br/>
+           <small>
+            (18491850)
+           </small>
+          </td>
+          <td style="background-color:#F0C862">
+          </td>
+          <td>
+           <a href="/wiki/Whig_Party_(United_States)" title="Whig Party (United States)">
+            Whig
+           </a>
+          </td>
+          <td style="background:#ececec;vertical-align:middle;text-align:center;">
+           <i>
+            Office vacant
+           </i>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_Franklin_Pierce" title="Presidency of Franklin Pierce">
+            14
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1853
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1857
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:Franklin_Pierce_-_Cropped.jpg">
+            <img alt="Franklin Pierce - Cropped.jpg" data-file-height="1733" data-file-width="1414" decoding="async" height="202" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Franklin_Pierce_-_Cropped.jpg/165px-Franklin_Pierce_-_Cropped.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Franklin_Pierce_-_Cropped.jpg/248px-Franklin_Pierce_-_Cropped.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Franklin_Pierce_-_Cropped.jpg/330px-Franklin_Pierce_-_Cropped.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/Franklin_Pierce" title="Franklin Pierce">
+              Franklin Pierce
+             </a>
+            </big>
+           </b>
+           <br/>
+           18041869
+           <br/>
+           <small>
+            (Lived: 64 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-53">
+            <a href="#cite_note-53">
+             [42]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-54">
+            <a href="#cite_note-54">
+             [43]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-55">
+            <a href="#cite_note-55">
+             [44]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Brigadier_general_(United_States)" title="Brigadier general (United States)">
+            Brigadier General
+           </a>
+           of the
+           <a href="/wiki/9th_Infantry_Regiment_(United_States)" title="9th Infantry Regiment (United States)">
+            9th Infantry
+           </a>
+           <br/>
+           <a href="/wiki/United_States_Army" title="United States Army">
+            United States Army
+           </a>
+           <br/>
+           <small>
+            (18471848)
+           </small>
+          </td>
+          <td rowspan="2" style="background-color:#3333FF">
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">
+            Democratic
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/1852_United_States_presidential_election" title="1852 United States presidential election">
+            1852
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/William_R._King" title="William R. King">
+            William R. King
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             March 4
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             April 18, 1853
+            </span>
+            <br/>
+            <i>
+             (Died in office)
+            </i>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td style="background:#ececec;vertical-align:middle;text-align:center;">
+           <i>
+            Office vacant
+            <br/>
+            <small>
+             (Balance of King's term)
+            </small>
+           </i>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Presidency_of_James_Buchanan" title="Presidency of James Buchanan">
+            15
+           </a>
+          </td>
+          <td>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1857
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1861
+           </span>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:James_Buchanan.jpg">
+            <img alt="James Buchanan.jpg" data-file-height="682" data-file-width="627" decoding="async" height="179" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/James_Buchanan.jpg/165px-James_Buchanan.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/James_Buchanan.jpg/248px-James_Buchanan.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/James_Buchanan.jpg/330px-James_Buchanan.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/James_Buchanan" title="James Buchanan">
+              James Buchanan
+             </a>
+            </big>
+           </b>
+           <br/>
+           17911868
+           <br/>
+           <small>
+            (Lived: 77 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-56">
+            <a href="#cite_note-56">
+             [45]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-57">
+            <a href="#cite_note-57">
+             [46]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-58">
+            <a href="#cite_note-58">
+             [47]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a class="mw-redirect" href="/wiki/United_States_Ambassador_to_the_United_Kingdom" title="United States Ambassador to the United Kingdom">
+            United States Minister
+           </a>
+           to the
+           <br/>
+           <a href="/wiki/Court_of_St_James%27s" title="Court of St James's">
+            Court of St James's
+           </a>
+           <br/>
+           <small>
+            (18531856)
+           </small>
+          </td>
+          <td style="background-color:#3333FF">
+          </td>
+          <td>
+           <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">
+            Democratic
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1856_United_States_presidential_election" title="1856 United States presidential election">
+            1856
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/John_C._Breckinridge" title="John C. Breckinridge">
+            John C. Breckinridge
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_Abraham_Lincoln" title="Presidency of Abraham Lincoln">
+            16
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1861
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            April 15, 1865
+           </span>
+           <br/>
+           <small>
+            <i>
+             (
+             <a href="/wiki/Assassination_of_Abraham_Lincoln" title="Assassination of Abraham Lincoln">
+              Died in office
+             </a>
+             )
+            </i>
+           </small>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:Abraham_Lincoln_O-77_matte_collodion_print.jpg">
+            <img alt="Abraham Lincoln O-77 matte collodion print.jpg" data-file-height="700" data-file-width="560" decoding="async" height="206" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/165px-Abraham_Lincoln_O-77_matte_collodion_print.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/248px-Abraham_Lincoln_O-77_matte_collodion_print.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/330px-Abraham_Lincoln_O-77_matte_collodion_print.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/Abraham_Lincoln" title="Abraham Lincoln">
+              Abraham Lincoln
+             </a>
+            </big>
+           </b>
+           <br/>
+           18091865
+           <br/>
+           <small>
+            (Lived: 56 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-59">
+            <a href="#cite_note-59">
+             [48]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-60">
+            <a href="#cite_note-60">
+             [49]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-61">
+            <a href="#cite_note-61">
+             [50]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">
+            U.S. Representative
+           </a>
+           for
+           <a href="/wiki/Illinois%27s_7th_congressional_district" title="Illinois's 7th congressional district">
+            Illinois's 7th District
+           </a>
+           <br/>
+           <small>
+            (18471849)
+           </small>
+          </td>
+          <td style="background:#f33;">
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+           <br/>
+           <small>
+            (
+            <a href="/wiki/National_Union_Party_(United_States)" title="National Union Party (United States)">
+             National Union
+            </a>
+            )
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-union_62-0">
+            <a href="#cite_note-union-62">
+             [l]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a href="/wiki/1860_United_States_presidential_election" title="1860 United States presidential election">
+            1860
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Hannibal_Hamlin" title="Hannibal Hamlin">
+            Hannibal Hamlin
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1861
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1865
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td style="background-color:#B22222">
+          </td>
+          <td rowspan="3">
+           <a href="/wiki/1864_United_States_presidential_election" title="1864 United States presidential election">
+            1864
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Andrew_Johnson" title="Andrew Johnson">
+            Andrew Johnson
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             March 4
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             April 15, 1865
+            </span>
+            <br/>
+            <i>
+             (Succeeded to presidency)
+            </i>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_Andrew_Johnson" title="Presidency of Andrew Johnson">
+            17
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            April 15, 1865
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1869
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:Andrew_Johnson_photo_portrait_head_and_shoulders,_c1870-1880-Edit1.jpg">
+            <img alt="Andrew Johnson photo portrait head and shoulders, c1870-1880-Edit1.jpg" data-file-height="2634" data-file-width="2050" decoding="async" height="212" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg/165px-Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg/248px-Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg/330px-Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/Andrew_Johnson" title="Andrew Johnson">
+              Andrew Johnson
+             </a>
+            </big>
+           </b>
+           <br/>
+           18081875
+           <br/>
+           <small>
+            (Lived: 66 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-63">
+            <a href="#cite_note-63">
+             [51]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-64">
+            <a href="#cite_note-64">
+             [52]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-65">
+            <a href="#cite_note-65">
+             [53]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">
+            16th
+            <br/>
+            Vice President of the United States
+           </a>
+           <br/>
+           <small>
+            (1865)
+           </small>
+          </td>
+          <td style="background-color:#B22222">
+          </td>
+          <td>
+           <a href="/wiki/National_Union_Party_(United_States)" title="National Union Party (United States)">
+            National Union
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             April 15, 1865
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             c.
+             <span style="white-space:nowrap;">
+              1868
+             </span>
+            </span>
+           </small>
+          </td>
+          <td rowspan="2" style="background:#ececec;vertical-align:middle;text-align:center;">
+           <i>
+            Office vacant
+           </i>
+          </td>
+         </tr>
+         <tr>
+          <td style="background-color:#3333FF">
+          </td>
+          <td>
+           <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">
+            Democratic
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             c.
+             <span style="white-space:nowrap;">
+              1868
+             </span>
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1869
+            </span>
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-Johnson-party_66-0">
+            <a href="#cite_note-Johnson-party-66">
+             [m]
+            </a>
+           </sup>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="3">
+           <a href="/wiki/Presidency_of_Ulysses_S._Grant" title="Presidency of Ulysses S. Grant">
+            18
+           </a>
+          </td>
+          <td rowspan="3">
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1869
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1877
+           </span>
+          </td>
+          <td rowspan="3">
+           <a class="image" href="/wiki/File:Ulysses_S_Grant_by_Brady_c1870-restored.jpg">
+            <img alt="Ulysses S Grant by Brady c1870-restored.jpg" data-file-height="2518" data-file-width="2014" decoding="async" height="206" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ulysses_S_Grant_by_Brady_c1870-restored.jpg/165px-Ulysses_S_Grant_by_Brady_c1870-restored.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ulysses_S_Grant_by_Brady_c1870-restored.jpg/248px-Ulysses_S_Grant_by_Brady_c1870-restored.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ulysses_S_Grant_by_Brady_c1870-restored.jpg/330px-Ulysses_S_Grant_by_Brady_c1870-restored.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="3">
+           <b>
+            <big>
+             <a href="/wiki/Ulysses_S._Grant" title="Ulysses S. Grant">
+              Ulysses S. Grant
+             </a>
+            </big>
+           </b>
+           <br/>
+           18221885
+           <br/>
+           <small>
+            (Lived: 63 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-67">
+            <a href="#cite_note-67">
+             [54]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-68">
+            <a href="#cite_note-68">
+             [55]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-69">
+            <a href="#cite_note-69">
+             [56]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="3">
+           <a href="/wiki/Commanding_General_of_the_United_States_Army" title="Commanding General of the United States Army">
+            Commanding General
+            <span style="white-space:nowrap;">
+             of the U.S. Army
+            </span>
+           </a>
+           <br/>
+           <small>
+            (
+            <a href="/wiki/Ulysses_S._Grant_as_commanding_general,_1865%E2%80%931869" title="Ulysses S. Grant as commanding general, 18651869">
+             18641869
+            </a>
+            )
+            <br/>
+            <i>
+             (No prior elected office)
+            </i>
+           </small>
+          </td>
+          <td rowspan="3" style="background-color:#E81B23">
+          </td>
+          <td rowspan="3">
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1868_United_States_presidential_election" title="1868 United States presidential election">
+            1868
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Schuyler_Colfax" title="Schuyler Colfax">
+            Schuyler Colfax
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1869
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1873
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/1872_United_States_presidential_election" title="1872 United States presidential election">
+            1872
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Henry_Wilson" title="Henry Wilson">
+            Henry Wilson
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1873
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             November 22, 1875
+            </span>
+            <br/>
+            <i>
+             (Died in office)
+            </i>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td style="background:#ececec;vertical-align:middle;text-align:center;">
+           <i>
+            Office vacant
+            <br/>
+            <small>
+             (Balance of Wilson's term)
+            </small>
+           </i>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Presidency_of_Rutherford_B._Hayes" title="Presidency of Rutherford B. Hayes">
+            19
+           </a>
+          </td>
+          <td>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1877
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1881
+           </span>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:President_Rutherford_Hayes_1870_-_1880_Restored.jpg">
+            <img alt="President Rutherford Hayes 1870 - 1880 Restored.jpg" data-file-height="3688" data-file-width="3031" decoding="async" height="201" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/President_Rutherford_Hayes_1870_-_1880_Restored.jpg/165px-President_Rutherford_Hayes_1870_-_1880_Restored.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/President_Rutherford_Hayes_1870_-_1880_Restored.jpg/248px-President_Rutherford_Hayes_1870_-_1880_Restored.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/President_Rutherford_Hayes_1870_-_1880_Restored.jpg/330px-President_Rutherford_Hayes_1870_-_1880_Restored.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/Rutherford_B._Hayes" title="Rutherford B. Hayes">
+              Rutherford B. Hayes
+             </a>
+            </big>
+           </b>
+           <br/>
+           18221893
+           <br/>
+           <small>
+            (Lived: 70 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-70">
+            <a href="#cite_note-70">
+             [57]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-71">
+            <a href="#cite_note-71">
+             [58]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-72">
+            <a href="#cite_note-72">
+             [59]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a class="mw-redirect" href="/wiki/Governor_of_Ohio" title="Governor of Ohio">
+            29th &amp; 32nd
+            <br/>
+            Governor of Ohio
+           </a>
+           <br/>
+           <small>
+            (18681872 &amp; 18761877)
+           </small>
+          </td>
+          <td style="background-color:#E81B23">
+          </td>
+          <td>
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1876_United_States_presidential_election" title="1876 United States presidential election">
+            1876
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/William_A._Wheeler" title="William A. Wheeler">
+            William A. Wheeler
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           20
+          </td>
+          <td>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1881
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            September 19, 1881
+           </span>
+           <br/>
+           <small>
+            <i>
+             (
+             <a href="/wiki/Assassination_of_James_A._Garfield" title="Assassination of James A. Garfield">
+              Died in office
+             </a>
+             )
+            </i>
+           </small>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:James_Abram_Garfield,_photo_portrait_seated.jpg">
+            <img alt="James Abram Garfield, photo portrait seated.jpg" data-file-height="4034" data-file-width="3182" decoding="async" height="209" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg/165px-James_Abram_Garfield%2C_photo_portrait_seated.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg/248px-James_Abram_Garfield%2C_photo_portrait_seated.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg/330px-James_Abram_Garfield%2C_photo_portrait_seated.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/James_A._Garfield" title="James A. Garfield">
+              James A. Garfield
+             </a>
+            </big>
+           </b>
+           <br/>
+           18311881
+           <br/>
+           <small>
+            (Lived: 49 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-73">
+            <a href="#cite_note-73">
+             [60]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-74">
+            <a href="#cite_note-74">
+             [61]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-75">
+            <a href="#cite_note-75">
+             [62]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">
+            U.S. Representative
+           </a>
+           for
+           <a href="/wiki/Ohio%27s_19th_congressional_district" title="Ohio's 19th congressional district">
+            Ohio's 19th District
+           </a>
+           <br/>
+           <small>
+            (18631881)
+           </small>
+          </td>
+          <td style="background-color:#E81B23">
+          </td>
+          <td>
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/1880_United_States_presidential_election" title="1880 United States presidential election">
+            1880
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Chester_A._Arthur" title="Chester A. Arthur">
+            Chester A. Arthur
+           </a>
+           <br/>
+           <small>
+            <i>
+             (Succeeded to presidency)
+            </i>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Presidency_of_Chester_A._Arthur" title="Presidency of Chester A. Arthur">
+            21
+           </a>
+          </td>
+          <td>
+           <span class="date" style="white-space:nowrap;">
+            September 19, 1881
+            <br/>
+            <sup class="reference" id="cite_ref-Arthur-oath_76-0">
+             <a href="#cite_note-Arthur-oath-76">
+              [n]
+             </a>
+            </sup>
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1885
+           </span>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:Chester_Alan_Arthur.jpg">
+            <img alt="Chester Alan Arthur.jpg" data-file-height="3206" data-file-width="2763" decoding="async" height="191" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chester_Alan_Arthur.jpg/165px-Chester_Alan_Arthur.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chester_Alan_Arthur.jpg/248px-Chester_Alan_Arthur.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chester_Alan_Arthur.jpg/330px-Chester_Alan_Arthur.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/Chester_A._Arthur" title="Chester A. Arthur">
+              Chester A. Arthur
+             </a>
+            </big>
+           </b>
+           <br/>
+           18291886
+           <br/>
+           <small>
+            (Lived: 57 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-77">
+            <a href="#cite_note-77">
+             [63]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-78">
+            <a href="#cite_note-78">
+             [64]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-79">
+            <a href="#cite_note-79">
+             [65]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">
+            20th
+            <br/>
+            Vice President of the United States
+           </a>
+           <br/>
+           <small>
+            (1881)
+           </small>
+          </td>
+          <td style="background-color:#E81B23">
+          </td>
+          <td>
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+          </td>
+          <td style="background:#ececec;vertical-align:middle;text-align:center;">
+           <i>
+            Office vacant
+           </i>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidencies_of_Grover_Cleveland" title="Presidencies of Grover Cleveland">
+            22
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1885
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1889
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:Grover_Cleveland_-_NARA_-_518139_(cropped).jpg">
+            <img alt="Grover Cleveland - NARA - 518139 (cropped).jpg" data-file-height="2959" data-file-width="2297" decoding="async" height="213" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg/165px-Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg/248px-Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg/330px-Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/Grover_Cleveland" title="Grover Cleveland">
+              Grover Cleveland
+             </a>
+            </big>
+           </b>
+           <br/>
+           18371908
+           <br/>
+           <small>
+            (Lived: 71 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-HIS-grover_80-0">
+            <a href="#cite_note-HIS-grover-80">
+             [66]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-AP=grover_81-0">
+            <a href="#cite_note-AP=grover-81">
+             [67]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Governor_of_New_York" title="Governor of New York">
+            28th
+            <br/>
+            Governor of New York
+           </a>
+           <br/>
+           <small>
+            (18831885)
+           </small>
+          </td>
+          <td rowspan="2" style="background-color:#3333FF">
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">
+            Democratic
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/1884_United_States_presidential_election" title="1884 United States presidential election">
+            1884
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Thomas_A._Hendricks" title="Thomas A. Hendricks">
+            Thomas A. Hendricks
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             March 4
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             November 25, 1885
+            </span>
+            <br/>
+            <i>
+             (Died in office)
+            </i>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td style="background:#ececec;vertical-align:middle;text-align:center;">
+           <i>
+            Office vacant
+            <br/>
+            <small>
+             (Balance of Hendricks's term)
+            </small>
+           </i>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Presidency_of_Benjamin_Harrison" title="Presidency of Benjamin Harrison">
+            23
+           </a>
+          </td>
+          <td>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1889
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1893
+           </span>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:Benjamin_Harrison,_head_and_shoulders_bw_photo,_1896.jpg">
+            <img alt="Benjamin Harrison, head and shoulders bw photo, 1896.jpg" data-file-height="3282" data-file-width="2588" decoding="async" height="209" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg/165px-Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg/248px-Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg/330px-Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/Benjamin_Harrison" title="Benjamin Harrison">
+              Benjamin Harrison
+             </a>
+            </big>
+           </b>
+           <br/>
+           18331901
+           <br/>
+           <small>
+            (Lived: 67 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-82">
+            <a href="#cite_note-82">
+             [68]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-83">
+            <a href="#cite_note-83">
+             [69]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-84">
+            <a href="#cite_note-84">
+             [70]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a href="/wiki/United_States_Senate" title="United States Senate">
+            U.S. Senator
+           </a>
+           <span class="detail 2" style="display: none;">
+            (
+            <a href="/wiki/Classes_of_United_States_Senators" title="Classes of United States Senators">
+             Class 1
+            </a>
+            )
+           </span>
+           <span class="detail 1" style="white-space:nowrap;">
+            from
+            <a href="/wiki/Indiana" title="Indiana">
+             Indiana
+            </a>
+           </span>
+           <br/>
+           <small>
+            (18811887)
+           </small>
+          </td>
+          <td style="background-color:#E81B23">
+          </td>
+          <td>
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1888_United_States_presidential_election" title="1888 United States presidential election">
+            1888
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Levi_P._Morton" title="Levi P. Morton">
+            Levi P. Morton
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Presidencies_of_Grover_Cleveland" title="Presidencies of Grover Cleveland">
+            24
+           </a>
+          </td>
+          <td>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1893
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1897
+           </span>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:Grover_Cleveland_-_NARA_-_518139_(cropped).jpg">
+            <img alt="Grover Cleveland - NARA - 518139 (cropped).jpg" data-file-height="2959" data-file-width="2297" decoding="async" height="213" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg/165px-Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg/248px-Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg/330px-Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/Grover_Cleveland" title="Grover Cleveland">
+              Grover Cleveland
+             </a>
+            </big>
+           </b>
+           <br/>
+           18371908
+           <br/>
+           <small>
+            (Lived: 71 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-HIS-grover_80-1">
+            <a href="#cite_note-HIS-grover-80">
+             [66]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-AP=grover_81-1">
+            <a href="#cite_note-AP=grover-81">
+             [67]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a href="/wiki/President_of_the_United_States" title="President of the United States">
+            22nd
+            <br/>
+            President of the United States
+           </a>
+           <br/>
+           <small>
+            (18851889)
+           </small>
+          </td>
+          <td style="background-color:#3333FF">
+          </td>
+          <td>
+           <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">
+            Democratic
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1892_United_States_presidential_election" title="1892 United States presidential election">
+            1892
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Adlai_Stevenson_I" title="Adlai Stevenson I">
+            Adlai Stevenson
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="3">
+           <a href="/wiki/Presidency_of_William_McKinley" title="Presidency of William McKinley">
+            25
+           </a>
+          </td>
+          <td rowspan="3">
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1897
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            September 14, 1901
+           </span>
+           <br/>
+           <small>
+            <i>
+             (
+             <a href="/wiki/Assassination_of_William_McKinley" title="Assassination of William McKinley">
+              Died in office
+             </a>
+             )
+            </i>
+           </small>
+          </td>
+          <td rowspan="3">
+           <a class="image" href="/wiki/File:Mckinley.jpg">
+            <img alt="Mckinley.jpg" data-file-height="2812" data-file-width="2267" decoding="async" height="205" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mckinley.jpg/165px-Mckinley.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mckinley.jpg/248px-Mckinley.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mckinley.jpg/330px-Mckinley.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="3">
+           <b>
+            <big>
+             <a href="/wiki/William_McKinley" title="William McKinley">
+              William McKinley
+             </a>
+            </big>
+           </b>
+           <br/>
+           18431901
+           <br/>
+           <small>
+            (Lived: 58 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-85">
+            <a href="#cite_note-85">
+             [71]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-86">
+            <a href="#cite_note-86">
+             [72]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-87">
+            <a href="#cite_note-87">
+             [73]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="3">
+           <a class="mw-redirect" href="/wiki/Governor_of_Ohio" title="Governor of Ohio">
+            39th
+            <br/>
+            Governor of Ohio
+           </a>
+           <br/>
+           <small>
+            (18921896)
+           </small>
+          </td>
+          <td rowspan="3" style="background-color:#E81B23">
+          </td>
+          <td rowspan="3">
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/1896_United_States_presidential_election" title="1896 United States presidential election">
+            1896
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Garret_Hobart" title="Garret Hobart">
+            Garret Hobart
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1897
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             November 21, 1899
+            </span>
+            <br/>
+            <i>
+             (Died in office)
+            </i>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td style="background:#ececec;vertical-align:middle;text-align:center;">
+           <i>
+            Office vacant
+            <br/>
+            <small>
+             (Balance of Hobart's term)
+            </small>
+           </i>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/1900_United_States_presidential_election" title="1900 United States presidential election">
+            1900
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Theodore_Roosevelt" title="Theodore Roosevelt">
+            Theodore Roosevelt
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             March 4
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             September 14, 1901
+             <br/>
+             <i>
+              (Succeeded to presidency)
+             </i>
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_Theodore_Roosevelt" title="Presidency of Theodore Roosevelt">
+            26
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            September 14, 1901
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1909
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:President_Roosevelt_-_Pach_Bros.jpg">
+            <img alt="President Roosevelt - Pach Bros.jpg" data-file-height="3633" data-file-width="2573" decoding="async" height="233" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/President_Roosevelt_-_Pach_Bros.jpg/165px-President_Roosevelt_-_Pach_Bros.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/President_Roosevelt_-_Pach_Bros.jpg/248px-President_Roosevelt_-_Pach_Bros.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/President_Roosevelt_-_Pach_Bros.jpg/330px-President_Roosevelt_-_Pach_Bros.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/Theodore_Roosevelt" title="Theodore Roosevelt">
+              Theodore Roosevelt
+             </a>
+            </big>
+           </b>
+           <br/>
+           18581919
+           <br/>
+           <small>
+            (Lived: 60 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-88">
+            <a href="#cite_note-88">
+             [74]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-89">
+            <a href="#cite_note-89">
+             [75]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-90">
+            <a href="#cite_note-90">
+             [76]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">
+            25th
+            <br/>
+            Vice President of the United States
+           </a>
+           <br/>
+           <small>
+            (1901)
+           </small>
+          </td>
+          <td rowspan="2" style="background-color:#E81B23">
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+          </td>
+          <td style="background:#ececec;vertical-align:middle;text-align:center;">
+           <i>
+            Office vacant
+           </i>
+           <br/>
+           <small>
+            <span class="nowrap">
+             September 14, 1901
+            </span>
+            
+            <span class="nowrap">
+             March 4, 1905
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/1904_United_States_presidential_election" title="1904 United States presidential election">
+            1904
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Charles_W._Fairbanks" title="Charles W. Fairbanks">
+            Charles W. Fairbanks
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1905
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1909
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_William_Howard_Taft" title="Presidency of William Howard Taft">
+            27
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1909
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1913
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:William_Howard_Taft,_head-and-shoulders_portrait,_facing_front.jpg">
+            <img alt="William Howard Taft, head-and-shoulders portrait, facing front.jpg" data-file-height="3460" data-file-width="2595" decoding="async" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/William_Howard_Taft%2C_head-and-shoulders_portrait%2C_facing_front.jpg/165px-William_Howard_Taft%2C_head-and-shoulders_portrait%2C_facing_front.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/William_Howard_Taft%2C_head-and-shoulders_portrait%2C_facing_front.jpg/248px-William_Howard_Taft%2C_head-and-shoulders_portrait%2C_facing_front.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/William_Howard_Taft%2C_head-and-shoulders_portrait%2C_facing_front.jpg/330px-William_Howard_Taft%2C_head-and-shoulders_portrait%2C_facing_front.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/William_Howard_Taft" title="William Howard Taft">
+              William Howard Taft
+             </a>
+            </big>
+           </b>
+           <br/>
+           18571930
+           <br/>
+           <small>
+            (Lived: 72 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-91">
+            <a href="#cite_note-91">
+             [77]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-92">
+            <a href="#cite_note-92">
+             [78]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-93">
+            <a href="#cite_note-93">
+             [79]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/United_States_Secretary_of_War" title="United States Secretary of War">
+            42nd
+            <br/>
+            United States Secretary of War
+           </a>
+           <br/>
+           <small>
+            (19041908)
+           </small>
+          </td>
+          <td rowspan="2" style="background-color:#E81B23">
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/1908_United_States_presidential_election" title="1908 United States presidential election">
+            1908
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/James_S._Sherman" title="James S. Sherman">
+            James S. Sherman
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1909
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             October 30, 1912
+            </span>
+            <br/>
+            <i>
+             (Died in office)
+            </i>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td style="background:#ececec;vertical-align:middle;text-align:center;">
+           <i>
+            Office vacant
+            <br/>
+            <small>
+             (Balance of Sherman's term)
+            </small>
+           </i>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_Woodrow_Wilson" title="Presidency of Woodrow Wilson">
+            28
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1913
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1921
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:Woodrow_Wilson-H%26E.jpg">
+            <img alt="Woodrow Wilson-H&amp;E.jpg" data-file-height="2988" data-file-width="2308" decoding="async" height="214" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Woodrow_Wilson-H%26E.jpg/165px-Woodrow_Wilson-H%26E.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Woodrow_Wilson-H%26E.jpg/248px-Woodrow_Wilson-H%26E.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Woodrow_Wilson-H%26E.jpg/330px-Woodrow_Wilson-H%26E.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/Woodrow_Wilson" title="Woodrow Wilson">
+              Woodrow Wilson
+             </a>
+            </big>
+           </b>
+           <br/>
+           18561924
+           <br/>
+           <small>
+            (Lived: 67 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-94">
+            <a href="#cite_note-94">
+             [80]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-95">
+            <a href="#cite_note-95">
+             [81]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-96">
+            <a href="#cite_note-96">
+             [82]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Governor_of_New_Jersey" title="Governor of New Jersey">
+            34th
+            <br/>
+            Governor of New Jersey
+           </a>
+           <br/>
+           <small>
+            (19111913)
+           </small>
+          </td>
+          <td rowspan="2" style="background-color:#3333FF">
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">
+            Democratic
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1912_United_States_presidential_election" title="1912 United States presidential election">
+            1912
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Thomas_R._Marshall" title="Thomas R. Marshall">
+            Thomas R. Marshall
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/1916_United_States_presidential_election" title="1916 United States presidential election">
+            1916
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Presidency_of_Warren_G._Harding" title="Presidency of Warren G. Harding">
+            29
+           </a>
+          </td>
+          <td>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1921
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            August 2, 1923
+           </span>
+           <br/>
+           <small>
+            <i>
+             (Died in office)
+            </i>
+           </small>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:Warren_G_Harding-Harris_%26_Ewing.jpg">
+            <img alt="Warren G Harding-Harris &amp; Ewing.jpg" data-file-height="4302" data-file-width="3165" decoding="async" height="224" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Warren_G_Harding-Harris_%26_Ewing.jpg/165px-Warren_G_Harding-Harris_%26_Ewing.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Warren_G_Harding-Harris_%26_Ewing.jpg/248px-Warren_G_Harding-Harris_%26_Ewing.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Warren_G_Harding-Harris_%26_Ewing.jpg/330px-Warren_G_Harding-Harris_%26_Ewing.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/Warren_G._Harding" title="Warren G. Harding">
+              Warren G. Harding
+             </a>
+            </big>
+           </b>
+           <br/>
+           18651923
+           <br/>
+           <small>
+            (Lived: 57 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-97">
+            <a href="#cite_note-97">
+             [83]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-98">
+            <a href="#cite_note-98">
+             [84]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-99">
+            <a href="#cite_note-99">
+             [85]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a href="/wiki/United_States_Senate" title="United States Senate">
+            U.S. Senator
+           </a>
+           <span class="detail 2" style="display: none;">
+            (
+            <a href="/wiki/Classes_of_United_States_Senators" title="Classes of United States Senators">
+             Class 3
+            </a>
+            )
+           </span>
+           <span class="detail 1" style="white-space:nowrap;">
+            from
+            <a href="/wiki/Ohio" title="Ohio">
+             Ohio
+            </a>
+           </span>
+           <br/>
+           <small>
+            (19151921)
+           </small>
+          </td>
+          <td style="background-color:#E81B23">
+          </td>
+          <td>
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/1920_United_States_presidential_election" title="1920 United States presidential election">
+            1920
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Calvin_Coolidge" title="Calvin Coolidge">
+            Calvin Coolidge
+           </a>
+           <br/>
+           <small>
+            <i>
+             (Succeeded to presidency)
+            </i>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_Calvin_Coolidge" title="Presidency of Calvin Coolidge">
+            30
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            August 2, 1923
+            <br/>
+            <sup class="reference" id="cite_ref-Coolidge-oath_100-0">
+             <a href="#cite_note-Coolidge-oath-100">
+              [o]
+             </a>
+            </sup>
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1929
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:Calvin_Coolidge_cph.3g10777_(cropped).jpg">
+            <img alt="Calvin Coolidge cph.3g10777 (cropped).jpg" data-file-height="2000" data-file-width="1500" decoding="async" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Calvin_Coolidge_cph.3g10777_%28cropped%29.jpg/165px-Calvin_Coolidge_cph.3g10777_%28cropped%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Calvin_Coolidge_cph.3g10777_%28cropped%29.jpg/248px-Calvin_Coolidge_cph.3g10777_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Calvin_Coolidge_cph.3g10777_%28cropped%29.jpg/330px-Calvin_Coolidge_cph.3g10777_%28cropped%29.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/Calvin_Coolidge" title="Calvin Coolidge">
+              Calvin Coolidge
+             </a>
+            </big>
+           </b>
+           <br/>
+           18721933
+           <br/>
+           <small>
+            (Lived: 60 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-101">
+            <a href="#cite_note-101">
+             [86]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-102">
+            <a href="#cite_note-102">
+             [87]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-103">
+            <a href="#cite_note-103">
+             [88]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">
+            29th
+            <br/>
+            Vice President of the United States
+           </a>
+           <br/>
+           <small>
+            (19211923)
+           </small>
+          </td>
+          <td rowspan="2" style="background-color:#E81B23">
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+          </td>
+          <td style="background:#ececec;vertical-align:middle;text-align:center;">
+           <i>
+            Office vacant
+           </i>
+           <br/>
+           <small>
+            <span class="nowrap">
+             August 2, 1923
+            </span>
+            
+            <span class="nowrap">
+             March 4, 1925
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/1924_United_States_presidential_election" title="1924 United States presidential election">
+            1924
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Charles_G._Dawes" title="Charles G. Dawes">
+            Charles G. Dawes
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1925
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1929
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Presidency_of_Herbert_Hoover" title="Presidency of Herbert Hoover">
+            31
+           </a>
+          </td>
+          <td>
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1929
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            March 4, 1933
+           </span>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:President_Hoover_portrait.jpg">
+            <img alt="President Hoover portrait.jpg" data-file-height="1448" data-file-width="1087" decoding="async" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/President_Hoover_portrait.jpg/165px-President_Hoover_portrait.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/President_Hoover_portrait.jpg/248px-President_Hoover_portrait.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/President_Hoover_portrait.jpg/330px-President_Hoover_portrait.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/Herbert_Hoover" title="Herbert Hoover">
+              Herbert Hoover
+             </a>
+            </big>
+           </b>
+           <br/>
+           18741964
+           <br/>
+           <small>
+            (Lived: 90 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-104">
+            <a href="#cite_note-104">
+             [89]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-105">
+            <a href="#cite_note-105">
+             [90]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-106">
+            <a href="#cite_note-106">
+             [91]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a href="/wiki/United_States_Secretary_of_Commerce" title="United States Secretary of Commerce">
+            3rd
+            <br/>
+            United States Secretary of Commerce
+           </a>
+           <br/>
+           <small>
+            (19211928)
+            <br/>
+            <i>
+             (No prior elected office)
+            </i>
+           </small>
+          </td>
+          <td style="background-color:#E81B23">
+          </td>
+          <td>
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1928_United_States_presidential_election" title="1928 United States presidential election">
+            1928
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Charles_Curtis" title="Charles Curtis">
+            Charles Curtis
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="4">
+           <a href="/wiki/Presidency_of_Franklin_D._Roosevelt" title="Presidency of Franklin D. Roosevelt">
+            32
+           </a>
+          </td>
+          <td rowspan="4">
+           March 4, 1933
+           <br/>
+           
+           <br/>
+           April 12, 1945
+           <br/>
+           <small>
+            <i>
+             (Died in office)
+            </i>
+           </small>
+          </td>
+          <td rowspan="4">
+           <a class="image" href="/wiki/File:FDR_1944_Color_Portrait.jpg">
+            <img alt="FDR 1944 Color Portrait.jpg" data-file-height="3969" data-file-width="2754" decoding="async" height="238" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/165px-FDR_1944_Color_Portrait.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/248px-FDR_1944_Color_Portrait.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/330px-FDR_1944_Color_Portrait.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="4">
+           <b>
+            <big>
+             <a href="/wiki/Franklin_D._Roosevelt" title="Franklin D. Roosevelt">
+              Franklin D. Roosevelt
+             </a>
+            </big>
+           </b>
+           <br/>
+           18821945
+           <br/>
+           <small>
+            (Lived: 63 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-107">
+            <a href="#cite_note-107">
+             [92]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-108">
+            <a href="#cite_note-108">
+             [93]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-109">
+            <a href="#cite_note-109">
+             [94]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="4">
+           <a href="/wiki/Governor_of_New_York" title="Governor of New York">
+            44th
+            <br/>
+            Governor of New York
+           </a>
+           <br/>
+           <small>
+            (
+            <a href="/wiki/Governorship_of_Franklin_D._Roosevelt" title="Governorship of Franklin D. Roosevelt">
+             19291932
+            </a>
+            )
+           </small>
+          </td>
+          <td rowspan="4" style="background-color:#3333FF">
+          </td>
+          <td class="category" rowspan="4">
+           <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">
+            Democratic
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1932_United_States_presidential_election" title="1932 United States presidential election">
+            1932
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/John_Nance_Garner" title="John Nance Garner">
+            John N. Garner
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             March 4, 1933
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             January 20, 1941
+            </span>
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-Amendment_XX-term_110-0">
+            <a href="#cite_note-Amendment_XX-term-110">
+             [p]
+            </a>
+           </sup>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/1936_United_States_presidential_election" title="1936 United States presidential election">
+            1936
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/1940_United_States_presidential_election" title="1940 United States presidential election">
+            1940
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Henry_A._Wallace" title="Henry A. Wallace">
+            Henry A. Wallace
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             January 20, 1941
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             January 20, 1945
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/1944_United_States_presidential_election" title="1944 United States presidential election">
+            1944
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Harry_S._Truman" title="Harry S. Truman">
+            Harry S. Truman
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             January 20
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             April 12, 1945
+            </span>
+            <br/>
+            <i>
+             (Succeeded to presidency)
+            </i>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_Harry_S._Truman" title="Presidency of Harry S. Truman">
+            33
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            April 12, 1945
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            January 20, 1953
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:TRUMAN_58-766-06_CROPPED.jpg">
+            <img alt="TRUMAN 58-766-06 CROPPED.jpg" data-file-height="923" data-file-width="680" decoding="async" height="224" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/TRUMAN_58-766-06_CROPPED.jpg/165px-TRUMAN_58-766-06_CROPPED.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/TRUMAN_58-766-06_CROPPED.jpg/248px-TRUMAN_58-766-06_CROPPED.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/TRUMAN_58-766-06_CROPPED.jpg/330px-TRUMAN_58-766-06_CROPPED.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/Harry_S._Truman" title="Harry S. Truman">
+              Harry S. Truman
+             </a>
+            </big>
+           </b>
+           <br/>
+           18841972
+           <br/>
+           <small>
+            (Lived: 88 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-111">
+            <a href="#cite_note-111">
+             [95]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-112">
+            <a href="#cite_note-112">
+             [96]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-113">
+            <a href="#cite_note-113">
+             [97]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">
+            34th
+            <br/>
+            Vice President of the United States
+           </a>
+           <br/>
+           <small>
+            (1945)
+           </small>
+          </td>
+          <td rowspan="2" style="background-color:#3333FF">
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">
+            Democratic
+           </a>
+          </td>
+          <td style="background:#ececec;vertical-align:middle;text-align:center;">
+           <i>
+            Office vacant
+           </i>
+           <br/>
+           <small>
+            <span class="nowrap">
+             April 12, 1945
+            </span>
+            
+            <span class="nowrap">
+             January 20, 1949
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/1948_United_States_presidential_election" title="1948 United States presidential election">
+            1948
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Alben_W._Barkley" title="Alben W. Barkley">
+            Alben W. Barkley
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             January 20, 1949
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             January 20, 1953
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_Dwight_D._Eisenhower" title="Presidency of Dwight D. Eisenhower">
+            34
+           </a>
+          </td>
+          <td rowspan="2">
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            January 20, 1953
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            January 20, 1961
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg">
+            <img alt="Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg" data-file-height="3484" data-file-width="2782" decoding="async" height="207" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/165px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/248px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/330px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/Dwight_D._Eisenhower" title="Dwight D. Eisenhower">
+              Dwight D. Eisenhower
+             </a>
+            </big>
+           </b>
+           <br/>
+           18901969
+           <br/>
+           <small>
+            (Lived: 78 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-114">
+            <a href="#cite_note-114">
+             [98]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-115">
+            <a href="#cite_note-115">
+             [99]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-116">
+            <a href="#cite_note-116">
+             [100]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Supreme_Headquarters_Allied_Expeditionary_Force" title="Supreme Headquarters Allied Expeditionary Force">
+            Supreme Allied Commander Europe
+           </a>
+           <br/>
+           <small>
+            (
+            <a href="/wiki/Military_career_of_Dwight_D._Eisenhower" title="Military career of Dwight D. Eisenhower">
+             19491952
+            </a>
+            )
+            <br/>
+            <i>
+             (No prior elected office)
+            </i>
+           </small>
+          </td>
+          <td rowspan="2" style="background-color:#E81B23">
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1952_United_States_presidential_election" title="1952 United States presidential election">
+            1952
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Richard_Nixon" title="Richard Nixon">
+            Richard Nixon
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/1956_United_States_presidential_election" title="1956 United States presidential election">
+            1956
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Presidency_of_John_F._Kennedy" title="Presidency of John F. Kennedy">
+            35
+           </a>
+          </td>
+          <td>
+           <span class="date" style="white-space:nowrap;">
+            January 20, 1961
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            November 22, 1963
+           </span>
+           <br/>
+           <small>
+            <i>
+             (
+             <a href="/wiki/Assassination_of_John_F._Kennedy" title="Assassination of John F. Kennedy">
+              Died in office
+             </a>
+             )
+            </i>
+           </small>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:John_F._Kennedy,_White_House_color_photo_portrait.jpg">
+            <img alt="John F. Kennedy, White House color photo portrait.jpg" data-file-height="1840" data-file-width="1419" decoding="async" height="214" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/165px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/248px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/John_F._Kennedy" title="John F. Kennedy">
+              John F. Kennedy
+             </a>
+            </big>
+           </b>
+           <br/>
+           1917
+           <a href="/wiki/State_funeral_of_John_F._Kennedy" title="State funeral of John F. Kennedy">
+            1963
+           </a>
+           <br/>
+           <small>
+            (Lived: 46 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-117">
+            <a href="#cite_note-117">
+             [101]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-118">
+            <a href="#cite_note-118">
+             [102]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-119">
+            <a href="#cite_note-119">
+             [103]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a href="/wiki/United_States_Senate" title="United States Senate">
+            U.S. Senator
+           </a>
+           <span class="detail 2" style="display: none;">
+            (
+            <a href="/wiki/Classes_of_United_States_Senators" title="Classes of United States Senators">
+             Class 1
+            </a>
+            )
+           </span>
+           <span class="detail 1" style="white-space:nowrap;">
+            from
+            <a href="/wiki/Massachusetts" title="Massachusetts">
+             Massachusetts
+            </a>
+           </span>
+           <br/>
+           <small>
+            (19531960)
+           </small>
+          </td>
+          <td style="background-color:#3333FF">
+          </td>
+          <td>
+           <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">
+            Democratic
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/1960_United_States_presidential_election" title="1960 United States presidential election">
+            1960
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Lyndon_B._Johnson" title="Lyndon B. Johnson">
+            Lyndon B. Johnson
+           </a>
+           <br/>
+           <small>
+            <i>
+             (Succeeded to presidency)
+            </i>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_Lyndon_B._Johnson" title="Presidency of Lyndon B. Johnson">
+            36
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            November 22, 1963
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            January 20, 1969
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:37_Lyndon_Johnson_3x4.jpg">
+            <img alt="37 Lyndon Johnson 3x4.jpg" data-file-height="1228" data-file-width="924" decoding="async" height="219" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/37_Lyndon_Johnson_3x4.jpg/165px-37_Lyndon_Johnson_3x4.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/37_Lyndon_Johnson_3x4.jpg/248px-37_Lyndon_Johnson_3x4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/37_Lyndon_Johnson_3x4.jpg/330px-37_Lyndon_Johnson_3x4.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/Lyndon_B._Johnson" title="Lyndon B. Johnson">
+              Lyndon B. Johnson
+             </a>
+            </big>
+           </b>
+           <br/>
+           19081973
+           <br/>
+           <small>
+            (Lived: 64 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-120">
+            <a href="#cite_note-120">
+             [104]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-121">
+            <a href="#cite_note-121">
+             [105]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">
+            37th
+            <br/>
+            Vice President of the United States
+           </a>
+           <br/>
+           <small>
+            (19611963)
+           </small>
+          </td>
+          <td rowspan="2" style="background-color:#3333FF">
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">
+            Democratic
+           </a>
+          </td>
+          <td style="background:#ececec;vertical-align:middle;text-align:center;">
+           <i>
+            Office vacant
+           </i>
+           <br/>
+           <small>
+            <span class="nowrap">
+             November 22, 1963
+            </span>
+            
+            <span class="nowrap">
+             January 20, 1965
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/1964_United_States_presidential_election" title="1964 United States presidential election">
+            1964
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Hubert_Humphrey" title="Hubert Humphrey">
+            Hubert Humphrey
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             January 20, 1965
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             January 20, 1969
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="4">
+           <a href="/wiki/Presidency_of_Richard_Nixon" title="Presidency of Richard Nixon">
+            37
+           </a>
+          </td>
+          <td rowspan="4">
+           <span class="date" style="white-space:nowrap;">
+            January 20, 1969
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            August 9, 1974
+           </span>
+           <br/>
+           <small>
+            <i>
+             (
+             <a class="mw-redirect" href="/wiki/Resignation_of_Richard_Nixon" title="Resignation of Richard Nixon">
+              Resigned from office
+             </a>
+             )
+            </i>
+           </small>
+          </td>
+          <td rowspan="4">
+           <a class="image" href="/wiki/File:Richard_M._Nixon,_ca._1935_-_1982_-_NARA_-_530679.jpg">
+            <img alt="Richard M. Nixon, ca. 1935 - 1982 - NARA - 530679.jpg" data-file-height="3000" data-file-width="2539" decoding="async" height="195" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Richard_M._Nixon%2C_ca._1935_-_1982_-_NARA_-_530679.jpg/165px-Richard_M._Nixon%2C_ca._1935_-_1982_-_NARA_-_530679.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Richard_M._Nixon%2C_ca._1935_-_1982_-_NARA_-_530679.jpg/248px-Richard_M._Nixon%2C_ca._1935_-_1982_-_NARA_-_530679.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Richard_M._Nixon%2C_ca._1935_-_1982_-_NARA_-_530679.jpg/330px-Richard_M._Nixon%2C_ca._1935_-_1982_-_NARA_-_530679.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="4">
+           <b>
+            <big>
+             <a href="/wiki/Richard_Nixon" title="Richard Nixon">
+              Richard Nixon
+             </a>
+            </big>
+           </b>
+           <br/>
+           1913
+           <a href="/wiki/Death_and_state_funeral_of_Richard_Nixon" title="Death and state funeral of Richard Nixon">
+            1994
+           </a>
+           <br/>
+           <small>
+            (Lived: 81 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-122">
+            <a href="#cite_note-122">
+             [106]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-123">
+            <a href="#cite_note-123">
+             [107]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-124">
+            <a href="#cite_note-124">
+             [108]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="4">
+           <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">
+            36th
+            <br/>
+            Vice President of the United States
+           </a>
+           <br/>
+           <small>
+            (19531961)
+           </small>
+          </td>
+          <td rowspan="4" style="background-color:#E81B23">
+          </td>
+          <td rowspan="4">
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1968_United_States_presidential_election" title="1968 United States presidential election">
+            1968
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Spiro_Agnew" title="Spiro Agnew">
+            Spiro Agnew
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             January 20, 1969
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             October 10, 1973
+            </span>
+            <br/>
+            <i>
+             (Resigned from office)
+            </i>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="5">
+           <a href="/wiki/1972_United_States_presidential_election" title="1972 United States presidential election">
+            1972
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td style="background:#ececec;vertical-align:middle;text-align:center;">
+           <i>
+            Office vacant
+           </i>
+           <br/>
+           <small>
+            <span class="nowrap">
+             October 10
+            </span>
+            
+            <span class="nowrap">
+             December 6, 1973
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Gerald_Ford" title="Gerald Ford">
+            Gerald Ford
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             December 6, 1973
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             August 9, 1974
+             <br/>
+             <i>
+              (Succeeded to presidency)
+             </i>
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_Gerald_Ford" title="Presidency of Gerald Ford">
+            38
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            August 9, 1974
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            January 20, 1977
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:Gerald_Ford_presidential_portrait.jpg">
+            <img alt="Gerald Ford presidential portrait.jpg" data-file-height="2969" data-file-width="2200" decoding="async" height="223" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gerald_Ford_presidential_portrait.jpg/165px-Gerald_Ford_presidential_portrait.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gerald_Ford_presidential_portrait.jpg/248px-Gerald_Ford_presidential_portrait.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gerald_Ford_presidential_portrait.jpg/330px-Gerald_Ford_presidential_portrait.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/Gerald_Ford" title="Gerald Ford">
+              Gerald Ford
+             </a>
+            </big>
+           </b>
+           <br/>
+           1913
+           <a href="/wiki/Death_and_state_funeral_of_Gerald_Ford" title="Death and state funeral of Gerald Ford">
+            2006
+           </a>
+           <br/>
+           <small>
+            (Lived: 93 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-125">
+            <a href="#cite_note-125">
+             [109]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-126">
+            <a href="#cite_note-126">
+             [110]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-127">
+            <a href="#cite_note-127">
+             [111]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">
+            40th
+            <br/>
+            Vice President of the United States
+           </a>
+           <br/>
+           <small>
+            (19731974)
+           </small>
+          </td>
+          <td rowspan="2" style="background-color:#E81B23">
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+          </td>
+          <td style="background:#ececec;vertical-align:middle;text-align:center;">
+           <i>
+            Office vacant
+           </i>
+           <br/>
+           <small>
+            <span class="nowrap">
+             August 9
+            </span>
+            
+            <span class="nowrap">
+             December 19, 1974
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Nelson_Rockefeller" title="Nelson Rockefeller">
+            Nelson Rockefeller
+           </a>
+           <br/>
+           <small>
+            <span class="date" style="white-space:nowrap;">
+             December 19, 1974
+            </span>
+            
+            <span class="date" style="white-space:nowrap;">
+             January 20, 1977
+            </span>
+           </small>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Presidency_of_Jimmy_Carter" title="Presidency of Jimmy Carter">
+            39
+           </a>
+          </td>
+          <td>
+           <span class="date" style="white-space:nowrap;">
+            January 20, 1977
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            January 20, 1981
+           </span>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:JimmyCarterPortrait2.jpg">
+            <img alt="JimmyCarterPortrait2.jpg" data-file-height="2027" data-file-width="1650" decoding="async" height="203" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/JimmyCarterPortrait2.jpg/165px-JimmyCarterPortrait2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/JimmyCarterPortrait2.jpg/248px-JimmyCarterPortrait2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/JimmyCarterPortrait2.jpg/330px-JimmyCarterPortrait2.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/Jimmy_Carter" title="Jimmy Carter">
+              Jimmy Carter
+             </a>
+            </big>
+           </b>
+           <br/>
+           Born 1924
+           <br/>
+           <small>
+            <i>
+             (
+             <span class="currentage">
+             </span>
+             94 years old)
+            </i>
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-128">
+            <a href="#cite_note-128">
+             [112]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-129">
+            <a href="#cite_note-129">
+             [113]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-130">
+            <a href="#cite_note-130">
+             [114]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a class="mw-redirect" href="/wiki/Governor_of_Georgia" title="Governor of Georgia">
+            76th
+            <br/>
+            Governor of Georgia
+           </a>
+           <br/>
+           <small>
+            (19711975)
+           </small>
+          </td>
+          <td style="background-color:#3333FF">
+          </td>
+          <td>
+           <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">
+            Democratic
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1976_United_States_presidential_election" title="1976 United States presidential election">
+            1976
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Walter_Mondale" title="Walter Mondale">
+            Walter Mondale
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_Ronald_Reagan" title="Presidency of Ronald Reagan">
+            40
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            January 20, 1981
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            January 20, 1989
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:Official_Portrait_of_President_Reagan_1981.jpg">
+            <img alt="Official Portrait of President Reagan 1981.jpg" data-file-height="3000" data-file-width="2399" decoding="async" height="206" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/165px-Official_Portrait_of_President_Reagan_1981.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/248px-Official_Portrait_of_President_Reagan_1981.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/Ronald_Reagan" title="Ronald Reagan">
+              Ronald Reagan
+             </a>
+            </big>
+           </b>
+           <br/>
+           1911
+           <a href="/wiki/Death_and_state_funeral_of_Ronald_Reagan" title="Death and state funeral of Ronald Reagan">
+            2004
+           </a>
+           <br/>
+           <small>
+            (Lived: 93 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-131">
+            <a href="#cite_note-131">
+             [115]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-132">
+            <a href="#cite_note-132">
+             [116]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-133">
+            <a href="#cite_note-133">
+             [117]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Governor_of_California" title="Governor of California">
+            33rd
+            <br/>
+            Governor of California
+           </a>
+           <br/>
+           <small>
+            (
+            <a href="/wiki/Governorship_of_Ronald_Reagan" title="Governorship of Ronald Reagan">
+             19671975
+            </a>
+            )
+           </small>
+          </td>
+          <td rowspan="2" style="background-color:#E81B23">
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1980_United_States_presidential_election" title="1980 United States presidential election">
+            1980
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/George_H._W._Bush" title="George H. W. Bush">
+            George H. W. Bush
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/1984_United_States_presidential_election" title="1984 United States presidential election">
+            1984
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Presidency_of_George_H._W._Bush" title="Presidency of George H. W. Bush">
+            41
+           </a>
+          </td>
+          <td>
+           <span class="date" style="white-space:nowrap;">
+            January 20, 1989
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            January 20, 1993
+           </span>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:George_H._W._Bush,_President_of_the_United_States,_1989_official_portrait_(cropped).jpg">
+            <img alt="George H. W. Bush, President of the United States, 1989 official portrait (cropped).jpg" data-file-height="1850" data-file-width="1471" decoding="async" height="208" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/George_H._W._Bush%2C_President_of_the_United_States%2C_1989_official_portrait_%28cropped%29.jpg/165px-George_H._W._Bush%2C_President_of_the_United_States%2C_1989_official_portrait_%28cropped%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/George_H._W._Bush%2C_President_of_the_United_States%2C_1989_official_portrait_%28cropped%29.jpg/248px-George_H._W._Bush%2C_President_of_the_United_States%2C_1989_official_portrait_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/George_H._W._Bush%2C_President_of_the_United_States%2C_1989_official_portrait_%28cropped%29.jpg/330px-George_H._W._Bush%2C_President_of_the_United_States%2C_1989_official_portrait_%28cropped%29.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/George_H._W._Bush" title="George H. W. Bush">
+              George H. W. Bush
+             </a>
+            </big>
+           </b>
+           <br/>
+           1924
+           <a href="/wiki/Death_and_state_funeral_of_George_H._W._Bush" title="Death and state funeral of George H. W. Bush">
+            2018
+           </a>
+           <br/>
+           <small>
+            (Lived: 94 years)
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-134">
+            <a href="#cite_note-134">
+             [118]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-135">
+            <a href="#cite_note-135">
+             [119]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-136">
+            <a href="#cite_note-136">
+             [120]
+            </a>
+           </sup>
+          </td>
+          <td>
+           <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">
+            43rd
+            <br/>
+            Vice President of the United States
+           </a>
+           <br/>
+           <small>
+            (19811989)
+           </small>
+          </td>
+          <td style="background-color:#E81B23">
+          </td>
+          <td>
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1988_United_States_presidential_election" title="1988 United States presidential election">
+            1988
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Dan_Quayle" title="Dan Quayle">
+            Dan Quayle
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_Bill_Clinton" title="Presidency of Bill Clinton">
+            42
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            January 20, 1993
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            January 20, 2001
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:Bill_Clinton.jpg">
+            <img alt="Bill Clinton.jpg" data-file-height="3000" data-file-width="2299" decoding="async" height="215" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/165px-Bill_Clinton.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/248px-Bill_Clinton.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/330px-Bill_Clinton.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/Bill_Clinton" title="Bill Clinton">
+              Bill Clinton
+             </a>
+            </big>
+           </b>
+           <br/>
+           Born 1946
+           <br/>
+           <small>
+            <i>
+             (
+             <span class="currentage">
+             </span>
+             72 years old)
+            </i>
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-137">
+            <a href="#cite_note-137">
+             [121]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-138">
+            <a href="#cite_note-138">
+             [122]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-139">
+            <a href="#cite_note-139">
+             [123]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a class="mw-redirect" href="/wiki/Governor_of_Arkansas" title="Governor of Arkansas">
+            40th &amp; 42nd
+            <br/>
+            Governor of Arkansas
+           </a>
+           <br/>
+           <small>
+            (19791981 &amp; 19831992)
+           </small>
+          </td>
+          <td rowspan="2" style="background-color:#3333FF">
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">
+            Democratic
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/1992_United_States_presidential_election" title="1992 United States presidential election">
+            1992
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Al_Gore" title="Al Gore">
+            Al Gore
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/1996_United_States_presidential_election" title="1996 United States presidential election">
+            1996
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_George_W._Bush" title="Presidency of George W. Bush">
+            43
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            January 20, 2001
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            January 20, 2009
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:George-W-Bush.jpeg">
+            <img alt="George-W-Bush.jpeg" data-file-height="3000" data-file-width="2267" decoding="async" height="218" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/165px-George-W-Bush.jpeg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/248px-George-W-Bush.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/330px-George-W-Bush.jpeg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/George_W._Bush" title="George W. Bush">
+              George W. Bush
+             </a>
+            </big>
+           </b>
+           <br/>
+           Born 1946
+           <br/>
+           <small>
+            <i>
+             (
+             <span class="currentage">
+             </span>
+             72 years old)
+            </i>
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-140">
+            <a href="#cite_note-140">
+             [124]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-141">
+            <a href="#cite_note-141">
+             [125]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Governor_of_Texas" title="Governor of Texas">
+            46th
+            <br/>
+            Governor of Texas
+           </a>
+           <br/>
+           <small>
+            (
+            <a href="/wiki/Governorship_of_George_W._Bush" title="Governorship of George W. Bush">
+             19952000
+            </a>
+            )
+           </small>
+          </td>
+          <td rowspan="2" style="background-color:#E81B23">
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/2000_United_States_presidential_election" title="2000 United States presidential election">
+            2000
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Dick_Cheney" title="Dick Cheney">
+            Dick Cheney
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/2004_United_States_presidential_election" title="2004 United States presidential election">
+            2004
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td rowspan="2">
+           <a href="/wiki/Presidency_of_Barack_Obama" title="Presidency of Barack Obama">
+            44
+           </a>
+          </td>
+          <td rowspan="2">
+           <span class="date" style="white-space:nowrap;">
+            January 20, 2009
+           </span>
+           <br/>
+           
+           <br/>
+           <span class="date" style="white-space:nowrap;">
+            January 20, 2017
+           </span>
+          </td>
+          <td rowspan="2">
+           <a class="image" href="/wiki/File:Official_portrait_of_Barack_Obama.jpg">
+            <img alt="Official portrait of Barack Obama.jpg" data-file-height="2608" data-file-width="1916" decoding="async" height="225" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Official_portrait_of_Barack_Obama.jpg/165px-Official_portrait_of_Barack_Obama.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Official_portrait_of_Barack_Obama.jpg/248px-Official_portrait_of_Barack_Obama.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Official_portrait_of_Barack_Obama.jpg/330px-Official_portrait_of_Barack_Obama.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td rowspan="2">
+           <b>
+            <big>
+             <a href="/wiki/Barack_Obama" title="Barack Obama">
+              Barack Obama
+             </a>
+            </big>
+           </b>
+           <br/>
+           Born 1961
+           <br/>
+           <small>
+            <i>
+             (
+             <span class="currentage">
+             </span>
+             57 years old)
+            </i>
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-142">
+            <a href="#cite_note-142">
+             [126]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-143">
+            <a href="#cite_note-143">
+             [127]
+            </a>
+           </sup>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/United_States_Senate" title="United States Senate">
+            U.S. Senator
+           </a>
+           <span class="detail 2" style="display: none;">
+            (
+            <a href="/wiki/Classes_of_United_States_Senators" title="Classes of United States Senators">
+             Class 3
+            </a>
+            )
+           </span>
+           <span class="detail 1" style="white-space:nowrap;">
+            from
+            <a href="/wiki/Illinois" title="Illinois">
+             Illinois
+            </a>
+           </span>
+           <br/>
+           <small>
+            (
+            <a href="/wiki/United_States_Senate_career_of_Barack_Obama" title="United States Senate career of Barack Obama">
+             20052008
+            </a>
+            )
+           </small>
+          </td>
+          <td rowspan="2" style="background-color:#3333FF">
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">
+            Democratic
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/2008_United_States_presidential_election" title="2008 United States presidential election">
+            2008
+           </a>
+          </td>
+          <td rowspan="2">
+           <a href="/wiki/Joe_Biden" title="Joe Biden">
+            Joe Biden
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/2012_United_States_presidential_election" title="2012 United States presidential election">
+            2012
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           <a href="/wiki/Presidency_of_Donald_Trump" title="Presidency of Donald Trump">
+            45
+           </a>
+          </td>
+          <td>
+           <span class="date" style="white-space:nowrap;">
+            January 20, 2017
+           </span>
+           <br/>
+           
+           <br/>
+           <a href="/wiki/Incumbent" title="Incumbent">
+            Incumbent
+           </a>
+          </td>
+          <td>
+           <a class="image" href="/wiki/File:Donald_Trump_official_portrait.jpg">
+            <img alt="Donald Trump official portrait.jpg" data-file-height="2850" data-file-width="2250" decoding="async" height="209" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/165px-Donald_Trump_official_portrait.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/248px-Donald_Trump_official_portrait.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/330px-Donald_Trump_official_portrait.jpg 2x" width="165"/>
+           </a>
+          </td>
+          <td>
+           <b>
+            <big>
+             <a href="/wiki/Donald_Trump" title="Donald Trump">
+              Donald Trump
+             </a>
+            </big>
+           </b>
+           <br/>
+           Born 1946
+           <br/>
+           <small>
+            <i>
+             (
+             <span class="currentage">
+             </span>
+             72 years old)
+            </i>
+           </small>
+           <br/>
+           <sup class="reference" id="cite_ref-whousetrump_144-0">
+            <a href="#cite_note-whousetrump-144">
+             [128]
+            </a>
+           </sup>
+           <sup class="reference" id="cite_ref-145">
+            <a href="#cite_note-145">
+             [129]
+            </a>
+           </sup>
+          </td>
+          <td>
+           Chairman of
+           <br/>
+           <a href="/wiki/The_Trump_Organization" title="The Trump Organization">
+            The Trump Organization
+           </a>
+           <br/>
+           <small>
+            (
+            <a href="/wiki/Business_career_of_Donald_Trump" title="Business career of Donald Trump">
+             19712017
+            </a>
+            )
+            <br/>
+            <i>
+             (No prior elected office)
+            </i>
+           </small>
+          </td>
+          <td style="background-color:#E81B23">
+          </td>
+          <td>
+           <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+            Republican
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/2016_United_States_presidential_election" title="2016 United States presidential election">
+            2016
+           </a>
+          </td>
+          <td>
+           <a href="/wiki/Mike_Pence" title="Mike Pence">
+            Mike Pence
+           </a>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+      </center>
+      <h2>
+       <span class="mw-headline" id="Subsequent_public_office">
+        Subsequent public office
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=List_of_Presidents_of_the_United_States&amp;action=edit&amp;section=2" title="Edit section: Subsequent public office">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Three presidents held another U.S. federal office after serving as president.
+      </p>
+      <table class="wikitable" style="margin-left:auto; margin-right:auto; border:none;">
+       <tbody>
+        <tr>
+         <th>
+          President
+         </th>
+         <th colspan="2">
+          Presidency
+          <sup class="reference" id="cite_ref-No_3-1">
+           <a href="#cite_note-No-3">
+            [a]
+           </a>
+          </sup>
+         </th>
+         <th>
+          Subsequent service
+         </th>
+        </tr>
+        <tr>
+         <td nowrap="">
+          <a href="/wiki/John_Quincy_Adams" title="John Quincy Adams">
+           John Quincy Adams
+          </a>
+         </td>
+         <td>
+          6
+         </td>
+         <td style="text-align:center;">
+          18251829
+         </td>
+         <td>
+          <a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">
+           U.S. Representative
+          </a>
+          from
+          <a href="/wiki/Massachusetts" title="Massachusetts">
+           Massachusetts
+          </a>
+          (18311848)
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/wiki/Andrew_Johnson" title="Andrew Johnson">
+           Andrew Johnson
+          </a>
+         </td>
+         <td>
+          17
+         </td>
+         <td style="text-align:center;">
+          18651869
+         </td>
+         <td>
+          <a href="/wiki/United_States_Senate" title="United States Senate">
+           U.S. Senator
+          </a>
+          from
+          <a href="/wiki/Tennessee" title="Tennessee">
+           Tennessee
+          </a>
+          (1875)
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/wiki/William_Howard_Taft" title="William Howard Taft">
+           William Howard Taft
+          </a>
+         </td>
+         <td>
+          27
+         </td>
+         <td style="text-align:center;">
+          19091913
+         </td>
+         <td>
+          10th
+          <a href="/wiki/Chief_Justice_of_the_United_States" title="Chief Justice of the United States">
+           Chief Justice of the United States
+          </a>
+          (19211930)
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <p>
+       Two presidents campaigned unsuccessfully for other U.S. state or federal elective offices after serving as president.
+      </p>
+      <table class="wikitable" style="margin-left:auto; margin-right:auto; border:none;">
+       <tbody>
+        <tr>
+         <th>
+          President
+         </th>
+         <th colspan="2">
+          Presidency
+          <sup class="reference" id="cite_ref-No_3-2">
+           <a href="#cite_note-No-3">
+            [a]
+           </a>
+          </sup>
+         </th>
+         <th>
+          Office sought unsuccessfully
+         </th>
+        </tr>
+        <tr>
+         <td nowrap="">
+          <a href="/wiki/John_Quincy_Adams" title="John Quincy Adams">
+           John Quincy Adams
+          </a>
+         </td>
+         <td>
+          6
+         </td>
+         <td style="text-align:center;">
+          18251829
+         </td>
+         <td>
+          <a href="/wiki/Governor_of_Massachusetts" title="Governor of Massachusetts">
+           Governor of Massachusetts
+          </a>
+          (
+          <a href="/wiki/John_Quincy_Adams#Later_congressional_career_(18301848)" title="John Quincy Adams">
+           1833
+          </a>
+          )
+         </td>
+        </tr>
+        <tr>
+         <td rowspan="2">
+          <a href="/wiki/Andrew_Johnson" title="Andrew Johnson">
+           Andrew Johnson
+          </a>
+         </td>
+         <td rowspan="2">
+          17
+         </td>
+         <td rowspan="2" style="text-align:center;">
+          18651869
+         </td>
+         <td>
+          <a href="/wiki/United_States_Senate" title="United States Senate">
+           U.S. Senator
+          </a>
+          from
+          <a href="/wiki/Tennessee" title="Tennessee">
+           Tennessee
+          </a>
+          (
+          <a class="mw-redirect" href="/wiki/United_States_Senate_elections,_1870_and_1871" title="United States Senate elections, 1870 and 1871">
+           1870
+          </a>
+          )
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">
+           U.S. Representative
+          </a>
+          from
+          <a href="/wiki/Tennessee" title="Tennessee">
+           Tennessee
+          </a>
+          (
+          <a class="mw-redirect" href="/wiki/United_States_House_of_Representatives_elections,_1872" title="United States House of Representatives elections, 1872">
+           1872
+          </a>
+          )
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <p>
+       Many presidents have campaigned unsuccessfully for another term as President. Five did so after a gap of at least one term since they served:
+      </p>
+      <table class="wikitable" style="margin-left:auto; margin-right:auto; border:none;">
+       <tbody>
+        <tr>
+         <th>
+          President
+         </th>
+         <th colspan="2">
+          Presidency
+          <sup class="reference" id="cite_ref-No_3-3">
+           <a href="#cite_note-No-3">
+            [a]
+           </a>
+          </sup>
+         </th>
+         <th>
+          Office sought unsuccessfully
+         </th>
+        </tr>
+        <tr>
+         <td rowspan="2">
+          <a href="/wiki/Martin_Van_Buren" title="Martin Van Buren">
+           Martin Van Buren
+          </a>
+         </td>
+         <td rowspan="2">
+          8
+         </td>
+         <td rowspan="2" style="text-align:center;">
+          18371841
+         </td>
+         <td>
+          President of the United States (
+          <a href="/wiki/1844_Democratic_National_Convention" title="1844 Democratic National Convention">
+           1844
+          </a>
+          )
+         </td>
+        </tr>
+        <tr>
+         <td>
+          President of the United States (
+          <a class="mw-redirect" href="/wiki/United_States_presidential_election,_1848" title="United States presidential election, 1848">
+           1848
+          </a>
+          )
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/wiki/Millard_Fillmore" title="Millard Fillmore">
+           Millard Fillmore
+          </a>
+         </td>
+         <td>
+          13
+         </td>
+         <td style="text-align:center;">
+          18501853
+         </td>
+         <td>
+          President of the United States (
+          <a class="mw-redirect" href="/wiki/United_States_presidential_election,_1856" title="United States presidential election, 1856">
+           1856
+          </a>
+          )
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/wiki/Ulysses_S._Grant" title="Ulysses S. Grant">
+           Ulysses S. Grant
+          </a>
+         </td>
+         <td>
+          18
+         </td>
+         <td style="text-align:center;">
+          18691877
+         </td>
+         <td>
+          President of the United States (
+          <a href="/wiki/1880_Republican_National_Convention" title="1880 Republican National Convention">
+           1880
+          </a>
+          )
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/wiki/Theodore_Roosevelt" title="Theodore Roosevelt">
+           Theodore Roosevelt
+          </a>
+         </td>
+         <td>
+          26
+         </td>
+         <td style="text-align:center;">
+          19011909
+         </td>
+         <td>
+          President of the United States (
+          <a class="mw-redirect" href="/wiki/United_States_presidential_election,_1912" title="United States presidential election, 1912">
+           1912
+          </a>
+          )
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/wiki/Herbert_Hoover" title="Herbert Hoover">
+           Herbert Hoover
+          </a>
+         </td>
+         <td>
+          31
+         </td>
+         <td style="text-align:center;">
+          19291933
+         </td>
+         <td>
+          President of the United States (
+          <a href="/wiki/1940_Republican_National_Convention" title="1940 Republican National Convention">
+           1940
+          </a>
+          )
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <p>
+       Additionally, one former president,
+       <a href="/wiki/John_Tyler" title="John Tyler">
+        John Tyler
+       </a>
+       , served in the government of the
+       <a class="mw-redirect" href="/wiki/Confederate_States" title="Confederate States">
+        Confederate States
+       </a>
+       during the
+       <a href="/wiki/American_Civil_War" title="American Civil War">
+        American Civil War
+       </a>
+       . Tyler served in the
+       <a class="mw-redirect" href="/wiki/Provisional_Confederate_States_Congress" title="Provisional Confederate States Congress">
+        Provisional Confederate Congress
+       </a>
+       from 1861 to 1862. He was elected to the
+       <a class="mw-redirect" href="/wiki/Congress_of_the_Confederate_States" title="Congress of the Confederate States">
+        Confederate House of Representatives
+       </a>
+       in November 1861, but died before he could take his seat.
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=List_of_Presidents_of_the_United_States&amp;action=edit&amp;section=3" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+       <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <img alt="" class="noviewer" data-file-height="1944" data-file-width="1911" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/28px-P_vip.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/41px-P_vip.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/55px-P_vip.svg.png 2x" width="28"/>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Biography" title="Portal:Biography">
+           Biography portal
+          </a>
+         </span>
+        </li>
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <img alt="flag" class="noviewer thumbborder" data-file-height="650" data-file-width="1235" decoding="async" height="17" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/48px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/64px-Flag_of_the_United_States.svg.png 2x" width="32"/>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:United_States" title="Portal:United States">
+           United States portal
+          </a>
+         </span>
+        </li>
+        <li style="display:table-row">
+         <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+          <img alt="" class="noviewer" data-file-height="600" data-file-width="600" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/28px-Great_Seal_of_the_United_States_%28obverse%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/42px-Great_Seal_of_the_United_States_%28obverse%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/56px-Great_Seal_of_the_United_States_%28obverse%29.svg.png 2x" width="28"/>
+         </span>
+         <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+          <a href="/wiki/Portal:Government_of_the_United_States" title="Portal:Government of the United States">
+           Government of the United States portal
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <ul>
+       <li>
+        <a href="/wiki/Acting_President_of_the_United_States" title="Acting President of the United States">
+         Acting President of the United States
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Founding_Fathers_of_the_United_States" title="Founding Fathers of the United States">
+         Founding Fathers of the United States
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/List_of_Presidents_of_the_Continental_Congress" title="List of Presidents of the Continental Congress">
+         List of Presidents of the Continental Congress
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/List_of_Vice_Presidents_of_the_United_States" title="List of Vice Presidents of the United States">
+         List of Vice Presidents of the United States
+        </a>
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="Notes">
+        Notes
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=List_of_Presidents_of_the_United_States&amp;action=edit&amp;section=4" title="Edit section: Notes">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: lower-alpha;">
+       <ol class="references">
+        <li id="cite_note-No-3">
+         <span class="mw-cite-backlink">
+          ^
+          <a href="#cite_ref-No_3-0">
+           <sup>
+            <i>
+             <b>
+              a
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-No_3-1">
+           <sup>
+            <i>
+             <b>
+              b
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-No_3-2">
+           <sup>
+            <i>
+             <b>
+              c
+             </b>
+            </i>
+           </sup>
+          </a>
+          <a href="#cite_ref-No_3-3">
+           <sup>
+            <i>
+             <b>
+              d
+             </b>
+            </i>
+           </sup>
+          </a>
+         </span>
+         <span class="reference-text">
+          The presidents are numbered according to uninterrupted periods of time served by the same person. For example, George Washington served two consecutive terms and is counted as the first president (not the first and second). Upon the resignation of 37th president Richard Nixon, Gerald Ford became the 38th president even though he simply served out the remainder of Nixon's second term and was never elected to the presidency in his own right. Grover Cleveland was both the 22nd president and the 24th president because his two terms were not consecutive. A vice president who temporarily becomes acting president under the Twenty-fifth Amendment to the Constitution is not counted, because the president remains in office during such a period.
+         </span>
+        </li>
+        <li id="cite_note-office-4">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-office_4-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Listed here is the most recent office (either with a U.S. state, the federal government, or a private corporation) held by the individual prior to becoming president.
+         </span>
+        </li>
+        <li id="cite_note-2Party-5">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-2Party_5-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Three presidents are counted above with multiple political affiliations: John Tyler (Whig,
+          <i>
+           Unaffiliated
+          </i>
+          ), Abraham Lincoln (Republican, National Union), and Andrew Johnson (National Union, Democratic).
+         </span>
+        </li>
+        <li id="cite_note-Washington-term-6">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Washington-term_6-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Due to logistical delays, instead of being inaugurated on March 4, 1789, the date scheduled for operations of the federal government under the new Constitution to begin, Washington's first inauguration was held 1 month and 26 days later. As a result, his first term was only 1,404 days long (as opposed to the usual 1,461), and was the shortest term for a U.S. president who served a full term.
+         </span>
+        </li>
+        <li id="cite_note-Adams-party-10">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Adams-party_10-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Political parties had not been anticipated when the Constitution was drafted in 1787 and ratified in 1788, nor did they exist at the time of the first presidential election in 178889. When they did develop, during Washington's first term, Adams joined the faction that became the Federalist Party. The elections of 1792 were the first ones in the United States that were contested on anything resembling a partisan basis.
+         </span>
+        </li>
+        <li id="cite_note-Adams-term-11">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Adams-term_11-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Due to logistical delays, Adams assumed the office of Vice President 1 month and 17 days after the March 4, 1789 scheduled start of operations of the new government under the Constitution. As a result, his first term was only 1,413 days long, and was the shortest term for a U.S. vice president who served a full term.
+         </span>
+        </li>
+        <li id="cite_note-Jefferson-party-15">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Jefferson-party_15-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          The 1796 presidential election was the first contested American presidential election and the only one in which a president and vice president were elected from opposing political parties. Federalist John Adams was elected president, and Jefferson of the Democratic-Republicans was elected vice president.
+         </span>
+        </li>
+        <li id="cite_note-Calhoun-party-31">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Calhoun-party_31-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          John Calhoun, formerly a Democratic-Republican, founded the
+          <a href="/wiki/Nullifier_Party" title="Nullifier Party">
+           Nullifier Party
+          </a>
+          in 1828 to oppose the
+          <a href="/wiki/Tariff_of_Abominations" title="Tariff of Abominations">
+           Tariff of 1828
+          </a>
+          and advance the cause of
+          <a href="/wiki/States%27_rights" title="States' rights">
+           states' rights
+          </a>
+          , but was brought on as Andrew Jackson's running mate in the 1828 presidential election in an effort to broaden the democratic coalition led by Jackson.
+         </span>
+        </li>
+        <li id="cite_note-Tyler-oath-38">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Tyler-oath_38-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          John Tyler was sworn in as president on April 6, 1841.
+         </span>
+        </li>
+        <li id="cite_note-Tyler-party-42">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Tyler-party_42-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          John Tyler, a former Democrat, ran for vice president on the Whig Party ticket with Harrison in 1840. Tyler's policy priorities as president soon proved to be opposed to most of the Whig agenda, and he was expelled from the party in September 1841.
+         </span>
+        </li>
+        <li id="cite_note-Fillmore-oath-49">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Fillmore-oath_49-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Millard Fillmore was sworn in as president on July 10, 1850.
+         </span>
+        </li>
+        <li id="cite_note-union-62">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-union_62-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          When he ran for reelection in 1864, Republican Abraham Lincoln formed a bipartisan
+          <a href="/wiki/Electoral_alliance" title="Electoral alliance">
+           electoral alliance
+          </a>
+          with
+          <a href="/wiki/War_Democrat" title="War Democrat">
+           War Democrats
+          </a>
+          by selecting Democrat Andrew Johnson as his running mate, and running on the National Union Party ticket.
+         </span>
+        </li>
+        <li id="cite_note-Johnson-party-66">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Johnson-party_66-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Democrat Andrew Johnson ran for vice president on the National Union Party ticket with Republican Abraham Lincoln in 1864. Later, while president, Johnson tried and failed to build a party of loyalists under the National Union banner. Near the end of his presidency, Johnson rejoined the Democratic Party.
+         </span>
+        </li>
+        <li id="cite_note-Arthur-oath-76">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Arthur-oath_76-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Chester A. Arthur was initially sworn in as president on September 20, 1881, and then again on September 22.
+         </span>
+        </li>
+        <li id="cite_note-Coolidge-oath-100">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Coolidge-oath_100-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          Calvin Coolidge was initially sworn in as president on August 3, 1923, and then again on August 21.
+         </span>
+        </li>
+        <li id="cite_note-Amendment_XX-term-110">
+         <span class="mw-cite-backlink">
+          <b>
+           <a href="#cite_ref-Amendment_XX-term_110-0">
+            ^
+           </a>
+          </b>
+         </span>
+         <span class="reference-text">
+          The
+          <a href="/wiki/Twentieth_Amendment_to_the_United_States_Constitution" title="Twentieth Amendment to the United States Constitution">
+           Twentieth Amendment to the United States Constitution
+          </a>
+          (ratified on January 23, 1933) moved
+          <a href="/wiki/United_States_presidential_inauguration" title="United States presidential inauguration">
+           Inauguration Day
+          </a>
+          from March 4 to January 20, beginning in 1937. As a result, Garner's first term in office was 1 month and 12 days shorter than a normal term.
+         </span>
+        </li>
+       </ol>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=List_of_Presidents_of_the_United_States&amp;action=edit&amp;section=5" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="reflist" style="list-style-type: decimal;">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-1">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.archives.gov/exhibits/charters/constitution_amendments_11-27.html" rel="nofollow">
+             "The Constitution: Amendments 1127"
+            </a>
+            .
+            <a href="/wiki/National_Archives_and_Records_Administration" title="National Archives and Records Administration">
+             U.S. National Archives &amp; Records Administration
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              October 1,
+             </span>
+             2008
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Constitution%3A+Amendments+11%E2%80%9327&amp;rft.pub=U.S.+National+Archives+%26+Records+Administration&amp;rft_id=https%3A%2F%2Fwww.archives.gov%2Fexhibits%2Fcharters%2Fconstitution_amendments_11-27.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <style data-mw-deduplicate="TemplateStyles:r886058088">
+            .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+           </style>
+          </span>
+         </li>
+         <li id="cite_note-GWpps-2">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-GWpps_2-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-GWpps_2-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            Jamison, Dennis (December 31, 2014).
+            <a class="external text" href="http://www.washingtontimes.com/news/2014/dec/31/george-washingtons-views-political-parties-america/" rel="nofollow">
+             "George Washington's views on political parties in America"
+            </a>
+            .
+            <i>
+             <a href="/wiki/The_Washington_Times" title="The Washington Times">
+              The Washington Times
+             </a>
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              July 1,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=George+Washington%27s+views+on+political+parties+in+America&amp;rft.pub=%27%27The+Washington+Times%27%27&amp;rft.date=2014-12-31&amp;rft.aulast=Jamison&amp;rft.aufirst=Dennis&amp;rft_id=http%3A%2F%2Fwww.washingtontimes.com%2Fnews%2F2014%2Fdec%2F31%2Fgeorge-washingtons-views-political-parties-america%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-7">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/georgewashington" rel="nofollow">
+             "George Washington"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=George+Washington&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fgeorgewashington&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/george-washington" rel="nofollow">
+             "George Washington"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=George+Washington&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fgeorge-washington&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?121783-1/life-portrait-george-washington" rel="nofollow">
+             "Life Portrait of George Washington"
+            </a>
+            .
+            <i>
+             <a href="/wiki/American_Presidents:_Life_Portraits" title="American Presidents: Life Portraits">
+              American Presidents: Life Portraits
+             </a>
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portraits&amp;rft.atitle=Life+Portrait+of+George+Washington&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F121783-1%2Flife-portrait-george-washington&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-12">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-12">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/johnadams" rel="nofollow">
+             "John Adams"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=John+Adams&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fjohnadams&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-13">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-13">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/john-adams" rel="nofollow">
+             "John Adams"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History_(U.S._TV_channel)" title="History (U.S. TV channel)">
+              History
+             </a>
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              November 21,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History&amp;rft.atitle=John+Adams&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fjohn-adams&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-14">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-14">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?121951-1/life-portrait-john-adams" rel="nofollow">
+             "Life Portrait of John Adams"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+John+Adams&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F121951-1%2Flife-portrait-john-adams&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-16">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-16">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/thomasjefferson" rel="nofollow">
+             "Thomas Jefferson"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Thomas+Jefferson&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fthomasjefferson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-17">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-17">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/thomas-jefferson" rel="nofollow">
+             "Thomas Jefferson"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Thomas+Jefferson&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fthomas-jefferson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-18">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-18">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?121787-1/life-portrait-thomas-jefferson" rel="nofollow">
+             "Life Portrait of Thomas Jefferson"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Thomas+Jefferson&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F121787-1%2Flife-portrait-thomas-jefferson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-19">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-19">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/jamesmadison" rel="nofollow">
+             "James Madison"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=James+Madison&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fjamesmadison&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-20">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-20">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/james-madison" rel="nofollow">
+             "James Madison"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=James+Madison&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fjames-madison&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-21">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-21">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?122316-1/life-portrait-james-madison" rel="nofollow">
+             "Life Portrait of James Madison"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+James+Madison&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F122316-1%2Flife-portrait-james-madison&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-22">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-22">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/jamesmonroe" rel="nofollow">
+             "James Monroe"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=James+Monroe&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fjamesmonroe&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-23">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-23">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/james-monroe" rel="nofollow">
+             "James Monroe"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=James+Monroe&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fjames-monroe&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-24">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-24">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?122387-1/life-portrait-james-monroe" rel="nofollow">
+             "Life Portrait of James Monroe"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+James+Monroe&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F122387-1%2Flife-portrait-james-monroe&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-25">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-25">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/johnquincyadams" rel="nofollow">
+             "John Quincy Adams"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=John+Quincy+Adams&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fjohnquincyadams&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-26">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-26">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/john-quincy-adams" rel="nofollow">
+             "John Quincy Adams"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=John+Quincy+Adams&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fjohn-quincy-adams&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-27">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-27">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?122555-1/life-portrait-john-quincy-adams" rel="nofollow">
+             "Life Portrait of John Quincy Adams"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+John+Quincy+Adams&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F122555-1%2Flife-portrait-john-quincy-adams&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-28">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-28">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/andrewjackson" rel="nofollow">
+             "Andrew Jackson"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Andrew+Jackson&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fandrewjackson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-29">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-29">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/andrew-jackson" rel="nofollow">
+             "Andrew Jackson"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Andrew+Jackson&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fandrew-jackson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-30">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-30">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?122792-1/life-portrait-andrew-jackson" rel="nofollow">
+             "Life Portrait of Andrew Jackson"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Andrew+Jackson&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F122792-1%2Flife-portrait-andrew-jackson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-32">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-32">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/martinvanburen" rel="nofollow">
+             "Martin Van Buren"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Martin+Van+Buren&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fmartinvanburen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-33">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-33">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/martin-van-buren" rel="nofollow">
+             "Martin Van Buren"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Martin+Van+Buren&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fmartin-van-buren&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-34">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-34">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?122988-1/life-portrait-martin-van-buren" rel="nofollow">
+             "Life Portrait of Martin Van Buren"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Martin+Van+Buren&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F122988-1%2Flife-portrait-martin-van-buren&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-35">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-35">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/williamhenryharrison" rel="nofollow">
+             "William Henry Harrison"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=William+Henry+Harrison&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fwilliamhenryharrison&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-36">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-36">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/william-henry-harrison" rel="nofollow">
+             "William Henry Harrison"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=William+Henry+Harrison&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fwilliam-henry-harrison&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-37">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-37">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?123123-1/life-portrait-william-henry-harrison" rel="nofollow">
+             "Life Portrait of William Henry Harrison"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+William+Henry+Harrison&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F123123-1%2Flife-portrait-william-henry-harrison&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-39">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-39">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/johntyler" rel="nofollow">
+             "John Tyler"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=John+Tyler&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fjohntyler&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-40">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-40">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/john-tyler" rel="nofollow">
+             "John Tyler"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=John+Tyler&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fjohn-tyler&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-41">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-41">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?123380-1/life-portrait-john-tyler" rel="nofollow">
+             "Life Portrait of John Tyler"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+John+Tyler&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F123380-1%2Flife-portrait-john-tyler&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-43">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-43">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/jamespolk" rel="nofollow">
+             "James K. Polk"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=James+K.+Polk&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fjamespolk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-44">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-44">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/james-polk" rel="nofollow">
+             "James K. Polk"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=James+K.+Polk&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fjames-polk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-45">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-45">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?123943-1/life-portrait-james-k-polk" rel="nofollow">
+             "Life Portrait of James K. Polk"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+James+K.+Polk&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F123943-1%2Flife-portrait-james-k-polk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-46">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-46">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/zacharytaylor" rel="nofollow">
+             "Zachary Taylor"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Zachary+Taylor&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fzacharytaylor&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-47">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-47">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/zachary-taylor" rel="nofollow">
+             "Zachary Taylor"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Zachary+Taylor&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fzachary-taylor&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-48">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-48">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?123944-1/life-portrait-zachary-taylor" rel="nofollow">
+             "Life Portrait of Zachary Taylor"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Zachary+Taylor&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F123944-1%2Flife-portrait-zachary-taylor&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-50">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-50">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/millardfillmore" rel="nofollow">
+             "Millard Fillmore"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Millard+Fillmore&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fmillardfillmore&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-51">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-51">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/millard-fillmore" rel="nofollow">
+             "Millard Fillmore"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Millard+Fillmore&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fmillard-fillmore&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-52">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-52">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?124976-1/life-portrait-millard-fillmore" rel="nofollow">
+             "Life Portrait of Millard Fillmore"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Millard+Fillmore&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F124976-1%2Flife-portrait-millard-fillmore&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-53">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-53">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/franklinpierce" rel="nofollow">
+             "Franklin Pierce"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Franklin+Pierce&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Ffranklinpierce&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-54">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-54">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/franklin-pierce" rel="nofollow">
+             "Franklin Pierce"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Franklin+Pierce&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Ffranklin-pierce&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-55">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-55">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?125004-1/life-portrait-franklin-pierce" rel="nofollow">
+             "Life Portrait of Franklin Pierce"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Franklin+Pierce&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F125004-1%2Flife-portrait-franklin-pierce&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-56">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-56">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/jamesbuchanan" rel="nofollow">
+             "James Buchanan"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=James+Buchanan&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fjamesbuchanan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-57">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-57">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/james-buchanan" rel="nofollow">
+             "James Buchanan"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=James+Buchanan&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fjames-buchanan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-58">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-58">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?125214-1/life-portrait-james-buchanan" rel="nofollow">
+             "Life Portrait of James Buchanan"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+James+Buchanan&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F125214-1%2Flife-portrait-james-buchanan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-59">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-59">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/abrahamlincoln" rel="nofollow">
+             "Abraham Lincoln"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Abraham+Lincoln&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fabrahamlincoln&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-60">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-60">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/abraham-lincoln" rel="nofollow">
+             "Abraham Lincoln"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Abraham+Lincoln&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fabraham-lincoln&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-61">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-61">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?125640-1/life-portrait-abraham-lincoln" rel="nofollow">
+             "Life Portrait of Abraham Lincoln"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Abraham+Lincoln&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F125640-1%2Flife-portrait-abraham-lincoln&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-63">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-63">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/andrewjohnson" rel="nofollow">
+             "Andrew Johnson"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Andrew+Johnson&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fandrewjohnson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-64">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-64">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/andrew-johnson" rel="nofollow">
+             "Andrew Johnson"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Andrew+Johnson&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fandrew-johnson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-65">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-65">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?150104-1/life-portrait-andrew-johnson" rel="nofollow">
+             "Life Portrait of Andrew Johnson"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Andrew+Johnson&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F150104-1%2Flife-portrait-andrew-johnson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-67">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-67">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/ulyssessgrant" rel="nofollow">
+             "Ulysses S. Grant"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Ulysses+S.+Grant&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fulyssessgrant&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-68">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-68">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/ulysses-s-grant" rel="nofollow">
+             "Ulysses S. Grant"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Ulysses+S.+Grant&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fulysses-s-grant&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-69">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-69">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?150209-1/life-portrait-ulysses-s-grant" rel="nofollow">
+             "Life Portrait of Ulysses S. Grant"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Ulysses+S.+Grant&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F150209-1%2Flife-portrait-ulysses-s-grant&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-70">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-70">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/rutherfordbhayes" rel="nofollow">
+             "Rutherford B. Hayes"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Rutherford+B.+Hayes&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Frutherfordbhayes&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-71">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-71">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/rutherford-b-hayes" rel="nofollow">
+             "Rutherford B. Hayes"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Rutherford+B.+Hayes&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Frutherford-b-hayes&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-72">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-72">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?150637-1/life-portrait-rutherford-b-hayes" rel="nofollow">
+             "Life Portrait of Rutherford B. Hayes"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Rutherford+B.+Hayes&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F150637-1%2Flife-portrait-rutherford-b-hayes&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-73">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-73">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/jamesgarfield" rel="nofollow">
+             "James Garfield"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=James+Garfield&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fjamesgarfield&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-74">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-74">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/james-a-garfield" rel="nofollow">
+             "James A. Garfield"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=James+A.+Garfield&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fjames-a-garfield&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-75">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-75">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151093-1/life-portrait-james-garfield" rel="nofollow">
+             "Life Portrait of James Garfield"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+James+Garfield&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151093-1%2Flife-portrait-james-garfield&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-77">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-77">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/chesterarthur" rel="nofollow">
+             "Chester A. Arthur"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Chester+A.+Arthur&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fchesterarthur&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-78">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-78">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/chester-a-arthur" rel="nofollow">
+             "Chester A. Arthur"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Chester+A.+Arthur&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fchester-a-arthur&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-79">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-79">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151431-1/life-portrait-chester-arthur" rel="nofollow">
+             "Life Portrait of Chester A. Arthur"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Chester+A.+Arthur&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151431-1%2Flife-portrait-chester-arthur&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-HIS-grover-80">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-HIS-grover_80-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-HIS-grover_80-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/grover-cleveland" rel="nofollow">
+             "Grover Cleveland"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Grover+Cleveland&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fgrover-cleveland&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-AP=grover-81">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-AP=grover_81-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-AP=grover_81-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151466-1/life-portrait-grover-cleveland" rel="nofollow">
+             "Life Portrait of Grover Cleveland"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Grover+Cleveland&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151466-1%2Flife-portrait-grover-cleveland&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-82">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-82">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/benjaminharrison" rel="nofollow">
+             "Benjamin Harrison"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Benjamin+Harrison&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fbenjaminharrison&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-83">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-83">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/benjamin-harrison" rel="nofollow">
+             "Benjamin Harrison"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Benjamin+Harrison&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fbenjamin-harrison&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-84">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-84">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151616-1/life-portrait-benjamin-harrison" rel="nofollow">
+             "Life Portrait of Benjamin Harrison"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Benjamin+Harrison&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151616-1%2Flife-portrait-benjamin-harrison&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-85">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-85">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/williammckinley" rel="nofollow">
+             "William McKinley"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=William+McKinley&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fwilliammckinley&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-86">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-86">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/william-mckinley" rel="nofollow">
+             "William McKinley"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=William+McKinley&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fwilliam-mckinley&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-87">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-87">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151617-1/life-portrait-william-mckinley" rel="nofollow">
+             "Life Portrait of William McKinley"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+William+McKinley&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151617-1%2Flife-portrait-william-mckinley&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-88">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-88">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/theodoreroosevelt" rel="nofollow">
+             "Theodore Roosevelt"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Theodore+Roosevelt&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Ftheodoreroosevelt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-89">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-89">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/theodore-roosevelt" rel="nofollow">
+             "Theodore Roosevelt"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Theodore+Roosevelt&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Ftheodore-roosevelt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-90">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-90">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151618-1/life-portrait-theodore-roosevelt" rel="nofollow">
+             "Life Portrait of Theodore Roosevelt"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Theodore+Roosevelt&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151618-1%2Flife-portrait-theodore-roosevelt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-91">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-91">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/williamhowardtaft" rel="nofollow">
+             "William Howard Taft"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 13, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=William+Howard+Taft&amp;rft.date=2007-03-13&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fwilliamhowardtaft&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-92">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-92">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/william-howard-taft" rel="nofollow">
+             "William Howard Taft"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=William+Howard+Taft&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fwilliam-howard-taft&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-93">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-93">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151620-1/life-portrait-william-howard-taft" rel="nofollow">
+             "Life Portrait of William Howard Taft"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+William+Howard+Taft&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151620-1%2Flife-portrait-william-howard-taft&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-94">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-94">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/woodrowwilson" rel="nofollow">
+             "Woodrow Wilson"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 13, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Woodrow+Wilson&amp;rft.date=2007-03-13&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fwoodrowwilson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-95">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-95">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/woodrow-wilson" rel="nofollow">
+             "Woodrow Wilson"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Woodrow+Wilson&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fwoodrow-wilson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-96">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-96">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151624-1/life-portrait-woodrow-wilson" rel="nofollow">
+             "Life Portrait of Woodrow Wilson"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Woodrow+Wilson&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151624-1%2Flife-portrait-woodrow-wilson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-97">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-97">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/warrenharding" rel="nofollow">
+             "Warren G. Harding"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Warren+G.+Harding&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fwarrenharding&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-98">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-98">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/warren-g-harding" rel="nofollow">
+             "Warren G. Harding"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              November 27,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Warren+G.+Harding&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fwarren-g-harding&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-99">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-99">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151625-1/life-portrait-warren-g-harding" rel="nofollow">
+             "Life Portrait of Warren G. Harding"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Warren+G.+Harding&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151625-1%2Flife-portrait-warren-g-harding&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-101">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-101">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/calvincoolidge" rel="nofollow">
+             "Calvin Coolidge"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 13, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Calvin+Coolidge&amp;rft.date=2007-03-13&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fcalvincoolidge&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-102">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-102">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/calvin-coolidge" rel="nofollow">
+             "Calvin Coolidge"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Calvin+Coolidge&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fcalvin-coolidge&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-103">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-103">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151626-1/life-portrait-calvin-coolidge" rel="nofollow">
+             "Life Portrait of Calvin Coolidge"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Calvin+Coolidge&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151626-1%2Flife-portrait-calvin-coolidge&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-104">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-104">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/herberthoover" rel="nofollow">
+             "Herbert Hoover"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 13, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Herbert+Hoover&amp;rft.date=2007-03-13&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fherberthoover&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-105">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-105">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/herbert-hoover" rel="nofollow">
+             "Herbert Hoover"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Herbert+Hoover&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fherbert-hoover&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-106">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-106">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151627-1/life-portrait-herbert-hoover" rel="nofollow">
+             "Life Portrait of Herbert Hoover"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Herbert+Hoover&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151627-1%2Flife-portrait-herbert-hoover&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-107">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-107">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/franklindroosevelt" rel="nofollow">
+             "Franklin D. Roosevelt"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 20, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Franklin+D.+Roosevelt&amp;rft.date=2007-03-20&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Ffranklindroosevelt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-108">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-108">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/franklin-d-roosevelt" rel="nofollow">
+             "Franklin D. Roosevelt"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Franklin+D.+Roosevelt&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Ffranklin-d-roosevelt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-109">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-109">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151628-1/life-portrait-franklin-d-roosevelt" rel="nofollow">
+             "Life Portrait of Franklin D. Roosevelt"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 6,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Franklin+D.+Roosevelt&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151628-1%2Flife-portrait-franklin-d-roosevelt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-111">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-111">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/harrystruman" rel="nofollow">
+             "Harry S. Truman"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Harry+S.+Truman&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fharrystruman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-112">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-112">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/harry-truman" rel="nofollow">
+             "Harry Truman"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Harry+Truman&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fharry-truman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-113">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-113">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151629-1/life-portrait-harry-s-truman" rel="nofollow">
+             "Life Portrait of Harry S. Truman"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 7,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Harry+S.+Truman&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151629-1%2Flife-portrait-harry-s-truman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-114">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-114">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/dwightdeisenhower" rel="nofollow">
+             "Dwight D. Eisenhower"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Dwight+D.+Eisenhower&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fdwightdeisenhower&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-115">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-115">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/dwight-d-eisenhower" rel="nofollow">
+             "Dwight D. Eisenhower"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Dwight+D.+Eisenhower&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fdwight-d-eisenhower&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-116">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-116">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151630-1/life-portrait-dwight-d-eisenhower" rel="nofollow">
+             "Life Portrait of Dwight D. Eisenhower"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 7,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Dwight+D.+Eisenhower&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151630-1%2Flife-portrait-dwight-d-eisenhower&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-117">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-117">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/johnfkennedy" rel="nofollow">
+             "John F. Kennedy"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=John+F.+Kennedy&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fjohnfkennedy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-118">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-118">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/john-f-kennedy" rel="nofollow">
+             "John F. Kennedy"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=John+F.+Kennedy&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fjohn-f-kennedy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-119">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-119">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151631-1/life-portrait-john-f-kennedy" rel="nofollow">
+             "Life Portrait of John F. Kennedy"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 7,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+John+F.+Kennedy&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151631-1%2Flife-portrait-john-f-kennedy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-120">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-120">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/lyndon-b-johnson" rel="nofollow">
+             "Lyndon B. Johnson"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Lyndon+B.+Johnson&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Flyndon-b-johnson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-121">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-121">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151632-1/life-portrait-lyndon-b-johnson" rel="nofollow">
+             "Life Portrait of Lyndon B. Johnson"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 7,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Lyndon+B.+Johnson&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151632-1%2Flife-portrait-lyndon-b-johnson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-122">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-122">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/richardnixon" rel="nofollow">
+             "Richard M. Nixon"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Richard+M.+Nixon&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Frichardnixon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-123">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-123">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/richard-m-nixon" rel="nofollow">
+             "Richard M. Nixon"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Richard+M.+Nixon&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Frichard-m-nixon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-124">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-124">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151633-1/life-portrait-richard-m-nixon" rel="nofollow">
+             "Life Portrait of Richard M. Nixon"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 7,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Richard+M.+Nixon&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151633-1%2Flife-portrait-richard-m-nixon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-125">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-125">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/geraldford" rel="nofollow">
+             "Gerald R. Ford"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Gerald+R.+Ford&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fgeraldford&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-126">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-126">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/gerald-r-ford" rel="nofollow">
+             "Gerald Ford"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Gerald+Ford&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fgerald-r-ford&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-127">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-127">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151634-1/life-portrait-gerald-r-ford" rel="nofollow">
+             "Life Portrait of Gerald R. Ford"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 7,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Gerald+R.+Ford&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151634-1%2Flife-portrait-gerald-r-ford&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-128">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-128">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/jimmycarter" rel="nofollow">
+             "James Carter"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=James+Carter&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fjimmycarter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-129">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-129">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/jimmy-carter" rel="nofollow">
+             "Jimmy Carter"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Jimmy+Carter&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fjimmy-carter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-130">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-130">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151635-1/life-portrait-jimmy-carter" rel="nofollow">
+             "Life Portrait of Jimmy Carter"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 7,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Jimmy+Carter&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151635-1%2Flife-portrait-jimmy-carter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-131">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-131">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/ronaldreagan" rel="nofollow">
+             "Ronald Reagan"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . June 25, 2008
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Ronald+Reagan&amp;rft.date=2008-06-25&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fronaldreagan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-132">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-132">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/ronald-reagan" rel="nofollow">
+             "Ronald Reagan"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 18,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Ronald+Reagan&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fronald-reagan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-133">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-133">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151636-1/life-portrait-ronald-reagan" rel="nofollow">
+             "Life Portrait of Ronald Reagan"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 7,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Ronald+Reagan&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151636-1%2Flife-portrait-ronald-reagan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-134">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-134">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/georgehwbush" rel="nofollow">
+             "George H. W. Bush"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=George+H.+W.+Bush&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fgeorgehwbush&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-135">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-135">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/george-bush" rel="nofollow">
+             "George Bush"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              November 27,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=George+Bush&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fgeorge-bush&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-136">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-136">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151637-1/life-portrait-george-hw-bush" rel="nofollow">
+             "Life Portrait of George H.W. Bush"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 7,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+George+H.W.+Bush&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151637-1%2Flife-portrait-george-hw-bush&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-137">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-137">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/williamjclinton" rel="nofollow">
+             "William J. Clinton"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . March 12, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=William+J.+Clinton&amp;rft.date=2007-03-12&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fwilliamjclinton&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-138">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-138">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/bill-clinton" rel="nofollow">
+             "Bill Clinton"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              November 27,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Bill+Clinton&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fbill-clinton&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-139">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-139">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.c-span.org/video/?151639-1/life-portrait-bill-clinton" rel="nofollow">
+             "Life Portrait of Bill Clinton"
+            </a>
+            .
+            <i>
+             American Presidents: Life Portrait
+            </i>
+            .
+            <a href="/wiki/C-SPAN" title="C-SPAN">
+             C-SPAN
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              March 7,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Presidents%3A+Life+Portrait&amp;rft.atitle=Life+Portrait+of+Bill+Clinton&amp;rft_id=http%3A%2F%2Fwww.c-span.org%2Fvideo%2F%3F151639-1%2Flife-portrait-bill-clinton&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-140">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-140">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/georgewbush" rel="nofollow">
+             "George W. Bush"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . February 25, 2007
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=George+W.+Bush&amp;rft.date=2007-02-25&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fgeorgewbush&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-141">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-141">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/george-w-bush" rel="nofollow">
+             "George W. Bush"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              November 27,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=George+W.+Bush&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fgeorge-w-bush&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-142">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-142">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/1600/presidents/barackobama" rel="nofollow">
+             "Barack Obama"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . January 20, 2017
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Barack+Obama&amp;rft.date=2017-01-20&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2F1600%2Fpresidents%2Fbarackobama&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-143">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-143">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/barack-obama" rel="nofollow">
+             "Barack Obama"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              November 27,
+             </span>
+             2016
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Barack+Obama&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fbarack-obama&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-whousetrump-144">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-whousetrump_144-0">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="https://www.whitehouse.gov/administration/president-trump" rel="nofollow">
+             "President Donald J. Trump"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">
+              whitehouse.gov
+             </a>
+            </i>
+            . January 20, 2017
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 22,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=President+Donald+J.+Trump&amp;rft.date=2017-01-20&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2Fadministration%2Fpresident-trump&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+         <li id="cite_note-145">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-145">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <cite class="citation web">
+            <a class="external text" href="http://www.history.com/topics/us-presidents/donald-trump" rel="nofollow">
+             "Donald Trump"
+            </a>
+            .
+            <i>
+             <a class="mw-redirect" href="/wiki/History.com" title="History.com">
+              History.com
+             </a>
+            </i>
+            .
+            <a href="/wiki/A%26E_Networks" title="A&amp;E Networks">
+             A&amp;E Networks
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              January 20,
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Donald+Trump&amp;rft_id=http%3A%2F%2Fwww.history.com%2Ftopics%2Fus-presidents%2Fdonald-trump&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Presidents+of+the+United+States">
+           </span>
+           <link href="mw-data:TemplateStyles:r886058088" rel="mw-deduplicated-inline-style"/>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=List_of_Presidents_of_the_United_States&amp;action=edit&amp;section=6" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+         </td>
+         <td class="mbox-text plainlist">
+          Wikimedia Commons has media related to
+          <i>
+           <b>
+            <a class="extiw" href="https://commons.wikimedia.org/wiki/President_of_the_United_States" title="commons:President of the United States">
+             President of the United States
+            </a>
+           </b>
+          </i>
+          .
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <img alt="" class="noviewer" data-file-height="355" data-file-width="300" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" width="34"/>
+         </td>
+         <td class="mbox-text plainlist">
+          Wikiquote has quotations related to:
+          <i>
+           <b>
+            <a class="extiw" href="https://en.wikiquote.org/wiki/List_of_Presidents_of_the_United_States" title="q:List of Presidents of the United States">
+             List of Presidents of the United States
+            </a>
+           </b>
+          </i>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <ul>
+       <li>
+        <img alt="" data-file-height="209" data-file-width="375" decoding="async" height="9" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Open_book_nae_02.svg/16px-Open_book_nae_02.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Open_book_nae_02.svg/24px-Open_book_nae_02.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Open_book_nae_02.svg/32px-Open_book_nae_02.svg.png 2x" width="16"/>
+        <i>
+         <a href="/wiki/Book:Presidents_of_the_United_States" title="Book:Presidents of the United States">
+          Presidents of the United States
+         </a>
+        </i>
+        
+        <a href="/wiki/Wikipedia:Books" title="Wikipedia:Books">
+         Wikipedia book
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://www.whitehouse.gov/1600/presidents" rel="nofollow">
+         Whitehouse.gov: The Presidents
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://hauensteincenter.org/" rel="nofollow">
+         Hauenstein Center | Presidential Leadership Studies
+        </a>
+        at
+        <a href="/wiki/Grand_Valley_State_University" title="Grand Valley State University">
+         Grand Valley State University
+        </a>
+       </li>
+      </ul>
+      <div aria-labelledby="Presidents_of_the_United_States" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th class="navbox-title" colspan="2" scope="col">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view">
+              <a href="/wiki/Template:US_Presidents" title="Template:US Presidents">
+               <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">
+                v
+               </abbr>
+              </a>
+             </li>
+             <li class="nv-talk">
+              <a href="/wiki/Template_talk:US_Presidents" title="Template talk:US Presidents">
+               <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">
+                t
+               </abbr>
+              </a>
+             </li>
+             <li class="nv-edit">
+              <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:US_Presidents&amp;action=edit">
+               <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">
+                e
+               </abbr>
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div id="Presidents_of_the_United_States" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/President_of_the_United_States" title="President of the United States">
+             Presidents of the United States
+            </a>
+           </div>
+          </th>
+         </tr>
+         <tr>
+          <td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+           </div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;text-align:left; white-space:nowrap; padding-top:.3em; padding-bottom:.6em;">
+               <div style="padding:0em 0.25em">
+                <div class="div-col columns column-width" style="-moz-column-width: 18em; -webkit-column-width: 18em; column-width: 18em;">
+                 <ol>
+                  <li>
+                   <a href="/wiki/George_Washington" title="George Washington">
+                    George Washington
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_George_Washington" title="Presidency of George Washington">
+                    17891797
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/John_Adams" title="John Adams">
+                    John Adams
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_John_Adams" title="Presidency of John Adams">
+                    17971801
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Thomas_Jefferson" title="Thomas Jefferson">
+                    Thomas Jefferson
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Thomas_Jefferson" title="Presidency of Thomas Jefferson">
+                    18011809
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/James_Madison" title="James Madison">
+                    James Madison
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_James_Madison" title="Presidency of James Madison">
+                    18091817
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/James_Monroe" title="James Monroe">
+                    James Monroe
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_James_Monroe" title="Presidency of James Monroe">
+                    18171825
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/John_Quincy_Adams" title="John Quincy Adams">
+                    John Quincy Adams
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_John_Quincy_Adams" title="Presidency of John Quincy Adams">
+                    18251829
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Andrew_Jackson" title="Andrew Jackson">
+                    Andrew Jackson
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Andrew_Jackson" title="Presidency of Andrew Jackson">
+                    18291837
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Martin_Van_Buren" title="Martin Van Buren">
+                    Martin Van Buren
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Martin_Van_Buren" title="Presidency of Martin Van Buren">
+                    18371841
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/William_Henry_Harrison" title="William Henry Harrison">
+                    William Henry Harrison
+                   </a>
+                   (
+                   <a class="mw-redirect" href="/wiki/Presidency_of_William_Henry_Harrison" title="Presidency of William Henry Harrison">
+                    1841
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/John_Tyler" title="John Tyler">
+                    John Tyler
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_John_Tyler" title="Presidency of John Tyler">
+                    18411845
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/James_K._Polk" title="James K. Polk">
+                    James K. Polk
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_James_K._Polk" title="Presidency of James K. Polk">
+                    18451849
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Zachary_Taylor" title="Zachary Taylor">
+                    Zachary Taylor
+                   </a>
+                   (
+                   <a class="mw-redirect" href="/wiki/Presidency_of_Zachary_Taylor" title="Presidency of Zachary Taylor">
+                    18491850
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Millard_Fillmore" title="Millard Fillmore">
+                    Millard Fillmore
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Millard_Fillmore" title="Presidency of Millard Fillmore">
+                    18501853
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Franklin_Pierce" title="Franklin Pierce">
+                    Franklin Pierce
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Franklin_Pierce" title="Presidency of Franklin Pierce">
+                    18531857
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/James_Buchanan" title="James Buchanan">
+                    James Buchanan
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_James_Buchanan" title="Presidency of James Buchanan">
+                    18571861
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Abraham_Lincoln" title="Abraham Lincoln">
+                    Abraham Lincoln
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Abraham_Lincoln" title="Presidency of Abraham Lincoln">
+                    18611865
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Andrew_Johnson" title="Andrew Johnson">
+                    Andrew Johnson
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Andrew_Johnson" title="Presidency of Andrew Johnson">
+                    18651869
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Ulysses_S._Grant" title="Ulysses S. Grant">
+                    Ulysses S. Grant
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Ulysses_S._Grant" title="Presidency of Ulysses S. Grant">
+                    18691877
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Rutherford_B._Hayes" title="Rutherford B. Hayes">
+                    Rutherford B. Hayes
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Rutherford_B._Hayes" title="Presidency of Rutherford B. Hayes">
+                    18771881
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/James_A._Garfield" title="James A. Garfield">
+                    James A. Garfield
+                   </a>
+                   (
+                   <a class="mw-redirect" href="/wiki/Presidency_of_James_A._Garfield" title="Presidency of James A. Garfield">
+                    1881
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Chester_A._Arthur" title="Chester A. Arthur">
+                    Chester A. Arthur
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Chester_A._Arthur" title="Presidency of Chester A. Arthur">
+                    18811885
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Grover_Cleveland" title="Grover Cleveland">
+                    Grover Cleveland
+                   </a>
+                   (
+                   <a href="/wiki/Presidencies_of_Grover_Cleveland" title="Presidencies of Grover Cleveland">
+                    18851889
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Benjamin_Harrison" title="Benjamin Harrison">
+                    Benjamin Harrison
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Benjamin_Harrison" title="Presidency of Benjamin Harrison">
+                    18891893
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Grover_Cleveland" title="Grover Cleveland">
+                    Grover Cleveland
+                   </a>
+                   (
+                   <a href="/wiki/Presidencies_of_Grover_Cleveland" title="Presidencies of Grover Cleveland">
+                    18931897
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/William_McKinley" title="William McKinley">
+                    William McKinley
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_William_McKinley" title="Presidency of William McKinley">
+                    18971901
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Theodore_Roosevelt" title="Theodore Roosevelt">
+                    Theodore Roosevelt
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Theodore_Roosevelt" title="Presidency of Theodore Roosevelt">
+                    19011909
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/William_Howard_Taft" title="William Howard Taft">
+                    William Howard Taft
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_William_Howard_Taft" title="Presidency of William Howard Taft">
+                    19091913
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Woodrow_Wilson" title="Woodrow Wilson">
+                    Woodrow Wilson
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Woodrow_Wilson" title="Presidency of Woodrow Wilson">
+                    19131921
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Warren_G._Harding" title="Warren G. Harding">
+                    Warren G. Harding
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Warren_G._Harding" title="Presidency of Warren G. Harding">
+                    19211923
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Calvin_Coolidge" title="Calvin Coolidge">
+                    Calvin Coolidge
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Calvin_Coolidge" title="Presidency of Calvin Coolidge">
+                    19231929
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Herbert_Hoover" title="Herbert Hoover">
+                    Herbert Hoover
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Herbert_Hoover" title="Presidency of Herbert Hoover">
+                    19291933
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Franklin_D._Roosevelt" title="Franklin D. Roosevelt">
+                    Franklin D. Roosevelt
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Franklin_D._Roosevelt" title="Presidency of Franklin D. Roosevelt">
+                    19331945
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Harry_S._Truman" title="Harry S. Truman">
+                    Harry S. Truman
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Harry_S._Truman" title="Presidency of Harry S. Truman">
+                    19451953
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Dwight_D._Eisenhower" title="Dwight D. Eisenhower">
+                    Dwight D. Eisenhower
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Dwight_D._Eisenhower" title="Presidency of Dwight D. Eisenhower">
+                    19531961
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/John_F._Kennedy" title="John F. Kennedy">
+                    John F. Kennedy
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_John_F._Kennedy" title="Presidency of John F. Kennedy">
+                    19611963
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Lyndon_B._Johnson" title="Lyndon B. Johnson">
+                    Lyndon B. Johnson
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Lyndon_B._Johnson" title="Presidency of Lyndon B. Johnson">
+                    19631969
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Richard_Nixon" title="Richard Nixon">
+                    Richard Nixon
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Richard_Nixon" title="Presidency of Richard Nixon">
+                    19691974
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Gerald_Ford" title="Gerald Ford">
+                    Gerald Ford
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Gerald_Ford" title="Presidency of Gerald Ford">
+                    19741977
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Jimmy_Carter" title="Jimmy Carter">
+                    Jimmy Carter
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Jimmy_Carter" title="Presidency of Jimmy Carter">
+                    19771981
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Ronald_Reagan" title="Ronald Reagan">
+                    Ronald Reagan
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Ronald_Reagan" title="Presidency of Ronald Reagan">
+                    19811989
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/George_H._W._Bush" title="George H. W. Bush">
+                    George H. W. Bush
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_George_H._W._Bush" title="Presidency of George H. W. Bush">
+                    19891993
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Bill_Clinton" title="Bill Clinton">
+                    Bill Clinton
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Bill_Clinton" title="Presidency of Bill Clinton">
+                    19932001
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/George_W._Bush" title="George W. Bush">
+                    George W. Bush
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_George_W._Bush" title="Presidency of George W. Bush">
+                    20012009
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Barack_Obama" title="Barack Obama">
+                    Barack Obama
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Barack_Obama" title="Presidency of Barack Obama">
+                    20092017
+                   </a>
+                   )
+                  </li>
+                  <li>
+                   <a href="/wiki/Donald_Trump" title="Donald Trump">
+                    Donald Trump
+                   </a>
+                   (
+                   <a href="/wiki/Presidency_of_Donald_Trump" title="Presidency of Donald Trump">
+                    2017present
+                   </a>
+                   )
+                  </li>
+                 </ol>
+                </div>
+               </div>
+              </td>
+              <td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px">
+               <div>
+                <img alt="" data-file-height="2425" data-file-width="2424" decoding="async" height="85" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/85px-Seal_of_the_President_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/128px-Seal_of_the_President_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/170px-Seal_of_the_President_of_the_United_States.svg.png 2x" width="85"/>
+               </div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           <div>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           Presidency timelines
+          </th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist">
+             <ul>
+              <li>
+               <a href="/wiki/Timeline_of_the_Woodrow_Wilson_presidency" title="Timeline of the Woodrow Wilson presidency">
+                Wilson
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Timeline_of_the_Warren_G._Harding_presidency" title="Timeline of the Warren G. Harding presidency">
+                Harding
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Timeline_of_the_Calvin_Coolidge_presidency" title="Timeline of the Calvin Coolidge presidency">
+                Coolidge
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Timeline_of_the_Herbert_Hoover_presidency" title="Timeline of the Herbert Hoover presidency">
+                Hoover
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Timeline_of_the_Franklin_D._Roosevelt_presidency" title="Timeline of the Franklin D. Roosevelt presidency">
+                F. D. Roosevelt
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Timeline_of_the_Harry_S._Truman_presidency" title="Timeline of the Harry S. Truman presidency">
+                Truman
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Timeline_of_the_Dwight_D._Eisenhower_presidency" title="Timeline of the Dwight D. Eisenhower presidency">
+                Eisenhower
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Timeline_of_the_John_F._Kennedy_presidency" title="Timeline of the John F. Kennedy presidency">
+                Kennedy
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Timeline_of_the_Lyndon_B._Johnson_presidency" title="Timeline of the Lyndon B. Johnson presidency">
+                L. B. Johnson
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Timeline_of_the_Richard_Nixon_presidency" title="Timeline of the Richard Nixon presidency">
+                Nixon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Timeline_of_the_Gerald_Ford_presidency" title="Timeline of the Gerald Ford presidency">
+                Ford
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Timeline_of_the_Jimmy_Carter_presidency" title="Timeline of the Jimmy Carter presidency">
+                Carter
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Timeline_of_the_Ronald_Reagan_presidency" title="Timeline of the Ronald Reagan presidency">
+                Reagan
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Timeline_of_the_George_H._W._Bush_presidency" title="Timeline of the George H. W. Bush presidency">
+                G. H. W. Bush
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Timeline_of_the_Bill_Clinton_presidency" title="Timeline of the Bill Clinton presidency">
+                Clinton
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Timeline_of_the_George_W._Bush_presidency" title="Timeline of the George W. Bush presidency">
+                G. W. Bush
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Timeline_of_the_Barack_Obama_presidency" title="Timeline of the Barack Obama presidency">
+                Obama
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Timeline_of_the_Donald_Trump_presidency" title="Timeline of the Donald Trump presidency">
+                Trump
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2">
+           <div>
+            <ul>
+             <li>
+              <img alt="Wikipedia book" data-file-height="185" data-file-width="180" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" title="Wikipedia book" width="16"/>
+              <a href="/wiki/Book:Presidents_of_the_United_States" title="Book:Presidents of the United States">
+               Book
+              </a>
+             </li>
+             <li>
+              <img alt="Category" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+              <a href="/wiki/Category:Presidents_of_the_United_States" title="Category:Presidents of the United States">
+               Category
+              </a>
+             </li>
+             <li>
+              <img alt="List-Class article" data-file-height="185" data-file-width="180" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/>
+              <a class="mw-selflink selflink">
+               List
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+      </div>
+      <div aria-labelledby="Lists_related_to_the_Presidents_and_Vice_Presidents_of_the_United_States" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th class="navbox-title" colspan="2" scope="col">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view">
+              <a href="/wiki/Template:Lists_of_US_Presidents_and_Vice_Presidents" title="Template:Lists of US Presidents and Vice Presidents">
+               <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">
+                v
+               </abbr>
+              </a>
+             </li>
+             <li class="nv-talk">
+              <a href="/wiki/Template_talk:Lists_of_US_Presidents_and_Vice_Presidents" title="Template talk:Lists of US Presidents and Vice Presidents">
+               <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">
+                t
+               </abbr>
+              </a>
+             </li>
+             <li class="nv-edit">
+              <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lists_of_US_Presidents_and_Vice_Presidents&amp;action=edit">
+               <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">
+                e
+               </abbr>
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div id="Lists_related_to_the_Presidents_and_Vice_Presidents_of_the_United_States" style="font-size:114%;margin:0 4em">
+            Lists related to the
+            <a href="/wiki/President_of_the_United_States" title="President of the United States">
+             Presidents
+            </a>
+            and
+            <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">
+             Vice Presidents of the United States
+            </a>
+           </div>
+          </th>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div id="*_List_of_Presidents&amp;#10;*_List_of_Vice_Presidents">
+            <ul>
+             <li>
+              <a class="mw-selflink selflink">
+               List of Presidents
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_Vice_Presidents_of_the_United_States" title="List of Vice Presidents of the United States">
+               List of Vice Presidents
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           Presidents
+          </th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/List_of_presidents_of_the_United_States_by_age" title="List of presidents of the United States by age">
+               Age
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_autobiographies_by_presidents_of_the_United_States" title="List of autobiographies by presidents of the United States">
+               Autobiographies
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_burial_places_of_presidents_and_vice_presidents_of_the_United_States#Presidential_burial_places" title="List of burial places of presidents and vice presidents of the United States">
+               Burial places
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_Presidents_of_the_United_States_by_date_of_death" title="List of Presidents of the United States by date of death">
+               Death
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Historical_rankings_of_presidents_of_the_United_States" title="Historical rankings of presidents of the United States">
+               Historical rankings
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Lifespan_timeline_of_Presidents_of_the_United_States" title="Lifespan timeline of Presidents of the United States">
+               Lifespan timeline
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Living_presidents_of_the_United_States" title="Living presidents of the United States">
+               Number living
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_Presidents_of_the_United_States_by_time_in_office" title="List of Presidents of the United States by time in office">
+               Time in office
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Portraits_of_Presidents_of_the_United_States" title="Portraits of Presidents of the United States">
+               Portraits
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           Professional
+           <br/>
+           careers
+          </th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/United_States_presidential_approval_rating" title="United States presidential approval rating">
+               Approval rating
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_United_States_presidential_assassination_attempts_and_plots" title="List of United States presidential assassination attempts and plots">
+               Assassination attempts and plots
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_U.S._presidential_campaign_slogans" title="List of U.S. presidential campaign slogans">
+               Campaign slogans
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Divided_government_in_the_United_States" title="Divided government in the United States">
+               Control of Congress
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/United_States_presidential_doctrines" title="United States presidential doctrines">
+               Doctrines
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Elections_lost_by_Presidents_of_the_United_States" title="Elections lost by Presidents of the United States">
+               Elections lost
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/United_States_presidential_inauguration#List_of_inauguration_ceremonies" title="United States presidential inauguration">
+               Inaugurations
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_international_trips_made_by_the_President_of_the_United_States" title="List of international trips made by the President of the United States">
+               International trips
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_Presidents_of_the_United_States_by_judicial_appointments" title="List of Presidents of the United States by judicial appointments">
+               Judicial appointments
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Presidential_library#List_of_presidential_libraries" title="Presidential library">
+               Libraries
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_presidents_of_the_United_States_by_military_rank" title="List of presidents of the United States by military rank">
+               Military rank
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_Presidents_of_the_United_States_by_military_service" title="List of Presidents of the United States by military service">
+               Military service
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_Presidents_of_the_United_States_by_other_offices_held" title="List of Presidents of the United States by other offices held">
+               Other offices held
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_people_pardoned_or_granted_clemency_by_the_President_of_the_United_States" title="List of people pardoned or granted clemency by the President of the United States">
+               Pardons
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_Presidents_of_the_United_States_by_previous_experience" title="List of Presidents of the United States by previous experience">
+               Previous experience
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_United_States_presidential_vetoes" title="List of United States presidential vetoes">
+               Vetoes
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           Personal life
+          </th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/List_of_personal_coats_of_arms_of_Presidents_of_the_United_States" title="List of personal coats of arms of Presidents of the United States">
+               Coats of arms
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_Presidents_of_the_United_States_who_died_in_office" title="List of Presidents of the United States who died in office">
+               Deaths in office
+              </a>
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/List_of_Presidents_of_the_United_States_by_education" title="List of Presidents of the United States by education">
+               Education
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_Presidents_of_the_United_States_with_facial_hair" title="List of Presidents of the United States with facial hair">
+               Facial hair
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_United_States_Presidential_firsts" title="List of United States Presidential firsts">
+               Firsts
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_Presidents_of_the_United_States_who_were_Freemasons" title="List of Presidents of the United States who were Freemasons">
+               Freemasons
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_multilingual_presidents_of_the_United_States" title="List of multilingual presidents of the United States">
+               Multilingualism
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_Presidents_of_the_United_States_by_net_worth" title="List of Presidents of the United States by net worth">
+               Net worth
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_nicknames_of_Presidents_of_the_United_States" title="List of nicknames of Presidents of the United States">
+               Nicknames
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/United_States_presidential_pets" title="United States presidential pets">
+               Pets
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_Presidents_of_the_United_States_by_home_state" title="List of Presidents of the United States by home state">
+               Home state
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Religious_affiliations_of_Presidents_of_the_United_States" title="Religious affiliations of Presidents of the United States">
+               Religious affiliation
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_residences_of_Presidents_of_the_United_States" title="List of residences of Presidents of the United States">
+               Residences
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_Presidents_of_the_United_States_who_owned_slaves" title="List of Presidents of the United States who owned slaves">
+               Slave owners
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           Vice Presidents
+          </th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/List_of_vice_presidents_of_the_United_States_by_age" title="List of vice presidents of the United States by age">
+               Age
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_burial_places_of_presidents_and_vice_presidents_of_the_United_States#Vice_presidential_burial_places" title="List of burial places of presidents and vice presidents of the United States">
+               Burial places
+              </a>
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/List_of_personal_coats_of_arms_of_Vice_Presidents_of_the_United_States" title="List of personal coats of arms of Vice Presidents of the United States">
+               Coats of arms
+              </a>
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/List_of_Vice_Presidents_of_the_United_States_by_education" title="List of Vice Presidents of the United States by education">
+               Education
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Living_vice_presidents_of_the_United_States" title="Living vice presidents of the United States">
+               Number living
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_Vice_Presidents_of_the_United_States_by_other_offices_held" title="List of Vice Presidents of the United States by other offices held">
+               Other offices held
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_Vice_Presidents_of_the_United_States_by_place_of_primary_affiliation" title="List of Vice Presidents of the United States by place of primary affiliation">
+               Place of primary affiliation
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Religious_affiliations_of_Vice_Presidents_of_the_United_States" title="Religious affiliations of Vice Presidents of the United States">
+               Religious affiliation
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_tie-breaking_votes_cast_by_vice_presidents_of_the_United_States" title="List of tie-breaking votes cast by vice presidents of the United States">
+               Tie-breaking votes
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_Vice_Presidents_of_the_United_States_by_time_in_office" title="List of Vice Presidents of the United States by time in office">
+               Time in office
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           Succession
+          </th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/Acting_President_of_the_United_States" title="Acting President of the United States">
+               Acting President
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Designated_survivor" title="Designated survivor">
+               Designated survivor
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/United_States_presidential_line_of_succession" title="United States presidential line of succession">
+               Line of succession
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           <a href="/wiki/United_States_presidential_election" title="United States presidential election">
+            Elections
+           </a>
+          </th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/List_of_United_States_presidential_elections_by_Electoral_College_margin" title="List of United States presidential elections by Electoral College margin">
+               Electoral College margin
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_United_States_presidential_elections_by_popular_vote_margin" title="List of United States presidential elections by popular vote margin">
+               Popular vote margin
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/United_States_presidential_election_summary" title="United States presidential election summary">
+               Summary
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/United_States_presidential_elections_in_which_the_winner_lost_the_popular_vote" title="United States presidential elections in which the winner lost the popular vote">
+               Winner lost popular vote
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Contingent_election" title="Contingent election">
+               Contingent elections
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           <a href="/wiki/List_of_United_States_presidential_candidates" title="List of United States presidential candidates">
+            Candidates
+           </a>
+          </th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/List_of_United_States_Democratic_Party_presidential_tickets" title="List of United States Democratic Party presidential tickets">
+               Democrat
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_United_States_Republican_Party_presidential_tickets" title="List of United States Republican Party presidential tickets">
+               Republican
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_United_States_major_third_party_presidential_tickets_(1789%E2%80%931860)" title="List of United States major third party presidential tickets (17891860)">
+               Third party
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_United_States_Green_Party_presidential_tickets" title="List of United States Green Party presidential tickets">
+               Green
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_United_States_Libertarian_Party_presidential_tickets" title="List of United States Libertarian Party presidential tickets">
+               Libertarian
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_United_States_Progressive_Party_presidential_tickets" title="List of United States Progressive Party presidential tickets">
+               Progressive
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_United_States_National_Republican/Whig_Party_presidential_tickets" title="List of United States National Republican/Whig Party presidential tickets">
+               National Republican/Whig
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_African-American_United_States_presidential_and_vice_presidential_candidates" title="List of African-American United States presidential and vice presidential candidates">
+               African American
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_female_United_States_presidential_and_vice-presidential_candidates" title="List of female United States presidential and vice-presidential candidates">
+               Female
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_people_who_received_an_electoral_vote_in_the_United_States_Electoral_College" title="List of people who received an electoral vote in the United States Electoral College">
+               Received at least one electoral vote
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_United_States_presidential_candidates_by_number_of_votes_received" title="List of United States presidential candidates by number of votes received">
+               Number of votes received
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Heights_of_presidents_and_presidential_candidates_of_the_United_States" title="Heights of presidents and presidential candidates of the United States">
+               Height
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_unsuccessful_major_party_candidates_for_President_of_the_United_States" title="List of unsuccessful major party candidates for President of the United States">
+               Unsuccessful major party candidates
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_unsuccessful_major_party_candidates_for_Vice_President_of_the_United_States" title="List of unsuccessful major party candidates for Vice President of the United States">
+               Unsuccessful major party vice presidential candidates
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_major-party_United_States_presidential_candidates_who_lost_home_state" title="List of major-party United States presidential candidates who lost home state">
+               Lost their home state
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           Families
+          </th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/First_Family_of_the_United_States" title="First Family of the United States">
+               First Families
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_First_Ladies_of_the_United_States" title="List of First Ladies of the United States">
+               First Ladies
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Second_Lady_of_the_United_States" title="Second Lady of the United States">
+               Second Ladies
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_children_of_the_Presidents_of_the_United_States" title="List of children of the Presidents of the United States">
+               Children
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           Namesakes, honors
+          </th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/Presidential_memorials_in_the_United_States" title="Presidential memorials in the United States">
+               Memorial sites
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Presidents_of_the_United_States_on_U.S._postage_stamps" title="Presidents of the United States on U.S. postage stamps">
+               U.S. postage stamp appearances
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_educational_institutions_named_after_presidents_of_the_United_States" title="List of educational institutions named after presidents of the United States">
+               Educational institution names
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_Presidents_of_the_United_States_on_currency" title="List of Presidents of the United States on currency">
+               Currency appearances
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_U.S._counties_named_after_presidents_of_the_United_States" title="List of U.S. counties named after presidents of the United States">
+               U.S. county names
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/United_States_Senate_Vice_Presidential_Bust_Collection" title="United States Senate Vice Presidential Bust Collection">
+               U.S. Senate vice presidential bust collection
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           In fiction
+          </th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/Lists_of_fictional_presidents_of_the_United_States" title="Lists of fictional presidents of the United States">
+               Presidents
+              </a>
+              <ul>
+               <li>
+                <a href="/wiki/List_of_actors_who_played_the_President_of_the_United_States" title="List of actors who played the President of the United States">
+                 actors
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <a href="/wiki/List_of_fictional_Vice_Presidents_of_the_United_States" title="List of fictional Vice Presidents of the United States">
+               Vice Presidents
+              </a>
+              <ul>
+               <li>
+                <a href="/wiki/List_of_actors_who_played_the_Vice_President_of_the_United_States" title="List of actors who played the Vice President of the United States">
+                 actors
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <a href="/wiki/List_of_fictional_United_States_presidential_candidates" title="List of fictional United States presidential candidates">
+               Candidates
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/United_States_presidential_line_of_succession_in_fiction" title="United States presidential line of succession in fiction">
+               Line of succession
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div>
+            <ul>
+             <li>
+              <img alt="Portal" data-file-height="28" data-file-width="32" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+              <a href="/wiki/Portal:Government_of_the_United_States" title="Portal:Government of the United States">
+               U.S. Government Portal
+              </a>
+             </li>
+             <li>
+              <img alt="Portal" data-file-height="28" data-file-width="32" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+              <a href="/wiki/Portal:Biography" title="Portal:Biography">
+               Biography Portal
+              </a>
+             </li>
+             <li>
+              <img alt="Wikipedia book" data-file-height="185" data-file-width="180" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" title="Wikipedia book" width="16"/>
+              <a href="/wiki/Book:Presidents_of_the_United_States" title="Book:Presidents of the United States">
+               Presidents of the United States
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+      </div>
+      <div aria-labelledby="Chief_executives_of_the_United_States" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th class="navbox-title" colspan="2" scope="col">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view">
+              <a href="/wiki/Template:US_Chief_Executives" title="Template:US Chief Executives">
+               <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">
+                v
+               </abbr>
+              </a>
+             </li>
+             <li class="nv-talk">
+              <a href="/wiki/Template_talk:US_Chief_Executives" title="Template talk:US Chief Executives">
+               <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">
+                t
+               </abbr>
+              </a>
+             </li>
+             <li class="nv-edit">
+              <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:US_Chief_Executives&amp;action=edit">
+               <abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">
+                e
+               </abbr>
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div id="Chief_executives_of_the_United_States" style="font-size:114%;margin:0 4em">
+            Chief executives of the United States
+           </div>
+          </th>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           Federal
+          </th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/President_of_the_United_States" title="President of the United States">
+                President of the United States
+               </a>
+              </span>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           <a href="/wiki/Governor_(United_States)" title="Governor (United States)">
+            State governors
+           </a>
+           <br/>
+           (
+           <a class="mw-redirect" href="/wiki/List_of_current_United_States_governors" title="List of current United States governors">
+            current list
+           </a>
+           )
+          </th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Alabama" title="List of Governors of Alabama">
+                Alabama
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Alaska" title="List of Governors of Alaska">
+                Alaska
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Arizona" title="List of Governors of Arizona">
+                Arizona
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Arkansas" title="List of Governors of Arkansas">
+                Arkansas
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_California" title="Governor of California">
+                California
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_California" title="List of Governors of California">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Colorado" title="Governor of Colorado">
+                Colorado
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Connecticut" title="List of Governors of Connecticut">
+                Connecticut
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Delaware" title="List of Governors of Delaware">
+                Delaware
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Florida" title="List of Governors of Florida">
+                Florida
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Georgia" title="List of Governors of Georgia">
+                Georgia
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Hawaii" title="Governor of Hawaii">
+                Hawaii
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_Hawaii" title="List of Governors of Hawaii">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Idaho" title="List of Governors of Idaho">
+                Idaho
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Illinois" title="Governor of Illinois">
+                Illinois
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_Illinois" title="List of Governors of Illinois">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Indiana" title="Governor of Indiana">
+                Indiana
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_Indiana" title="List of Governors of Indiana">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Iowa" title="Governor of Iowa">
+                Iowa
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_Iowa" title="List of Governors of Iowa">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Kansas" title="List of Governors of Kansas">
+                Kansas
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Kentucky" title="Governor of Kentucky">
+                Kentucky
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_Kentucky" title="List of Governors of Kentucky">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Louisiana" title="List of Governors of Louisiana">
+                Louisiana
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Maine" title="Governor of Maine">
+                Maine
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_Maine" title="List of Governors of Maine">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Maryland" title="Governor of Maryland">
+                Maryland
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_Maryland" title="List of Governors of Maryland">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Massachusetts" title="Governor of Massachusetts">
+                Massachusetts
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Michigan" title="Governor of Michigan">
+                Michigan
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_Michigan" title="List of Governors of Michigan">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Minnesota" title="Governor of Minnesota">
+                Minnesota
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_Minnesota" title="List of Governors of Minnesota">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Mississippi" title="List of Governors of Mississippi">
+                Mississippi
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Missouri" title="List of Governors of Missouri">
+                Missouri
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Montana" title="List of Governors of Montana">
+                Montana
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Nebraska" title="Governor of Nebraska">
+                Nebraska
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_Nebraska" title="List of Governors of Nebraska">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Nevada" title="List of Governors of Nevada">
+                Nevada
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_New_Hampshire" title="Governor of New Hampshire">
+                New Hampshire
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_New_Hampshire" title="List of Governors of New Hampshire">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_New_Jersey" title="Governor of New Jersey">
+                New Jersey
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_New_Jersey" title="List of Governors of New Jersey">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_New_Mexico" title="Governor of New Mexico">
+                New Mexico
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_New_Mexico" title="List of Governors of New Mexico">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_New_York" title="Governor of New York">
+                New York
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_New_York" title="List of Governors of New York">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_North_Carolina" title="Governor of North Carolina">
+                North Carolina
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_North_Carolina" title="List of Governors of North Carolina">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_North_Dakota" title="Governor of North Dakota">
+                North Dakota
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_North_Dakota" title="List of Governors of North Dakota">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Ohio" title="List of Governors of Ohio">
+                Ohio
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Oklahoma" title="Governor of Oklahoma">
+                Oklahoma
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_Oklahoma" title="List of Governors of Oklahoma">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Oregon" title="Governor of Oregon">
+                Oregon
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_Oregon" title="List of Governors of Oregon">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Pennsylvania" title="List of Governors of Pennsylvania">
+                Pennsylvania
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Rhode_Island" title="List of Governors of Rhode Island">
+                Rhode Island
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_South_Carolina" title="Governor of South Carolina">
+                South Carolina
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_South_Carolina" title="List of Governors of South Carolina">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_South_Dakota" title="Governor of South Dakota">
+                South Dakota
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_South_Dakota" title="List of Governors of South Dakota">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Tennessee" title="Governor of Tennessee">
+                Tennessee
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_Tennessee" title="List of Governors of Tennessee">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Texas" title="Governor of Texas">
+                Texas
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_Texas" title="List of Governors of Texas">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Utah" title="List of Governors of Utah">
+                Utah
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Vermont" title="Governor of Vermont">
+                Vermont
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_Vermont" title="List of Governors of Vermont">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Virginia" title="Governor of Virginia">
+                Virginia
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_Virginia" title="List of Governors of Virginia">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Washington" title="List of Governors of Washington">
+                Washington
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_West_Virginia" title="List of Governors of West Virginia">
+                West Virginia
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Wisconsin" title="Governor of Wisconsin">
+                Wisconsin
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_Governors_of_Wisconsin" title="List of Governors of Wisconsin">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Wyoming" title="List of Governors of Wyoming">
+                Wyoming
+               </a>
+              </span>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           <a href="/wiki/Category:Lists_of_governors_of_insular_areas_of_the_United_States" title="Category:Lists of governors of insular areas of the United States">
+            Territorial
+           </a>
+           <br/>
+           (
+           <a class="mw-redirect" href="/wiki/List_of_current_United_States_governors#United_States_Territories_and_the_District_of_Columbia" title="List of current United States governors">
+            current list
+           </a>
+           )
+          </th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_governors_of_American_Samoa" title="List of governors of American Samoa">
+                American Samoa
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Mayor_of_the_District_of_Columbia" title="Mayor of the District of Columbia">
+                District of Columbia
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_Guam" title="List of Governors of Guam">
+                Guam
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_the_Northern_Mariana_Islands" title="List of Governors of the Northern Mariana Islands">
+                Northern Mariana Islands
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor_of_Puerto_Rico" title="Governor of Puerto Rico">
+                Puerto Rico
+               </a>
+              </span>
+              <ul>
+               <li>
+                <span class="nowrap">
+                 <a href="/wiki/List_of_governors_of_Puerto_Rico" title="List of governors of Puerto Rico">
+                  list
+                 </a>
+                </span>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_the_United_States_Virgin_Islands" title="List of Governors of the United States Virgin Islands">
+                United States Virgin Islands
+               </a>
+              </span>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           <i>
+            Defunct
+           </i>
+          </th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Category:Lists_of_territorial_governors_of_the_United_States" title="Category:Lists of territorial governors of the United States">
+                Pre-state territories
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Governors_of_the_Panama_Canal_Zone" title="List of Governors of the Panama Canal Zone">
+                Panama Canal Zone
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_colonial_governors_of_Cuba" title="List of colonial governors of Cuba">
+                Cuba
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/List_of_Presidents_of_the_Dominican_Republic#List_of_unofficial_Presidents_of_the_Dominican_Republic" title="List of Presidents of the Dominican Republic">
+                Santo Domingo
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/Governor-General_of_the_Philippines" title="Governor-General of the Philippines">
+                Philippine Islands
+               </a>
+               <span style="font-size:85%;">
+                (until 1935)
+               </span>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/High_Commissioner_to_the_Philippines" title="High Commissioner to the Philippines">
+                Philippine Commonwealth
+               </a>
+               <span style="font-size:85%;">
+                (until 1946)
+               </span>
+              </span>
+             </li>
+             <li>
+              <span class="nowrap">
+               <a href="/wiki/High_Commissioner_of_the_Trust_Territory_of_the_Pacific_Islands" title="High Commissioner of the Trust Territory of the Pacific Islands">
+                Trust Territory of the Pacific Islands
+               </a>
+              </span>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1309
+Cached time: 20190427212839
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 1.408 seconds
+Real time usage: 1.597 seconds
+Preprocessor visited node count: 8193/1000000
+Preprocessor generated node count: 0/1500000
+Postexpand include size: 317563/2097152 bytes
+Template argument size: 18127/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip postexpand size: 376703/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.618/10.000 seconds
+Lua memory usage: 6.65 MB/50 MB
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1128.946      1 -total
+ 61.05%  689.233      2 Template:Reflist
+ 49.50%  558.806    129 Template:Cite_web
+  6.22%   70.174      1 Template:Pp-pc
+  5.71%   64.495      4 Template:Navbox
+  3.49%   39.367      1 Template:US_Presidents
+  3.16%   35.646      1 Template:Notelist
+  2.94%   33.202     35 Template:Efn
+  2.88%   32.534      1 Template:Politics_of_the_United_States
+  2.53%   28.514      1 Template:Sidebar_with_collapsible_lists
+-->
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:19908980-0!canonical and timestamp 20190427212839 and revision id 894434191
+ -->
+      <!-- Saved in parser cache with key enwiki:stable-pcache:idhash:19908980-0!canonical and timestamp 20190427212847 and revision id 894434191
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_Presidents_of_the_United_States&amp;oldid=894434191">
+      https://en.wikipedia.org/w/index.php?title=List_of_Presidents_of_the_United_States&amp;oldid=894434191
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Lists_of_national_presidents" title="Category:Lists of national presidents">
+         Lists of national presidents
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Lists_relating_to_the_United_States_presidency" title="Category:Lists relating to the United States presidency">
+         Lists relating to the United States presidency
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Presidents_of_the_United_States" title="Category:Presidents of the United States">
+         Presidents of the United States
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Wikipedia_pending_changes_protected_pages" title="Category:Wikipedia pending changes protected pages">
+         Wikipedia pending changes protected pages
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_mdy_dates_from_April_2017" title="Category:Use mdy dates from April 2017">
+         Use mdy dates from April 2017
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">
+         Articles with short description
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+Presidents+of+the+United+States" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+Presidents+of+the+United+States" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/List_of_Presidents_of_the_United_States" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:List_of_Presidents_of_the_United_States" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+      </h3>
+      <ul class="menu">
+      </ul>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="collapsible selected" id="ca-view">
+        <span>
+         <a href="/wiki/List_of_Presidents_of_the_United_States">
+          Read
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=List_of_Presidents_of_the_United_States&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=List_of_Presidents_of_the_United_States&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+      </h3>
+      <ul class="menu">
+      </ul>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content  the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/List_of_Presidents_of_the_United_States" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/List_of_Presidents_of_the_United_States" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=List_of_Presidents_of_the_United_States&amp;oldid=894434191" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=List_of_Presidents_of_the_United_States&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q35073" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_Presidents_of_the_United_States&amp;id=894434191" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+Presidents+of+the+United+States">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:ElectronPdf&amp;page=List+of+Presidents+of+the+United+States&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=List_of_Presidents_of_the_United_States&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-wikiquote">
+        <a href="https://en.wikiquote.org/wiki/List_of_Presidents_of_the_United_States" hreflang="en">
+         Wikiquote
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Lys_van_Presidente_van_die_Verenigde_State" hreflang="af" lang="af" title="Lys van Presidente van die Verenigde State  Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-am">
+        <a class="interlanguage-link-target" href="https://am.wikipedia.org/wiki/%E1%8B%A8%E1%8A%A0%E1%88%9C%E1%88%AA%E1%8A%AB_%E1%8D%95%E1%88%AC%E1%8B%9D%E1%8B%B3%E1%8A%95%E1%89%B6%E1%89%BD_%E1%8B%9D%E1%88%AD%E1%8B%9D%E1%88%AD" hreflang="am" lang="am" title="    Amharic">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar badge-Q17506997 badge-featuredlist" title="featured list">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9" hreflang="ar" lang="ar" title="     Arabic">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-frp">
+        <a class="interlanguage-link-target" href="https://frp.wikipedia.org/wiki/Lista_des_pr%C3%A8sidents_des_%C3%88tats-Unis_d%E2%80%99Am%C3%A8rica" hreflang="frp" lang="frp" title="Lista des prsidents des tats-Unis dAmrica  Arpitan">
+         Arpetan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-as">
+        <a class="interlanguage-link-target" href="https://as.wikipedia.org/wiki/%E0%A6%86%E0%A6%AE%E0%A7%87%E0%A7%B0%E0%A6%BF%E0%A6%95%E0%A6%BE_%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A7%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A7%B0%E0%A7%B0_%E0%A7%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A7%B0%E0%A6%AA%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%95%E0%A6%B2%E0%A7%B0_%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE" hreflang="as" lang="as" title="     Assamese">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Presidentes_de_los_Estaos_Xun%C3%ADos_d%27Am%C3%A9rica" hreflang="ast" lang="ast" title="Presidentes de los Estaos Xunos d'Amrica  Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az badge-Q17506997 badge-featuredlist" title="featured list">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Amerika_Birl%C9%99%C5%9Fmi%C5%9F_%C5%9Etatlar%C4%B1_prezidentl%C9%99rinin_siyah%C4%B1s%C4%B1" hreflang="az" lang="az" title="Amerika Birlmi tatlar prezidentlrinin siyahs  Azerbaijani">
+         Azrbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bm">
+        <a class="interlanguage-link-target" href="https://bm.wikipedia.org/wiki/USA_Jamanakuntigiw" hreflang="bm" lang="bm" title="USA Jamanakuntigiw  Bambara">
+         Bamanankan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8_%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0_%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AA%E0%A6%A4%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0_%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE" hreflang="bn" lang="bn" title="     Bangla">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/B%C3%AD-kok_ch%C3%B3ng-th%C3%B3ng_lia%CC%8Dt-pi%C3%B3" hreflang="nan" lang="nan" title="B-kok chng-thng liat-pi  Chinese (Min Nan)">
+         Bn-lm-g
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be badge-Q17506997 badge-featuredlist" title="featured list">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A1%D0%BF%D1%96%D1%81_%D0%BF%D1%80%D1%8D%D0%B7%D1%96%D0%B4%D1%8D%D0%BD%D1%82%D0%B0%D1%9E_%D0%97%D0%A8%D0%90" hreflang="be" lang="be" title="    Belarusian">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bcl">
+        <a class="interlanguage-link-target" href="https://bcl.wikipedia.org/wiki/Lista_nin_mga_Presidente_kan_Estados_Unidos" hreflang="bcl" lang="bcl" title="Lista nin mga Presidente kan Estados Unidos  Central Bikol">
+         Bikol Central
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9" hreflang="bg" lang="bg" title="      Bulgarian">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bar">
+        <a class="interlanguage-link-target" href="https://bar.wikipedia.org/wiki/Amerikanische_Presidentn" hreflang="bar" lang="bar" title="Amerikanische Presidentn  Bavarian">
+         Boarisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Spisak_predsjednika_Sjedinjenih_Ameri%C4%8Dkih_Dr%C5%BEava" hreflang="bs" lang="bs" title="Spisak predsjednika Sjedinjenih Amerikih Drava  Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-br">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Prezidant_Stado%C3%B9-Unanet_Amerika" hreflang="br" lang="br" title="Prezidant Stado-Unanet Amerika  Breton">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Llista_de_presidents_dels_Estats_Units" hreflang="ca" lang="ca" title="Llista de presidents dels Estats Units  Catalan">
+         Catal
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cv">
+        <a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%90%D0%9F%D0%A8_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%87%C4%95%D1%81%D0%B5%D0%BD_%D1%8F%D1%82-%D0%B9%D1%8B%D1%88%C4%95" hreflang="cv" lang="cv" title="  -  Chuvash">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs badge-Q17437798 badge-goodarticle" title="good article">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Seznam_prezident%C5%AF_Spojen%C3%BDch_st%C3%A1t%C5%AF_americk%C3%BDch" hreflang="cs" lang="cs" title="Seznam prezident Spojench stt americkch  Czech">
+         etina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-co">
+        <a class="interlanguage-link-target" href="https://co.wikipedia.org/wiki/Presidenti_di_i_Stati_Uniti_d%27America" hreflang="co" lang="co" title="Presidenti di i Stati Uniti d'America  Corsican">
+         Corsu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Arlywydd_yr_Unol_Daleithiau" hreflang="cy" lang="cy" title="Arlywydd yr Unol Daleithiau  Welsh">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Amerikanske_pr%C3%A6sidenter" hreflang="da" lang="da" title="Amerikanske prsidenter  Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de badge-Q17506997 badge-featuredlist" title="featured list">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Liste_der_Pr%C3%A4sidenten_der_Vereinigten_Staaten" hreflang="de" lang="de" title="Liste der Prsidenten der Vereinigten Staaten  German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Ameerika_%C3%9Chendriikide_presidentide_ja_asepresidentide_loend" hreflang="et" lang="et" title="Ameerika hendriikide presidentide ja asepresidentide loend  Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CE%A0%CF%81%CE%BF%CE%AD%CE%B4%CF%81%CF%89%CE%BD_%CF%84%CF%89%CE%BD_%CE%97%CE%BD%CF%89%CE%BC%CE%AD%CE%BD%CF%89%CE%BD_%CE%A0%CE%BF%CE%BB%CE%B9%CF%84%CE%B5%CE%B9%CF%8E%CE%BD" hreflang="el" lang="el" title="      Greek">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-myv">
+        <a class="interlanguage-link-target" href="https://myv.wikipedia.org/wiki/%D0%90%D0%92%D0%A8_%D0%BF%D1%80%D1%8F%D0%B2%D1%82%D1%82%D0%BD%D0%B5%D0%BD%D1%8C_%D0%BB%D0%BE%D0%B2%D0%BE%D0%B2%D0%BA%D1%81" hreflang="myv" lang="myv" title="    Erzya">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Anexo:Presidentes_de_los_Estados_Unidos" hreflang="es" lang="es" title="Anexo:Presidentes de los Estados Unidos  Spanish">
+         Espaol
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Listo_de_prezidantoj_de_Usono" hreflang="eo" lang="eo" title="Listo de prezidantoj de Usono  Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Zerrenda:Ameriketako_Estatu_Batuetako_presidenteak" hreflang="eu" lang="eu" title="Zerrenda:Ameriketako Estatu Batuetako presidenteak  Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D8%B1%D8%A4%D8%B3%D8%A7%DB%8C_%D8%AC%D9%85%D9%87%D9%88%D8%B1_%D8%A7%DB%8C%D8%A7%D9%84%D8%A7%D8%AA_%D9%85%D8%AA%D8%AD%D8%AF%D9%87_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7" hreflang="fa" lang="fa" title="       Persian">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fo">
+        <a class="interlanguage-link-target" href="https://fo.wikipedia.org/wiki/Listi_yvir_forsetarnar_%C3%AD_USA" hreflang="fo" lang="fo" title="Listi yvir forsetarnar  USA  Faroese">
+         Froyskt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Liste_des_pr%C3%A9sidents_des_%C3%89tats-Unis" hreflang="fr" lang="fr" title="Liste des prsidents des tats-Unis  French">
+         Franais
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fy">
+        <a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/List_fan_Amerikaanske_presidinten" hreflang="fy" lang="fy" title="List fan Amerikaanske presidinten  Western Frisian">
+         Frysk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Uachtar%C3%A1n_na_St%C3%A1t_Aontaithe" hreflang="ga" lang="ga" title="Uachtarn na Stt Aontaithe  Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gv">
+        <a class="interlanguage-link-target" href="https://gv.wikipedia.org/wiki/Eaghtyrane_ny_Steatyn_Unnaneysit" hreflang="gv" lang="gv" title="Eaghtyrane ny Steatyn Unnaneysit  Manx">
+         Gaelg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Lista_de_presidentes_dos_Estados_Unidos_de_Am%C3%A9rica" hreflang="gl" lang="gl" title="Lista de presidentes dos Estados Unidos de Amrica  Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%B5%AD%EC%9D%98_%EB%8C%80%ED%86%B5%EB%A0%B9_%EB%AA%A9%EB%A1%9D" hreflang="ko" lang="ko" title="    Korean">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B1%D5%84%D5%86-%D5%AB_%D5%B6%D5%A1%D5%AD%D5%A1%D5%A3%D5%A1%D5%B0%D5%B6%D5%A5%D6%80%D5%AB_%D6%81%D5%A1%D5%B6%D5%AF" hreflang="hy" lang="hy" title="-    Armenian">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%AF%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%A4_%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%AA%E0%A4%A4%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80" hreflang="hi" lang="hi" title="       Hindi">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Dodatak:Popis_predsjednika_Sjedinjenih_Ameri%C4%8Dkih_Dr%C5%BEava" hreflang="hr" lang="hr" title="Dodatak:Popis predsjednika Sjedinjenih Amerikih Drava  Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Listo_pri_prezidanti_di_Usa" hreflang="io" lang="io" title="Listo pri prezidanti di Usa  Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ilo">
+        <a class="interlanguage-link-target" href="https://ilo.wikipedia.org/wiki/Listaan_dagiti_Presidente_iti_Estados_Unidos" hreflang="ilo" lang="ilo" title="Listaan dagiti Presidente iti Estados Unidos  Iloko">
+         Ilokano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id badge-Q17506997 badge-featuredlist" title="featured list">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Daftar_Presiden_Amerika_Serikat" hreflang="id" lang="id" title="Daftar Presiden Amerika Serikat  Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ia">
+        <a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Appendice:Lista_de_presidentes_del_Statos_Unite_de_America" hreflang="ia" lang="ia" title="Appendice:Lista de presidentes del Statos Unite de America  Interlingua">
+         Interlingua
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is badge-Q17437798 badge-goodarticle" title="good article">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Listi_yfir_forseta_Bandar%C3%ADkjanna" hreflang="is" lang="is" title="Listi yfir forseta Bandarkjanna  Icelandic">
+         slenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Presidenti_degli_Stati_Uniti_d%27America" hreflang="it" lang="it" title="Presidenti degli Stati Uniti d'America  Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA_%D7%A0%D7%A9%D7%99%D7%90%D7%99_%D7%90%D7%A8%D7%A6%D7%95%D7%AA_%D7%94%D7%91%D7%A8%D7%99%D7%AA" hreflang="he" lang="he" title="     Hebrew">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-jv">
+        <a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Prat%C3%A9lan_Pr%C3%A9sidh%C3%A8n_Am%C3%A9rika_Sar%C3%A9kat" hreflang="jv" lang="jv" title="Pratlan Prsidhn Amrika Sarkat  Javanese">
+         Basa Jawa
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kn">
+        <a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%85%E0%B2%AE%E0%B3%87%E0%B2%B0%E0%B2%BF%E0%B2%95_%E0%B2%B8%E0%B2%82%E0%B2%AF%E0%B3%81%E0%B2%95%E0%B3%8D%E0%B2%A4_%E0%B2%B8%E0%B2%82%E0%B2%B8%E0%B3%8D%E0%B2%A5%E0%B2%BE%E0%B2%A8%E0%B2%A6_%E0%B2%B0%E0%B2%BE%E0%B2%B7%E0%B3%8D%E0%B2%9F%E0%B3%8D%E0%B2%B0%E0%B2%AA%E0%B2%A4%E0%B2%BF%E0%B2%97%E0%B2%B3_%E0%B2%AA%E0%B2%9F%E0%B3%8D%E0%B2%9F%E0%B2%BF" hreflang="kn" lang="kn" title="      Kannada">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka badge-Q17437796 badge-featuredarticle" title="featured article">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%A8%E1%83%A8-%E1%83%98%E1%83%A1_%E1%83%9E%E1%83%A0%E1%83%94%E1%83%96%E1%83%98%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%94%E1%83%91%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%98%E1%83%90" hreflang="ka" lang="ka" title="-    Georgian">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%90%D2%9A%D0%A8_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D1%82%D0%B5%D1%80%D1%96%D0%BD%D1%96%D2%A3_%D1%82%D1%96%D0%B7%D1%96%D0%BC%D1%96" hreflang="kk" lang="kk" title="    Kazakh">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kw">
+        <a class="interlanguage-link-target" href="https://kw.wikipedia.org/wiki/Lywydhyon_a%27n_Statys_Unys_Amerika" hreflang="kw" lang="kw" title="Lywydhyon a'n Statys Unys Amerika  Cornish">
+         Kernowek
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-rw">
+        <a class="interlanguage-link-target" href="https://rw.wikipedia.org/wiki/Abaperezida_ba_Leta_Zunze_Ubumwe_z%E2%80%99Amerika" hreflang="rw" lang="rw" title="Abaperezida ba Leta Zunze Ubumwe zAmerika  Kinyarwanda">
+         Kinyarwanda
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sw">
+        <a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Orodha_ya_Marais_wa_Marekani" hreflang="sw" lang="sw" title="Orodha ya Marais wa Marekani  Swahili">
+         Kiswahili
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ku">
+        <a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/L%C3%AEsteya_Serok%C3%AAn_Dewlet%C3%AAn_Yekb%C3%BBy%C3%AE_y%C3%AAn_Amer%C3%AEkay%C3%AA" hreflang="ku" lang="ku" title="Lsteya Serokn Dewletn Yekby yn Amerkay  Kurdish">
+         Kurd
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mrj">
+        <a class="interlanguage-link-target" href="https://mrj.wikipedia.org/wiki/%D0%90%D0%A3%D0%A8_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B2%D0%BB%D3%93" hreflang="mrj" lang="mrj" title="   Western Mari">
+          
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Index_praesidum_Civitatum_Foederatarum_Americae" hreflang="la" lang="la" title="Index praesidum Civitatum Foederatarum Americae  Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/ASV_prezidentu_uzskait%C4%ABjums" hreflang="lv" lang="lv" title="ASV prezidentu uzskaitjums  Latvian">
+         Latvieu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/L%C3%ABscht_vun_de_Presidente_vun_den_USA" hreflang="lb" lang="lb" title="Lscht vun de Presidente vun den USA  Luxembourgish">
+         Ltzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:JAV_prezidentai" hreflang="lt" lang="lt" title="Sraas:JAV prezidentai  Lithuanian">
+         Lietuvi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-li">
+        <a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Lies_van_presidente_van_de_Vereinigde_Sjtaote" hreflang="li" lang="li" title="Lies van presidente van de Vereinigde Sjtaote  Limburgish">
+         Limburgs
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lfn">
+        <a class="interlanguage-link-target" href="https://lfn.wikipedia.org/wiki/Lista_de_Presidentes_de_la_Statos_Unida_de_America" hreflang="lfn" lang="lfn" title="Lista de Presidentes de la Statos Unida de America  Lingua Franca Nova">
+         Lingua Franca Nova
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-jbo">
+        <a class="interlanguage-link-target" href="https://jbo.wikipedia.org/wiki/liste_be_lo_merja%27a" hreflang="jbo" lang="jbo" title="liste be lo merja'a  Lojban">
+         La .lojban.
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Az_Amerikai_Egyes%C3%BClt_%C3%81llamok_eln%C3%B6keinek_list%C3%A1ja" hreflang="hu" lang="hu" title="Az Amerikai Egyeslt llamok elnkeinek listja  Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mai">
+        <a class="interlanguage-link-target" href="https://mai.wikipedia.org/wiki/%E0%A4%85%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%95_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%AA%E0%A4%A4%E0%A4%BF%E0%A4%B8%E0%A4%AD%E0%A4%95_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80" hreflang="mai" lang="mai" title="    Maithili">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D1%82%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%BD%D0%B0_%D0%A1%D0%90%D0%94" hreflang="mk" lang="mk" title="      Macedonian">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%AE%E0%B5%87%E0%B4%B0%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%BB_%E0%B4%90%E0%B4%95%E0%B5%8D%E0%B4%AF%E0%B4%A8%E0%B4%BE%E0%B4%9F%E0%B5%81%E0%B4%95%E0%B4%B3%E0%B5%81%E0%B4%9F%E0%B5%86_%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%B8%E0%B4%BF%E0%B4%A1%E0%B4%A3%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%AE%E0%B4%BE%E0%B4%B0%E0%B5%81%E0%B4%9F%E0%B5%86_%E0%B4%AA%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF%E0%B4%95" hreflang="ml" lang="ml" title="     Malayalam">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-xmf">
+        <a class="interlanguage-link-target" href="https://xmf.wikipedia.org/wiki/%E1%83%90%E1%83%90%E1%83%A8-%E1%83%98%E1%83%A8_%E1%83%9E%E1%83%A0%E1%83%94%E1%83%96%E1%83%98%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%94%E1%83%A4%E1%83%98%E1%83%A8_%E1%83%94%E1%83%A0%E1%83%99%E1%83%94%E1%83%91%E1%83%A3%E1%83%9A%E1%83%98" hreflang="xmf" lang="xmf" title="-    Mingrelian">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-arz">
+        <a class="interlanguage-link-target" href="https://arz.wikipedia.org/wiki/%D9%84%D8%B3%D8%AA%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7_%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D8%A7" hreflang="arz" lang="arz" title="    Egyptian Arabic">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mzn badge-Q17437796 badge-featuredarticle" title="featured article">
+        <a class="interlanguage-link-target" href="https://mzn.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D8%AF%D9%87_%D8%A7%DB%8C%D8%A7%D9%84%D8%A7%D8%AA_%D8%B1%DB%8C%DB%8C%D8%B3%E2%80%8C%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%88%D9%86" hreflang="mzn" lang="mzn" title="    Mazanderani">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Senarai_Presiden_Amerika_Syarikat" hreflang="ms" lang="ms" title="Senarai Presiden Amerika Syarikat  Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Lijst_van_presidenten_van_de_Verenigde_Staten" hreflang="nl" lang="nl" title="Lijst van presidenten van de Verenigde Staten  Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nds-nl">
+        <a class="interlanguage-link-target" href="https://nds-nl.wikipedia.org/wiki/Lieste_van_presidenten_van_de_Vereanegde_Stoaten" hreflang="nds-NL" lang="nds-NL" title="Lieste van presidenten van de Vereanegde Stoaten  Low Saxon">
+         Nedersaksies
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ne">
+        <a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%85%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%95%E0%A4%BE_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%AA%E0%A4%A4%E0%A4%BF%E0%A4%B9%E2%80%8D%E0%A4%B0%E0%A5%82%E0%A4%95%E0%A5%8B_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80" hreflang="ne" lang="ne" title="    Nepali">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-new">
+        <a class="interlanguage-link-target" href="https://new.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%AF%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%A4_%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF_%E0%A4%85%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%AF%E0%A4%BE_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%AA%E0%A4%A4%E0%A4%BF%E0%A4%A4%E0%A5%87%E0%A4%97%E0%A5%81_%E0%A4%A7%E0%A4%B2%E0%A4%83" hreflang="new" lang="new" title="      Newari">
+          
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%AD%B4%E4%BB%A3%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E5%A4%A7%E7%B5%B1%E9%A0%98%E3%81%AE%E4%B8%80%E8%A6%A7" hreflang="ja" lang="ja" title="  Japanese">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no badge-Q17506997 badge-featuredlist" title="featured list">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Liste_over_USAs_presidenter" hreflang="no" lang="no" title="Liste over USAs presidenter  Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Presidentar_i_USA" hreflang="nn" lang="nn" title="Presidentar i USA  Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nrm">
+        <a class="interlanguage-link-target" href="https://nrm.wikipedia.org/wiki/Pr%C3%A9sident_d%27s_%C3%8Atats_Unnis" hreflang="nrf" lang="nrf" title="Prsident d's tats Unnis  Norman">
+         Nouormand
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Lista_dels_presidents_dels_Estats_Units_d%27America" hreflang="oc" lang="oc" title="Lista dels presidents dels Estats Units d'America  Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/AQSH_prezidentlari_ro%CA%BByxati" hreflang="uz" lang="uz" title="AQSH prezidentlari royxati  Uzbek">
+         Ozbekcha/
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa">
+        <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%B8%E0%A9%B0%E0%A8%AF%E0%A9%81%E0%A8%95%E0%A8%A4_%E0%A8%B0%E0%A8%BE%E0%A8%9C_%E0%A8%A6%E0%A9%87_%E0%A8%B0%E0%A8%BE%E0%A8%B8%E0%A8%BC%E0%A8%9F%E0%A8%B0%E0%A8%AA%E0%A8%A4%E0%A9%80%E0%A8%86%E0%A8%82_%E0%A8%A6%E0%A9%80_%E0%A8%B8%E0%A9%82%E0%A8%9A%E0%A9%80" hreflang="pa" lang="pa" title="       Punjabi">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nds">
+        <a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/List_van_de_Pr%C3%A4sidenten_van_de_USA" hreflang="nds" lang="nds" title="List van de Prsidenten van de USA  Low German">
+         Plattdtsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Prezydenci_Stan%C3%B3w_Zjednoczonych" hreflang="pl" lang="pl" title="Prezydenci Stanw Zjednoczonych  Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt badge-Q17506997 badge-featuredlist" title="featured list">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Lista_de_presidentes_dos_Estados_Unidos" hreflang="pt" lang="pt" title="Lista de presidentes dos Estados Unidos  Portuguese">
+         Portugus
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ksh">
+        <a class="interlanguage-link-target" href="https://ksh.wikipedia.org/wiki/%C3%96wersich_met_de_Pr%C3%A4sidente_von_de_Vereenischte_Staate_von_Amerika" hreflang="ksh" lang="ksh" title="wersich met de Prsidente von de Vereenischte Staate von Amerika  Colognian">
+         Ripoarisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Lista_pre%C8%99edin%C8%9Bilor_Statelor_Unite_ale_Americii" hreflang="ro" lang="ro" title="Lista preedinilor Statelor Unite ale Americii  Romanian">
+         Romn
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-rue">
+        <a class="interlanguage-link-target" href="https://rue.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D1%96%D0%B4%D0%B5%D0%BD%D1%82%D1%8B_%D0%A1%D0%A8%D0%90" hreflang="rue" lang="rue" title="   Rusyn">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru badge-Q17506997 badge-featuredlist" title="featured list">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90" hreflang="ru" lang="ru" title="    Russian">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Leet_o_Preses_o_the_Unitit_States" hreflang="sco" lang="sco" title="Leet o Preses o the Unitit States  Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Lista_e_President%C3%ABve_t%C3%AB_Shteteve_t%C3%AB_Bashkuara_t%C3%AB_Amerik%C3%ABs" hreflang="sq" lang="sq" title="Lista e Presidentve t Shteteve t Bashkuara t Ameriks  Albanian">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-scn">
+        <a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Prisidenti_d%C3%AE_Stati_Uniti" hreflang="scn" lang="scn" title="Prisidenti d Stati Uniti  Sicilian">
+         Sicilianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-si">
+        <a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%91%E0%B6%9A%E0%B7%8A%E0%B7%83%E0%B6%AD%E0%B7%8A_%E0%B6%A2%E0%B6%B1%E0%B6%B4%E0%B6%AF_%E0%B6%A2%E0%B6%B1%E0%B7%8F%E0%B6%B0%E0%B7%92%E0%B6%B4%E0%B6%AD%E0%B7%92_%E0%B6%BD%E0%B7%90%E0%B6%BA%E0%B7%92%E0%B7%83%E0%B7%8A%E0%B6%AD%E0%B7%94%E0%B7%80" hreflang="si" lang="si" title="     Sinhala">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/List_of_Presidents_of_the_United_States" hreflang="en-simple" lang="en-simple" title="List of Presidents of the United States  Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Zoznam_prezidentov_Spojen%C3%BDch_%C5%A1t%C3%A1tov" hreflang="sk" lang="sk" title="Zoznam prezidentov Spojench ttov  Slovak">
+         Slovenina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Seznam_predsednikov_Zdru%C5%BEenih_dr%C5%BEav_Amerike" hreflang="sl" lang="sl" title="Seznam predsednikov Zdruenih drav Amerike  Slovenian">
+         Slovenina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ckb">
+        <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D9%BE%DB%8E%D8%B1%D8%B3%D8%AA%DB%8C_%D8%B3%DB%95%D8%B1%DB%86%DA%A9%DA%A9%DB%86%D9%85%D8%A7%D8%B1%DB%95%DA%A9%D8%A7%D9%86%DB%8C_%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%95%D8%AA%DB%95_%DB%8C%DB%95%DA%A9%DA%AF%D8%B1%D8%AA%D9%88%D9%88%DB%95%DA%A9%D8%A7%D9%86" hreflang="ckb" lang="ckb" title="     Central Kurdish">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%D0%B0_%D0%A1%D1%98%D0%B5%D0%B4%D0%B8%D1%9A%D0%B5%D0%BD%D0%B8%D1%85_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D1%87%D0%BA%D0%B8%D1%85_%D0%94%D1%80%D0%B6%D0%B0%D0%B2%D0%B0" hreflang="sr" lang="sr" title="      Serbian">
+          / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Popis_predsjednika_SAD" hreflang="sh" lang="sh" title="Popis predsjednika SAD  Serbo-Croatian">
+         Srpskohrvatski / 
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi badge-Q17506997 badge-featuredlist" title="featured list">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Luettelo_Yhdysvaltain_presidenteist%C3%A4" hreflang="fi" lang="fi" title="Luettelo Yhdysvaltain presidenteist  Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_USA:s_presidenter" hreflang="sv" lang="sv" title="Lista ver USA:s presidenter  Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%90%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AF_%E0%AE%85%E0%AE%AE%E0%AF%86%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AF%81%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%B0%E0%AE%9A%E0%AF%81%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%B2%E0%AF%88%E0%AE%B5%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D" hreflang="ta" lang="ta" title="     Tamil">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tt">
+        <a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%90%D0%9A%D0%A8_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BB%D0%B0%D1%80%D1%8B_%D0%B8%D1%81%D0%B5%D0%BC%D0%BB%D0%B5%D0%B3%D0%B5" hreflang="tt" lang="tt" title="    Tatar">
+         /tatara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-te">
+        <a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%85%E0%B0%AE%E0%B1%86%E0%B0%B0%E0%B0%BF%E0%B0%95%E0%B0%BE_%E0%B0%B8%E0%B0%82%E0%B0%AF%E0%B1%81%E0%B0%95%E0%B1%8D%E0%B0%A4_%E0%B0%B0%E0%B0%BE%E0%B0%B7%E0%B1%8D%E0%B0%9F%E0%B1%8D%E0%B0%B0%E0%B0%BE%E0%B0%B2_%E0%B0%85%E0%B0%A7%E0%B1%8D%E0%B0%AF%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B1%81%E0%B0%B2%E0%B1%81" hreflang="te" lang="te" title="     Telugu">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9A%E0%B8%94%E0%B8%B5%E0%B8%AA%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%90" hreflang="th" lang="th" title="  Thai">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tg">
+        <a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8_%D0%98%D1%91%D0%BB%D0%BE%D1%82%D0%B8_%D0%9C%D1%83%D1%82%D1%82%D0%B0%D2%B3%D0%B8%D0%B4%D0%B0%D0%B8_%D0%90%D0%BC%D1%80%D0%B8%D0%BA%D0%BE" hreflang="tg" lang="tg" title="     Tajik">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-chr">
+        <a class="interlanguage-link-target" href="https://chr.wikipedia.org/wiki/%E1%8E%A0%E1%8E%BA%E1%8E%B5%E1%8E%A8_%E1%8E%A4%E1%8F%82%E1%8E%AC%E1%8F%AB%E1%8F%B3%E1%8E%AF" hreflang="chr" lang="chr" title="   Cherokee">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri_ba%C5%9Fkanlar%C4%B1_listesi" hreflang="tr" lang="tr" title="Amerika Birleik Devletleri bakanlar listesi  Turkish">
+         Trke
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tk">
+        <a class="interlanguage-link-target" href="https://tk.wikipedia.org/wiki/AB%C5%9E_prezidentlerini%C5%88_sanawy" hreflang="tk" lang="tk" title="AB prezidentlerini sanawy  Turkmen">
+         Trkmene
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk badge-Q17506997 badge-featuredlist" title="featured list">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D1%96%D0%B2_%D0%A1%D0%A8%D0%90" hreflang="uk" lang="uk" title="    Ukrainian">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA%DB%81%D8%A7%D8%A6%DB%92_%D9%85%D8%AA%D8%AD%D8%AF%DB%81_%DA%A9%DB%92_%D8%B5%D8%AF%D9%88%D8%B1_%DA%A9%DB%8C_%D9%81%DB%81%D8%B1%D8%B3%D8%AA" hreflang="ur" lang="ur" title="       Urdu">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vec">
+        <a class="interlanguage-link-target" href="https://vec.wikipedia.org/wiki/Lista_dei_Presidenti_dei_Stati_Un%C3%ACi_de_%C5%82a_M%C3%A8rica" hreflang="vec" lang="vec" title="Lista dei Presidenti dei Stati Uni de a Mrica  Venetian">
+         Vneto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi badge-Q17437796 badge-featuredarticle" title="featured article">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_T%E1%BB%95ng_th%E1%BB%91ng_Hoa_K%E1%BB%B3" hreflang="vi" lang="vi" title="Danh sch Tng thng Hoa K  Vietnamese">
+         Ting Vit
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-war">
+        <a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Talaan_hin_mga_Mangulo_han_Estados_Unidos" hreflang="war" lang="war" title="Talaan hin mga Mangulo han Estados Unidos  Waray">
+         Winaray
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-yi">
+        <a class="interlanguage-link-target" href="https://yi.wikipedia.org/wiki/%D7%9C%D7%99%D7%A1%D7%98%D7%A2_%D7%A4%D7%95%D7%9F_%D7%A4%D7%A8%D7%A2%D7%96%D7%99%D7%93%D7%A2%D7%A0%D7%98%D7%9F_%D7%A4%D7%95%D7%9F_%D7%93%D7%99_%D7%A4%D7%90%D7%A8%D7%90%D7%99%D7%99%D7%A0%D7%99%D7%92%D7%98%D7%A2_%D7%A9%D7%98%D7%90%D7%98%D7%9F" hreflang="yi" lang="yi" title="        Yiddish">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-yo">
+        <a class="interlanguage-link-target" href="https://yo.wikipedia.org/wiki/%C3%80t%C3%B2j%E1%BB%8D_%C3%A0w%E1%BB%8Dn_%C3%80%C3%A0r%E1%BA%B9_or%C3%ADl%E1%BA%B9%CC%80-%C3%A8d%C3%A8_Am%E1%BA%B9%CC%81r%C3%ADk%C3%A0" hreflang="yo" lang="yo" title="tj wn r orl-d Amrk  Yoruba">
+         Yorb
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E7%B8%BD%E7%B5%B1%E4%B8%80%E8%A6%BD" hreflang="yue" lang="yue" title="  Cantonese">
+         
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%88%97%E8%A1%A8" hreflang="zh" lang="zh" title="  Chinese">
+         
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q35073#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 27 April 2019, at 21:28
+     <span class="anonymous-show">
+      (UTC)
+     </span>
+     .
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//foundation.wikimedia.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=List_of_Presidents_of_the_United_States&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.408","walltime":"1.597","ppvisitednodes":{"value":8193,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":317563,"limit":2097152},"templateargumentsize":{"value":18127,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":376703,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1128.946      1 -total"," 61.05%  689.233      2 Template:Reflist"," 49.50%  558.806    129 Template:Cite_web","  6.22%   70.174      1 Template:Pp-pc","  5.71%   64.495      4 Template:Navbox","  3.49%   39.367      1 Template:US_Presidents","  3.16%   35.646      1 Template:Notelist","  2.94%   33.202     35 Template:Efn","  2.88%   32.534      1 Template:Politics_of_the_United_States","  2.53%   28.514      1 Template:Sidebar_with_collapsible_lists"]},"scribunto":{"limitreport-timeusage":{"value":"0.618","limit":"10.000"},"limitreport-memusage":{"value":6973690,"limit":52428800},"limitreport-logs":"table#1 {\n}\n"},"cachereport":{"origin":"mw1309","timestamp":"20190427212839","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":141,"wgHostname":"mw1327"});});
+  </script>
+ </body>
+</html> `;
