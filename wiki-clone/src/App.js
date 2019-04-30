@@ -21,9 +21,6 @@ function App() {
         <BrowserRouter>
             <React.Fragment>
                 {routes}
-
-                // <Redirect from="/" to="searchDashboard" />
-
             </React.Fragment>
         </BrowserRouter>
     );
