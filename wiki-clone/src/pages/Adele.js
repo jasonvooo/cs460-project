@@ -1,4 +1,4 @@
-export const Adele= ` export const Adele= ` <!DOCTYPE html>
+export const Adele= `<!DOCTYPE html>
 <html class="client-nojs" dir="ltr" lang="en">
  <head>
   <meta charset="utf-8"/>
@@ -6,10 +6,10 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
    Adele - Wikipedia
   </title>
   <script>
-   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+   document.documentElement.className = document.documentElement.className.replace( /(^|\\s)client-nojs(\\s|$)/, "$1client-js$2" );
   </script>
   <script>
-   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Adele","wgTitle":"Adele","wgCurRevisionId":894867738,"wgRevisionId":894867738,"wgArticleId":13041163,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from August 2011","CS1 German-language sources (de)","Articles with short description","EngvarB from November 2015","Use dmy dates from May 2018","Articles with hCards","Infobox person using alma mater","Articles containing potentially dated statements from 2016","All articles containing potentially dated statements","Articles with Curlie links","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLA identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","Adele","1988 births","Living people","21st-century English singers","21st-century women singers","Best Original Song Academy Award-winning songwriters","Columbia Records artists","Echo (music award) winners","Brit Award winners","English activists","English mezzo-sopranos","English female guitarists","English female pop singers","English feminists","English people of Welsh descent","British contemporary R\u0026B singers","English female singer-songwriters","English soul singers","Feminist musicians","Golden Globe Award-winning musicians","Grammy Award winners","HIV/AIDS activists","Ivor Novello Award winners","NME Awards winners","Labour Party (UK) people","LGBT rights activists from the United Kingdom","Members of the Order of the British Empire","Neo soul singers","People educated at the BRIT School","People from Tottenham","Singers from London","Torch singers","XL Recordings artists","Juno Award for International Album of the Year winners","Juno Award for Video of the Year winners","Ballad musicians"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Adele","wgRelevantArticleId":13041163,"wgRequestId":"XMhfDQpAMEwAAEaTfD4AAABA","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q23215","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Adele","wgTitle":"Adele","wgCurRevisionId":894867738,"wgRevisionId":894867738,"wgArticleId":13041163,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from August 2011","CS1 German-language sources (de)","Articles with short description","EngvarB from November 2015","Use dmy dates from May 2018","Articles with hCards","Infobox person using alma mater","Articles containing potentially dated statements from 2016","All articles containing potentially dated statements","Articles with Curlie links","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLA identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","Adele","1988 births","Living people","21st-century English singers","21st-century women singers","Best Original Song Academy Award-winning songwriters","Columbia Records artists","Echo (music award) winners","Brit Award winners","English activists","English mezzo-sopranos","English female guitarists","English female pop singers","English feminists","English people of Welsh descent","British contemporary R\\u0026B singers","English female singer-songwriters","English soul singers","Feminist musicians","Golden Globe Award-winning musicians","Grammy Award winners","HIV/AIDS activists","Ivor Novello Award winners","NME Awards winners","Labour Party (UK) people","LGBT rights activists from the United Kingdom","Members of the Order of the British Empire","Neo soul singers","People educated at the BRIT School","People from Tottenham","Singers from London","Torch singers","XL Recordings artists","Juno Award for International Album of the Year winners","Juno Award for Video of the Year winners","Ballad musicians"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Adele","wgRelevantArticleId":13041163,"wgRequestId":"XMhfDQpAMEwAAEaTfD4AAABA","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q23215","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\\\","patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});
 });RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});
   </script>
   <link href="https://en.wikipedia.org/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
@@ -330,16 +330,16 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
           /
           <span style="border-bottom:1px dotted">
            <span title="//: 'a' in 'about'">
-            
+
            </span>
            <span title="//: primary stress follows">
-            
+
            </span>
            <span title="'d' in 'dye'">
             d
            </span>
            <span title="//: 'e' in 'dress'">
-            
+
            </span>
            <span title="'l' in 'lie'">
             l
@@ -5412,7 +5412,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
            <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=Meet+Adele%2C+the+U.K.%27s+Newest+Soul+Star&amp;rft.pages=26&amp;rft.date=2009-01-22&amp;rft.au=Frehs%C3%A9e%2C+Nicole&amp;rft_id=http%3A%2F%2Fwww.nicolefrehsee.com%2Fwp-content%2Fuploads%2F2011%2F08%2FR1070Adele.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdele">
            </span>
            <style data-mw-deduplicate="TemplateStyles:r886058088">
-            .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+            .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\\"""\\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
            </style>
           </span>
          </li>
@@ -14645,7 +14645,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Calypso
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Harry_Belafonte" title="Harry Belafonte">
                       Harry Belafonte
                      </a>
@@ -14693,7 +14693,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        The Music from Peter Gunn
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Henry_Mancini" title="Henry Mancini">
                       Henry Mancini
                      </a>
@@ -14787,7 +14787,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Whipped Cream &amp; Other Delights
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Herb_Alpert" title="Herb Alpert">
                       Herb Alpert &amp; the Tijuana Brass
                      </a>
@@ -14801,7 +14801,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        More of the Monkees
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/The_Monkees" title="The Monkees">
                       The Monkees
                      </a>
@@ -14815,7 +14815,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Are You Experienced
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/The_Jimi_Hendrix_Experience" title="The Jimi Hendrix Experience">
                       The Jimi Hendrix Experience
                      </a>
@@ -14829,7 +14829,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        In-A-Gadda-Da-Vida
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Iron_Butterfly" title="Iron Butterfly">
                       Iron Butterfly
                      </a>
@@ -14843,7 +14843,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Bridge over Troubled Water
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Simon_%26_Garfunkel" title="Simon &amp; Garfunkel">
                       Simon &amp; Garfunkel
                      </a>
@@ -14868,7 +14868,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Harvest
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Neil_Young" title="Neil Young">
                       Neil Young
                      </a>
@@ -14882,7 +14882,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        The World Is a Ghetto
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/War_(American_band)" title="War (American band)">
                       War
                      </a>
@@ -14896,7 +14896,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Goodbye Yellow Brick Road
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Elton_John" title="Elton John">
                       Elton John
                      </a>
@@ -14910,7 +14910,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Greatest Hits
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Elton_John" title="Elton John">
                       Elton John
                      </a>
@@ -14935,7 +14935,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Frampton Comes Alive!
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Peter_Frampton" title="Peter Frampton">
                       Peter Frampton
                      </a>
@@ -14949,7 +14949,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Rumours
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Fleetwood_Mac" title="Fleetwood Mac">
                       Fleetwood Mac
                      </a>
@@ -14974,7 +14974,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        52nd Street
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Billy_Joel" title="Billy Joel">
                       Billy Joel
                      </a>
@@ -14988,7 +14988,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        The Wall
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Pink_Floyd" title="Pink Floyd">
                       Pink Floyd
                      </a>
@@ -15002,7 +15002,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Hi Infidelity
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/REO_Speedwagon" title="REO Speedwagon">
                       REO Speedwagon
                      </a>
@@ -15016,7 +15016,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Asia
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Asia_(band)" title="Asia (band)">
                       Asia
                      </a>
@@ -15030,7 +15030,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Thriller
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Michael_Jackson" title="Michael Jackson">
                       Michael Jackson
                      </a>
@@ -15044,7 +15044,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Thriller
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Michael_Jackson" title="Michael Jackson">
                       Michael Jackson
                      </a>
@@ -15058,7 +15058,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Born in the U.S.A.
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Bruce_Springsteen" title="Bruce Springsteen">
                       Bruce Springsteen
                      </a>
@@ -15072,7 +15072,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Whitney Houston
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Whitney_Houston" title="Whitney Houston">
                       Whitney Houston
                      </a>
@@ -15086,7 +15086,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Slippery When Wet
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Bon_Jovi" title="Bon Jovi">
                       Bon Jovi
                      </a>
@@ -15100,7 +15100,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Faith
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/George_Michael" title="George Michael">
                       George Michael
                      </a>
@@ -15114,7 +15114,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Don't Be Cruel
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Bobby_Brown" title="Bobby Brown">
                       Bobby Brown
                      </a>
@@ -15128,7 +15128,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Janet Jackson's Rhythm Nation 1814
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Janet_Jackson" title="Janet Jackson">
                       Janet Jackson
                      </a>
@@ -15142,7 +15142,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Mariah Carey
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Mariah_Carey" title="Mariah Carey">
                       Mariah Carey
                      </a>
@@ -15156,7 +15156,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Ropin' the Wind
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Garth_Brooks" title="Garth Brooks">
                       Garth Brooks
                      </a>
@@ -15181,7 +15181,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        The Sign
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Ace_of_Base" title="Ace of Base">
                       Ace of Base
                      </a>
@@ -15195,7 +15195,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Cracked Rear View
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Hootie_%26_the_Blowfish" title="Hootie &amp; the Blowfish">
                       Hootie &amp; the Blowfish
                      </a>
@@ -15209,7 +15209,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Jagged Little Pill
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Alanis_Morissette" title="Alanis Morissette">
                       Alanis Morissette
                      </a>
@@ -15223,7 +15223,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Spice
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Spice_Girls" title="Spice Girls">
                       Spice Girls
                      </a>
@@ -15237,7 +15237,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Titanic: Music from the Motion Picture
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/James_Horner" title="James Horner">
                       James Horner
                      </a>
@@ -15251,7 +15251,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Millennium
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Backstreet_Boys" title="Backstreet Boys">
                       Backstreet Boys
                      </a>
@@ -15265,7 +15265,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        No Strings Attached
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/NSYNC" title="NSYNC">
                       NSYNC
                      </a>
@@ -15290,7 +15290,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        1
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/The_Beatles" title="The Beatles">
                       The Beatles
                      </a>
@@ -15304,7 +15304,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        The Eminem Show
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Eminem" title="Eminem">
                       Eminem
                      </a>
@@ -15318,7 +15318,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Get Rich or Die Tryin'
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/50_Cent" title="50 Cent">
                       50 Cent
                      </a>
@@ -15332,7 +15332,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Confessions
                       </a>
                      </i>
-                     
+
                      <a class="mw-redirect" href="/wiki/Usher_(singer)" title="Usher (singer)">
                       Usher
                      </a>
@@ -15346,7 +15346,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        The Massacre
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/50_Cent" title="50 Cent">
                       50 Cent
                      </a>
@@ -15360,7 +15360,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Some Hearts
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Carrie_Underwood" title="Carrie Underwood">
                       Carrie Underwood
                      </a>
@@ -15374,7 +15374,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Daughtry
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Daughtry_(band)" title="Daughtry (band)">
                       Daughtry
                      </a>
@@ -15388,7 +15388,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        As I Am
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Alicia_Keys" title="Alicia Keys">
                       Alicia Keys
                      </a>
@@ -15402,7 +15402,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Fearless
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Taylor_Swift" title="Taylor Swift">
                       Taylor Swift
                      </a>
@@ -15416,7 +15416,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        I Dreamed a Dream
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Susan_Boyle" title="Susan Boyle">
                       Susan Boyle
                      </a>
@@ -15430,7 +15430,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        21
                       </a>
                      </i>
-                     
+
                      <a class="mw-selflink selflink">
                       Adele
                      </a>
@@ -15444,7 +15444,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        21
                       </a>
                      </i>
-                     
+
                      <a class="mw-selflink selflink">
                       Adele
                      </a>
@@ -15458,7 +15458,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        The 20/20 Experience
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Justin_Timberlake" title="Justin Timberlake">
                       Justin Timberlake
                      </a>
@@ -15483,7 +15483,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        1989
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Taylor_Swift" title="Taylor Swift">
                       Taylor Swift
                      </a>
@@ -15497,7 +15497,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        25
                       </a>
                      </i>
-                     
+
                      <a class="mw-selflink selflink">
                       Adele
                      </a>
@@ -15511,7 +15511,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Damn
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Kendrick_Lamar" title="Kendrick Lamar">
                       Kendrick Lamar
                      </a>
@@ -15525,7 +15525,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                        Reputation
                       </a>
                      </i>
-                     
+
                      <a href="/wiki/Taylor_Swift" title="Taylor Swift">
                       Taylor Swift
                      </a>
@@ -15588,7 +15588,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Breathe_(Faith_Hill_song)" title="Breathe (Faith Hill song)">
                      Breathe
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Faith_Hill" title="Faith Hill">
                      Faith Hill
                     </a>
@@ -15598,7 +15598,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Hanging_by_a_Moment" title="Hanging by a Moment">
                      Hanging by a Moment
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Lifehouse_(band)" title="Lifehouse (band)">
                      Lifehouse
                     </a>
@@ -15608,7 +15608,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/How_You_Remind_Me" title="How You Remind Me">
                      How You Remind Me
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Nickelback" title="Nickelback">
                      Nickelback
                     </a>
@@ -15618,7 +15618,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/In_da_Club" title="In da Club">
                      In da Club
                     </a>
-                    " 
+                    "
                     <a href="/wiki/50_Cent" title="50 Cent">
                      50 Cent
                     </a>
@@ -15628,7 +15628,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Yeah!_(Usher_song)" title="Yeah! (Usher song)">
                      Yeah!
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Usher_(musician)" title="Usher (musician)">
                      Usher
                     </a>
@@ -15646,7 +15646,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/We_Belong_Together" title="We Belong Together">
                      We Belong Together
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Mariah_Carey" title="Mariah Carey">
                      Mariah Carey
                     </a>
@@ -15656,7 +15656,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Bad_Day_(Daniel_Powter_song)" title="Bad Day (Daniel Powter song)">
                      Bad Day
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Daniel_Powter" title="Daniel Powter">
                      Daniel Powter
                     </a>
@@ -15666,7 +15666,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Irreplaceable" title="Irreplaceable">
                      Irreplaceable
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Beyonc%C3%A9" title="Beyonc">
                      Beyonc
                     </a>
@@ -15676,7 +15676,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Low_(Flo_Rida_song)" title="Low (Flo Rida song)">
                      Low
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Flo_Rida" title="Flo Rida">
                      Flo Rida
                     </a>
@@ -15690,7 +15690,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Boom_Boom_Pow" title="Boom Boom Pow">
                      Boom Boom Pow
                     </a>
-                    " 
+                    "
                     <a href="/wiki/The_Black_Eyed_Peas" title="The Black Eyed Peas">
                      The Black Eyed Peas
                     </a>
@@ -15700,7 +15700,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Tik_Tok_(song)" title="Tik Tok (song)">
                      Tik Tok
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Kesha" title="Kesha">
                      Kesha
                     </a>
@@ -15710,7 +15710,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Rolling_in_the_Deep" title="Rolling in the Deep">
                      Rolling in the Deep
                     </a>
-                    " 
+                    "
                     <a class="mw-selflink selflink">
                      Adele
                     </a>
@@ -15720,7 +15720,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Somebody_That_I_Used_to_Know" title="Somebody That I Used to Know">
                      Somebody That I Used to Know
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Gotye" title="Gotye">
                      Gotye
                     </a>
@@ -15734,7 +15734,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Thrift_Shop" title="Thrift Shop">
                      Thrift Shop
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Macklemore_%26_Ryan_Lewis" title="Macklemore &amp; Ryan Lewis">
                      Macklemore &amp; Ryan Lewis
                     </a>
@@ -15748,7 +15748,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Happy_(Pharrell_Williams_song)" title="Happy (Pharrell Williams song)">
                      Happy
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Pharrell_Williams" title="Pharrell Williams">
                      Pharrell Williams
                     </a>
@@ -15758,7 +15758,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Uptown_Funk" title="Uptown Funk">
                      Uptown Funk
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Mark_Ronson" title="Mark Ronson">
                      Mark Ronson
                     </a>
@@ -15772,7 +15772,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Love_Yourself" title="Love Yourself">
                      Love Yourself
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Justin_Bieber" title="Justin Bieber">
                      Justin Bieber
                     </a>
@@ -15782,7 +15782,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Shape_of_You" title="Shape of You">
                      Shape of You
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Ed_Sheeran" title="Ed Sheeran">
                      Ed Sheeran
                     </a>
@@ -15792,7 +15792,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/God%27s_Plan_(song)" title="God's Plan (song)">
                      God's Plan
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Drake_(musician)" title="Drake (musician)">
                      Drake
                     </a>
@@ -15984,7 +15984,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      2017:
                      <i>
                       <a href="/wiki/%C3%B7_(album)" title=" (album)">
-                       
+
                       </a>
                      </i>
                      (
@@ -16062,7 +16062,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Here_in_My_Heart" title="Here in My Heart">
                       Here in My Heart
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Al_Martino" title="Al Martino">
                       Al Martino
                      </a>
@@ -16074,7 +16074,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/I_Believe_(Frankie_Laine_song)" title="I Believe (Frankie Laine song)">
                       I Believe
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Frankie_Laine" title="Frankie Laine">
                       Frankie Laine
                      </a>
@@ -16086,7 +16086,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Secret_Love_(Doris_Day_song)" title="Secret Love (Doris Day song)">
                       Secret Love
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Doris_Day" title="Doris Day">
                       Doris Day
                      </a>
@@ -16098,7 +16098,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Rose_Marie_(song)" title="Rose Marie (song)">
                       Rose Marie
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Slim_Whitman" title="Slim Whitman">
                       Slim Whitman
                      </a>
@@ -16110,7 +16110,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/I%27ll_Be_Home" title="I'll Be Home">
                       I'll Be Home
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Pat_Boone" title="Pat Boone">
                       Pat Boone
                      </a>
@@ -16122,7 +16122,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Diana_(Paul_Anka_song)" title="Diana (Paul Anka song)">
                       Diana
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Paul_Anka" title="Paul Anka">
                       Paul Anka
                      </a>
@@ -16134,7 +16134,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Jailhouse_Rock_(song)" title="Jailhouse Rock (song)">
                       Jailhouse Rock
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Elvis_Presley" title="Elvis Presley">
                       Elvis Presley
                      </a>
@@ -16146,7 +16146,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Living_Doll_(song)" title="Living Doll (song)">
                       Living Doll
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Cliff_Richard" title="Cliff Richard">
                       Cliff Richard
                      </a>
@@ -16159,7 +16159,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/It%27s_Now_or_Never_(song)" title="It's Now or Never (song)">
                       It's Now or Never
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Elvis_Presley" title="Elvis Presley">
                       Elvis Presley
                      </a>
@@ -16171,7 +16171,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Wooden_Heart" title="Wooden Heart">
                       Wooden Heart
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Elvis_Presley" title="Elvis Presley">
                       Elvis Presley
                      </a>
@@ -16183,7 +16183,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/I_Remember_You_(1941_song)" title="I Remember You (1941 song)">
                       I Remember You
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Frank_Ifield" title="Frank Ifield">
                       Frank Ifield
                      </a>
@@ -16196,7 +16196,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/She_Loves_You" title="She Loves You">
                       She Loves You
                      </a>
-                     " 
+                     "
                      <a href="/wiki/The_Beatles" title="The Beatles">
                       The Beatles
                      </a>
@@ -16209,7 +16209,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Can%27t_Buy_Me_Love" title="Can't Buy Me Love">
                       Can't Buy Me Love
                      </a>
-                     " 
+                     "
                      <a href="/wiki/The_Beatles" title="The Beatles">
                       The Beatles
                      </a>
@@ -16222,7 +16222,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Tears_(Ken_Dodd_song)" title="Tears (Ken Dodd song)">
                       Tears
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Ken_Dodd" title="Ken Dodd">
                       Ken Dodd
                      </a>
@@ -16235,7 +16235,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Green,_Green_Grass_of_Home" title="Green, Green Grass of Home">
                       Green, Green Grass of Home
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Tom_Jones_(singer)" title="Tom Jones (singer)">
                       Tom Jones
                      </a>
@@ -16248,7 +16248,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Release_Me_(Eddie_Miller_song)" title="Release Me (Eddie Miller song)">
                       Release Me
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Engelbert_Humperdinck_(singer)" title="Engelbert Humperdinck (singer)">
                       Engelbert Humperdinck
                      </a>
@@ -16261,7 +16261,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Hey_Jude" title="Hey Jude">
                       Hey Jude
                      </a>
-                     " 
+                     "
                      <a href="/wiki/The_Beatles" title="The Beatles">
                       The Beatles
                      </a>
@@ -16274,7 +16274,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Sugar,_Sugar" title="Sugar, Sugar">
                       Sugar, Sugar
                      </a>
-                     " 
+                     "
                      <a href="/wiki/The_Archies" title="The Archies">
                       The Archies
                      </a>
@@ -16297,7 +16297,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/The_Wonder_of_You" title="The Wonder of You">
                       The Wonder of You
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Elvis_Presley" title="Elvis Presley">
                       Elvis Presley
                      </a>
@@ -16309,7 +16309,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/My_Sweet_Lord" title="My Sweet Lord">
                       My Sweet Lord
                      </a>
-                     " 
+                     "
                      <a href="/wiki/George_Harrison" title="George Harrison">
                       George Harrison
                      </a>
@@ -16322,7 +16322,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Amazing_Grace" title="Amazing Grace">
                       Amazing Grace
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Royal_Scots_Dragoon_Guards" title="Royal Scots Dragoon Guards">
                       Royal Scots Dragoon Guards
                      </a>
@@ -16335,7 +16335,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/I_Love_You_Love_Me_Love" title="I Love You Love Me Love">
                       I Love You Love Me Love
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Gary_Glitter" title="Gary Glitter">
                       Gary Glitter
                      </a>
@@ -16348,7 +16348,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Tiger_Feet" title="Tiger Feet">
                       Tiger Feet
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Mud_(band)" title="Mud (band)">
                       Mud
                      </a>
@@ -16361,7 +16361,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Bye,_Bye,_Baby_(Baby_Goodbye)" title="Bye, Bye, Baby (Baby Goodbye)">
                       Bye Bye Baby
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Bay_City_Rollers" title="Bay City Rollers">
                       Bay City Rollers
                      </a>
@@ -16374,7 +16374,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Save_Your_Kisses_for_Me" title="Save Your Kisses for Me">
                       Save Your Kisses for Me
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Brotherhood_of_Man" title="Brotherhood of Man">
                       Brotherhood of Man
                      </a>
@@ -16391,7 +16391,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Girls%27_School_(song)" title="Girls' School (song)">
                       Girls' School
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Paul_McCartney_and_Wings" title="Paul McCartney and Wings">
                       Wings
                      </a>
@@ -16408,7 +16408,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Brown_Girl_in_the_Ring_(song)" title="Brown Girl in the Ring (song)">
                       Brown Girl in the Ring
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Boney_M." title="Boney M.">
                       Boney M.
                      </a>
@@ -16420,7 +16420,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Bright_Eyes_(Art_Garfunkel_song)" title="Bright Eyes (Art Garfunkel song)">
                       Bright Eyes
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Art_Garfunkel" title="Art Garfunkel">
                       Art Garfunkel
                      </a>
@@ -16432,7 +16432,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Don%27t_Stand_So_Close_to_Me" title="Don't Stand So Close to Me">
                       Don't Stand So Close to Me
                      </a>
-                     " 
+                     "
                      <a href="/wiki/The_Police" title="The Police">
                       The Police
                      </a>
@@ -16445,7 +16445,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Tainted_Love" title="Tainted Love">
                       Tainted Love
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Soft_Cell" title="Soft Cell">
                       Soft Cell
                      </a>
@@ -16458,7 +16458,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Come_On_Eileen" title="Come On Eileen">
                       Come On Eileen
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Dexys_Midnight_Runners" title="Dexys Midnight Runners">
                       Dexys Midnight Runners
                      </a>
@@ -16471,7 +16471,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Karma_Chameleon" title="Karma Chameleon">
                       Karma Chameleon
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Culture_Club" title="Culture Club">
                       Culture Club
                      </a>
@@ -16484,7 +16484,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Do_They_Know_It%27s_Christmas%3F" title="Do They Know It's Christmas?">
                       Do They Know It's Christmas?
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Band_Aid_(band)" title="Band Aid (band)">
                       Band Aid
                      </a>
@@ -16497,7 +16497,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/The_Power_of_Love_(Jennifer_Rush_song)" title="The Power of Love (Jennifer Rush song)">
                       The Power of Love
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Jennifer_Rush" title="Jennifer Rush">
                       Jennifer Rush
                      </a>
@@ -16509,7 +16509,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Don%27t_Leave_Me_This_Way" title="Don't Leave Me This Way">
                       Don't Leave Me This Way
                      </a>
-                     " 
+                     "
                      <a href="/wiki/The_Communards" title="The Communards">
                       The Communards
                      </a>
@@ -16522,7 +16522,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Never_Gonna_Give_You_Up" title="Never Gonna Give You Up">
                       Never Gonna Give You Up
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Rick_Astley" title="Rick Astley">
                       Rick Astley
                      </a>
@@ -16535,7 +16535,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Mistletoe_and_Wine" title="Mistletoe and Wine">
                       Mistletoe and Wine
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Cliff_Richard" title="Cliff Richard">
                       Cliff Richard
                      </a>
@@ -16548,7 +16548,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Ride_on_Time" title="Ride on Time">
                       Ride on Time
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Black_Box_(band)" title="Black Box (band)">
                       Black Box
                      </a>
@@ -16571,7 +16571,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Unchained_Melody" title="Unchained Melody">
                       Unchained Melody
                      </a>
-                     " 
+                     "
                      <a href="/wiki/The_Righteous_Brothers" title="The Righteous Brothers">
                       The Righteous Brothers
                      </a>
@@ -16583,7 +16583,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/(Everything_I_Do)_I_Do_It_for_You" title="(Everything I Do) I Do It for You">
                       (Everything I Do) I Do It for You
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Bryan_Adams" title="Bryan Adams">
                       Bryan Adams
                      </a>
@@ -16595,7 +16595,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/I_Will_Always_Love_You" title="I Will Always Love You">
                       I Will Always Love You
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Whitney_Houston" title="Whitney Houston">
                       Whitney Houston
                      </a>
@@ -16607,7 +16607,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/I%27d_Do_Anything_for_Love_(But_I_Won%27t_Do_That)" title="I'd Do Anything for Love (But I Won't Do That)">
                       I'd Do Anything for Love (But I Won't Do That)
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Meat_Loaf" title="Meat Loaf">
                       Meat Loaf
                      </a>
@@ -16619,7 +16619,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Love_Is_All_Around" title="Love Is All Around">
                       Love Is All Around
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Wet_Wet_Wet" title="Wet Wet Wet">
                       Wet Wet Wet
                      </a>
@@ -16632,7 +16632,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Unchained_Melody" title="Unchained Melody">
                       Unchained Melody
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Robson_%26_Jerome" title="Robson &amp; Jerome">
                       Robson &amp; Jerome
                      </a>
@@ -16645,7 +16645,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Killing_Me_Softly_with_His_Song" title="Killing Me Softly with His Song">
                       Killing Me Softly
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Fugees" title="Fugees">
                       Fugees
                      </a>
@@ -16661,7 +16661,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Candle_in_the_Wind_1997" title="Candle in the Wind 1997">
                       Candle in the Wind 1997
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Elton_John" title="Elton John">
                       Elton John
                      </a>
@@ -16674,7 +16674,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Believe_(Cher_song)" title="Believe (Cher song)">
                       Believe
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Cher" title="Cher">
                       Cher
                      </a>
@@ -16686,7 +16686,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/...Baby_One_More_Time_(song)" title="...Baby One More Time (song)">
                       ...Baby One More Time
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Britney_Spears" title="Britney Spears">
                       Britney Spears
                      </a>
@@ -16698,7 +16698,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Can_We_Fix_It%3F" title="Can We Fix It?">
                       Can We Fix It?
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Bob_the_Builder" title="Bob the Builder">
                       Bob the Builder
                      </a>
@@ -16711,7 +16711,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/It_Wasn%27t_Me" title="It Wasn't Me">
                       It Wasn't Me
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Shaggy_(musician)" title="Shaggy (musician)">
                       Shaggy
                      </a>
@@ -16732,7 +16732,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Evergreen_(Westlife_song)" title="Evergreen (Westlife song)">
                       Evergreen
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Will_Young" title="Will Young">
                       Will Young
                      </a>
@@ -16745,7 +16745,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Where_Is_the_Love%3F" title="Where Is the Love?">
                       Where Is the Love?
                      </a>
-                     " 
+                     "
                      <a href="/wiki/The_Black_Eyed_Peas" title="The Black Eyed Peas">
                       The Black Eyed Peas
                      </a>
@@ -16757,7 +16757,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Do_They_Know_It%27s_Christmas%3F" title="Do They Know It's Christmas?">
                       Do They Know It's Christmas?
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Band_Aid_(band)" title="Band Aid (band)">
                       Band Aid 20
                      </a>
@@ -16770,7 +16770,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/(Is_This_the_Way_to)_Amarillo" title="(Is This the Way to) Amarillo">
                       (Is This the Way to) Amarillo
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Tony_Christie" title="Tony Christie">
                       Tony Christie
                      </a>
@@ -16787,7 +16787,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Crazy_(Gnarls_Barkley_song)" title="Crazy (Gnarls Barkley song)">
                       Crazy
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Gnarls_Barkley" title="Gnarls Barkley">
                       Gnarls Barkley
                      </a>
@@ -16799,7 +16799,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Bleeding_Love" title="Bleeding Love">
                       Bleeding Love
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Leona_Lewis" title="Leona Lewis">
                       Leona Lewis
                      </a>
@@ -16812,7 +16812,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Hallelujah_(Leonard_Cohen_song)" title="Hallelujah (Leonard Cohen song)">
                       Hallelujah
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Alexandra_Burke" title="Alexandra Burke">
                       Alexandra Burke
                      </a>
@@ -16825,7 +16825,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Poker_Face_(Lady_Gaga_song)" title="Poker Face (Lady Gaga song)">
                       Poker Face
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Lady_Gaga" title="Lady Gaga">
                       Lady Gaga
                      </a>
@@ -16848,7 +16848,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Love_the_Way_You_Lie" title="Love the Way You Lie">
                       Love the Way You Lie
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Eminem" title="Eminem">
                       Eminem
                      </a>
@@ -16864,7 +16864,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Someone_like_You_(Adele_song)" title="Someone like You (Adele song)">
                       Someone like You
                      </a>
-                     " 
+                     "
                      <a class="mw-selflink selflink">
                       Adele
                      </a>
@@ -16877,7 +16877,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Somebody_That_I_Used_to_Know" title="Somebody That I Used to Know">
                       Somebody That I Used to Know
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Gotye" title="Gotye">
                       Gotye
                      </a>
@@ -16893,7 +16893,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Blurred_Lines" title="Blurred Lines">
                       Blurred Lines
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Robin_Thicke" title="Robin Thicke">
                       Robin Thicke
                      </a>
@@ -16913,7 +16913,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Happy_(Pharrell_Williams_song)" title="Happy (Pharrell Williams song)">
                       Happy
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Pharrell_Williams" title="Pharrell Williams">
                       Pharrell Williams
                      </a>
@@ -16925,7 +16925,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/Uptown_Funk" title="Uptown Funk">
                       Uptown Funk
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Mark_Ronson" title="Mark Ronson">
                       Mark Ronson
                      </a>
@@ -16941,7 +16941,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                      <a href="/wiki/One_Dance" title="One Dance">
                       One Dance
                      </a>
-                     " 
+                     "
                      <a href="/wiki/Drake_(musician)" title="Drake (musician)">
                       Drake
                      </a>
@@ -20881,7 +20881,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       The Music from Peter Gunn
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Henry_Mancini" title="Henry Mancini">
                      Henry Mancini
                     </a>
@@ -20893,7 +20893,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Come Dance with Me!
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Frank_Sinatra" title="Frank Sinatra">
                      Frank Sinatra
                     </a>
@@ -20905,7 +20905,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       The Button-Down Mind of Bob Newhart
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Bob_Newhart" title="Bob Newhart">
                      Bob Newhart
                     </a>
@@ -20917,7 +20917,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Judy at Carnegie Hall
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Judy_Garland" title="Judy Garland">
                      Judy Garland
                     </a>
@@ -20929,7 +20929,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       The First Family
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Vaughn_Meader" title="Vaughn Meader">
                      Vaughn Meader
                     </a>
@@ -20941,7 +20941,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       The Barbra Streisand Album
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Barbra_Streisand" title="Barbra Streisand">
                      Barbra Streisand
                     </a>
@@ -20953,7 +20953,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Getz/Gilberto
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Stan_Getz" title="Stan Getz">
                      Stan Getz
                     </a>
@@ -20969,7 +20969,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       September of My Years
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Frank_Sinatra" title="Frank Sinatra">
                      Frank Sinatra
                     </a>
@@ -20981,7 +20981,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       A Man and His Music
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Frank_Sinatra" title="Frank Sinatra">
                      Frank Sinatra
                     </a>
@@ -20993,7 +20993,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Sgt. Pepper's Lonely Hearts Club Band
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/The_Beatles" title="The Beatles">
                      The Beatles
                     </a>
@@ -21005,7 +21005,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       By the Time I Get to Phoenix
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Glen_Campbell" title="Glen Campbell">
                      Glen Campbell
                     </a>
@@ -21017,7 +21017,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Blood, Sweat &amp; Tears
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Blood,_Sweat_%26_Tears" title="Blood, Sweat &amp; Tears">
                      Blood, Sweat &amp; Tears
                     </a>
@@ -21029,7 +21029,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Bridge over Troubled Water
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Simon_%26_Garfunkel" title="Simon &amp; Garfunkel">
                      Simon &amp; Garfunkel
                     </a>
@@ -21041,7 +21041,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Tapestry
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Carole_King" title="Carole King">
                      Carole King
                     </a>
@@ -21053,7 +21053,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       The Concert for Bangladesh
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/George_Harrison" title="George Harrison">
                      George Harrison
                     </a>
@@ -21065,7 +21065,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Innervisions
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Stevie_Wonder" title="Stevie Wonder">
                      Stevie Wonder
                     </a>
@@ -21077,7 +21077,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Fulfillingness' First Finale
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Stevie_Wonder" title="Stevie Wonder">
                      Stevie Wonder
                     </a>
@@ -21089,7 +21089,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Still Crazy After All These Years
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Paul_Simon" title="Paul Simon">
                      Paul Simon
                     </a>
@@ -21101,7 +21101,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Songs in the Key of Life
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Stevie_Wonder" title="Stevie Wonder">
                      Stevie Wonder
                     </a>
@@ -21113,7 +21113,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Rumours
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Fleetwood_Mac" title="Fleetwood Mac">
                      Fleetwood Mac
                     </a>
@@ -21144,7 +21144,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       52nd Street
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Billy_Joel" title="Billy Joel">
                      Billy Joel
                     </a>
@@ -21156,7 +21156,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Christopher Cross
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Christopher_Cross" title="Christopher Cross">
                      Christopher Cross
                     </a>
@@ -21168,7 +21168,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Double Fantasy
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/John_Lennon" title="John Lennon">
                      John Lennon
                     </a>
@@ -21184,7 +21184,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Toto IV
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Toto_(band)" title="Toto (band)">
                      Toto
                     </a>
@@ -21196,7 +21196,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Thriller
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Michael_Jackson" title="Michael Jackson">
                      Michael Jackson
                     </a>
@@ -21208,7 +21208,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Can't Slow Down
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Lionel_Richie" title="Lionel Richie">
                      Lionel Richie
                     </a>
@@ -21220,7 +21220,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       No Jacket Required
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Phil_Collins" title="Phil Collins">
                      Phil Collins
                     </a>
@@ -21232,7 +21232,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Graceland
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Paul_Simon" title="Paul Simon">
                      Paul Simon
                     </a>
@@ -21244,7 +21244,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       The Joshua Tree
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/U2" title="U2">
                      U2
                     </a>
@@ -21256,7 +21256,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Faith
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/George_Michael" title="George Michael">
                      George Michael
                     </a>
@@ -21268,7 +21268,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Nick of Time
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Bonnie_Raitt" title="Bonnie Raitt">
                      Bonnie Raitt
                     </a>
@@ -21280,7 +21280,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Back on the Block
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Quincy_Jones" title="Quincy Jones">
                      Quincy Jones
                     </a>
@@ -21292,7 +21292,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Unforgettable... with Love
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Natalie_Cole" title="Natalie Cole">
                      Natalie Cole
                     </a>
@@ -21304,7 +21304,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Unplugged
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Eric_Clapton" title="Eric Clapton">
                      Eric Clapton
                     </a>
@@ -21316,7 +21316,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       The Bodyguard
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Whitney_Houston" title="Whitney Houston">
                      Whitney Houston
                     </a>
@@ -21328,7 +21328,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       MTV Unplugged
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Tony_Bennett" title="Tony Bennett">
                      Tony Bennett
                     </a>
@@ -21340,7 +21340,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Jagged Little Pill
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Alanis_Morissette" title="Alanis Morissette">
                      Alanis Morissette
                     </a>
@@ -21352,7 +21352,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Falling into You
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Celine_Dion" title="Celine Dion">
                      Celine Dion
                     </a>
@@ -21364,7 +21364,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Time Out of Mind
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Bob_Dylan" title="Bob Dylan">
                      Bob Dylan
                     </a>
@@ -21376,7 +21376,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       The Miseducation of Lauryn Hill
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Lauryn_Hill" title="Lauryn Hill">
                      Lauryn Hill
                     </a>
@@ -21388,7 +21388,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Supernatural
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Santana_(band)" title="Santana (band)">
                      Santana
                     </a>
@@ -21411,7 +21411,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Two Against Nature
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Steely_Dan" title="Steely Dan">
                      Steely Dan
                     </a>
@@ -21431,7 +21431,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Come Away with Me
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Norah_Jones" title="Norah Jones">
                      Norah Jones
                     </a>
@@ -21443,7 +21443,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Speakerboxxx/The Love Below
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Outkast" title="Outkast">
                      Outkast
                     </a>
@@ -21455,7 +21455,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Genius Loves Company
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Ray_Charles" title="Ray Charles">
                      Ray Charles
                     </a>
@@ -21467,7 +21467,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       How to Dismantle an Atomic Bomb
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/U2" title="U2">
                      U2
                     </a>
@@ -21479,7 +21479,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Taking the Long Way
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Dixie_Chicks" title="Dixie Chicks">
                      Dixie Chicks
                     </a>
@@ -21491,7 +21491,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       River: The Joni Letters
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Herbie_Hancock" title="Herbie Hancock">
                      Herbie Hancock
                     </a>
@@ -21503,7 +21503,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Raising Sand
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Robert_Plant" title="Robert Plant">
                      Robert Plant
                     </a>
@@ -21519,7 +21519,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Fearless
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Taylor_Swift" title="Taylor Swift">
                      Taylor Swift
                     </a>
@@ -21531,7 +21531,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       The Suburbs
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Arcade_Fire" title="Arcade Fire">
                      Arcade Fire
                     </a>
@@ -21543,7 +21543,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       21
                      </a>
                     </i>
-                    
+
                     <a class="mw-selflink selflink">
                      Adele
                     </a>
@@ -21555,7 +21555,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Babel
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Mumford_%26_Sons" title="Mumford &amp; Sons">
                      Mumford &amp; Sons
                     </a>
@@ -21567,7 +21567,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Random Access Memories
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Daft_Punk" title="Daft Punk">
                      Daft Punk
                     </a>
@@ -21579,7 +21579,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Morning Phase
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Beck" title="Beck">
                      Beck
                     </a>
@@ -21591,7 +21591,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       1989
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Taylor_Swift" title="Taylor Swift">
                      Taylor Swift
                     </a>
@@ -21603,7 +21603,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       25
                      </a>
                     </i>
-                    
+
                     <a class="mw-selflink selflink">
                      Adele
                     </a>
@@ -21615,7 +21615,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       24K Magic
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Bruno_Mars" title="Bruno Mars">
                      Bruno Mars
                     </a>
@@ -21627,7 +21627,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Golden Hour
                      </a>
                     </i>
-                    
+
                     <a href="/wiki/Kacey_Musgraves" title="Kacey Musgraves">
                      Kacey Musgraves
                     </a>
@@ -22720,7 +22720,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Volare_(song)" title="Volare (song)">
                      Volare
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Domenico_Modugno" title="Domenico Modugno">
                      Domenico Modugno
                     </a>
@@ -22731,7 +22731,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/The_Battle_of_New_Orleans" title="The Battle of New Orleans">
                      The Battle of New Orleans
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Jimmy_Driftwood" title="Jimmy Driftwood">
                      Jimmy Driftwood
                     </a>
@@ -22745,7 +22745,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                       Exodus
                      </i>
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Ernest_Gold_(composer)" title="Ernest Gold (composer)">
                      Ernest Gold
                     </a>
@@ -22756,7 +22756,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Moon_River" title="Moon River">
                      Moon River
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Johnny_Mercer" title="Johnny Mercer">
                      Johnny Mercer
                     </a>
@@ -22771,7 +22771,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/What_Kind_of_Fool_Am_I%3F" title="What Kind of Fool Am I?">
                      What Kind of Fool Am I?
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Leslie_Bricusse" title="Leslie Bricusse">
                      Leslie Bricusse
                     </a>
@@ -22786,7 +22786,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Days_of_Wine_and_Roses_(song)" title="Days of Wine and Roses (song)">
                      Days of Wine and Roses
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Johnny_Mercer" title="Johnny Mercer">
                      Johnny Mercer
                     </a>
@@ -22801,7 +22801,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Hello,_Dolly!_(song)" title="Hello, Dolly! (song)">
                      Hello, Dolly!
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Jerry_Herman" title="Jerry Herman">
                      Jerry Herman
                     </a>
@@ -22812,7 +22812,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/The_Shadow_of_Your_Smile" title="The Shadow of Your Smile">
                      The Shadow of Your Smile
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Paul_Francis_Webster" title="Paul Francis Webster">
                      Paul Francis Webster
                     </a>
@@ -22827,7 +22827,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Michelle_(song)" title="Michelle (song)">
                      Michelle
                     </a>
-                    " 
+                    "
                     <a href="/wiki/John_Lennon" title="John Lennon">
                      John Lennon
                     </a>
@@ -22842,7 +22842,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Up,_Up_and_Away_(song)" title="Up, Up and Away (song)">
                      Up, Up, and Away
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Jimmy_Webb" title="Jimmy Webb">
                      Jimmy Webb
                     </a>
@@ -22853,7 +22853,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Little_Green_Apples" title="Little Green Apples">
                      Little Green Apples
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Bobby_Russell" title="Bobby Russell">
                      Bobby Russell
                     </a>
@@ -22864,7 +22864,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Games_People_Play_(Joe_South_song)" title="Games People Play (Joe South song)">
                      Games People Play
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Joe_South" title="Joe South">
                      Joe South
                     </a>
@@ -22875,7 +22875,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Bridge_over_Troubled_Water_(song)" title="Bridge over Troubled Water (song)">
                      Bridge over Troubled Water
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Paul_Simon" title="Paul Simon">
                      Paul Simon
                     </a>
@@ -22886,7 +22886,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/You%27ve_Got_a_Friend" title="You've Got a Friend">
                      You've Got a Friend
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Carole_King" title="Carole King">
                      Carole King
                     </a>
@@ -22897,7 +22897,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/The_First_Time_Ever_I_Saw_Your_Face" title="The First Time Ever I Saw Your Face">
                      The First Time Ever I Saw Your Face
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Ewan_MacColl" title="Ewan MacColl">
                      Ewan MacColl
                     </a>
@@ -22908,7 +22908,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Killing_Me_Softly_with_His_Song" title="Killing Me Softly with His Song">
                      Killing Me Softly with His Song
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Norman_Gimbel" title="Norman Gimbel">
                      Norman Gimbel
                     </a>
@@ -22923,7 +22923,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/The_Way_We_Were_(song)" title="The Way We Were (song)">
                      The Way We Were
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Alan_and_Marilyn_Bergman" title="Alan and Marilyn Bergman">
                      Alan and Marilyn Bergman
                     </a>
@@ -22938,7 +22938,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Send_In_the_Clowns" title="Send In the Clowns">
                      Send In the Clowns
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Stephen_Sondheim" title="Stephen Sondheim">
                      Stephen Sondheim
                     </a>
@@ -22949,7 +22949,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/I_Write_the_Songs" title="I Write the Songs">
                      I Write the Songs
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Bruce_Johnston" title="Bruce Johnston">
                      Bruce Johnston
                     </a>
@@ -22960,7 +22960,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Evergreen_(Love_Theme_from_A_Star_Is_Born)" title="Evergreen (Love Theme from A Star Is Born)">
                      Evergreen (Love Theme from A Star Is Born)
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Barbra_Streisand" title="Barbra Streisand">
                      Barbra Streisand
                     </a>
@@ -22972,7 +22972,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/You_Light_Up_My_Life_(song)" title="You Light Up My Life (song)">
                      You Light Up My Life
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Joseph_Brooks_(songwriter)" title="Joseph Brooks (songwriter)">
                      Joe Brooks
                     </a>
@@ -22983,7 +22983,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Just_the_Way_You_Are_(Billy_Joel_song)" title="Just the Way You Are (Billy Joel song)">
                      Just the Way You Are
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Billy_Joel" title="Billy Joel">
                      Billy Joel
                     </a>
@@ -22994,7 +22994,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/What_a_Fool_Believes" title="What a Fool Believes">
                      What a Fool Believes
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Kenny_Loggins" title="Kenny Loggins">
                      Kenny Loggins
                     </a>
@@ -23020,7 +23020,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Sailing_(Christopher_Cross_song)" title="Sailing (Christopher Cross song)">
                      Sailing
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Christopher_Cross" title="Christopher Cross">
                      Christopher Cross
                     </a>
@@ -23031,7 +23031,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Bette_Davis_Eyes" title="Bette Davis Eyes">
                      Bette Davis Eyes
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Donna_Weiss" title="Donna Weiss">
                      Donna Weiss
                     </a>
@@ -23046,7 +23046,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Always_on_My_Mind" title="Always on My Mind">
                      Always on My Mind
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Johnny_Christopher" title="Johnny Christopher">
                      Johnny Christopher
                     </a>
@@ -23065,7 +23065,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Every_Breath_You_Take" title="Every Breath You Take">
                      Every Breath You Take
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Sting_(musician)" title="Sting (musician)">
                      Sting
                     </a>
@@ -23076,7 +23076,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/What%27s_Love_Got_to_Do_with_It_(song)" title="What's Love Got to Do with It (song)">
                      What's Love Got to Do with It
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Graham_Lyle" title="Graham Lyle">
                      Graham Lyle
                     </a>
@@ -23091,7 +23091,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/We_Are_the_World" title="We Are the World">
                      We Are the World
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Michael_Jackson" title="Michael Jackson">
                      Michael Jackson
                     </a>
@@ -23106,7 +23106,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/That%27s_What_Friends_Are_For" title="That's What Friends Are For">
                      That's What Friends Are For
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Burt_Bacharach" title="Burt Bacharach">
                      Burt Bacharach
                     </a>
@@ -23121,7 +23121,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Somewhere_Out_There_(James_Horner_song)" title="Somewhere Out There (James Horner song)">
                      Somewhere Out There
                     </a>
-                    " 
+                    "
                     <a href="/wiki/James_Horner" title="James Horner">
                      James Horner
                     </a>
@@ -23140,7 +23140,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Don%27t_Worry,_Be_Happy" title="Don't Worry, Be Happy">
                      Don't Worry, Be Happy
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Bobby_McFerrin" title="Bobby McFerrin">
                      Bobby McFerrin
                     </a>
@@ -23151,7 +23151,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Wind_Beneath_My_Wings" title="Wind Beneath My Wings">
                      Wind Beneath My Wings
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Larry_Henley" title="Larry Henley">
                      Larry Henley
                     </a>
@@ -23166,7 +23166,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/From_a_Distance" title="From a Distance">
                      From a Distance
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Julie_Gold" title="Julie Gold">
                      Julie Gold
                     </a>
@@ -23177,7 +23177,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Unforgettable_(Nat_King_Cole_song)" title="Unforgettable (Nat King Cole song)">
                      Unforgettable
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Irving_Gordon" title="Irving Gordon">
                      Irving Gordon
                     </a>
@@ -23188,7 +23188,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Tears_in_Heaven" title="Tears in Heaven">
                      Tears in Heaven
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Eric_Clapton" title="Eric Clapton">
                      Eric Clapton
                     </a>
@@ -23203,7 +23203,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/A_Whole_New_World" title="A Whole New World">
                      A Whole New World
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Alan_Menken" title="Alan Menken">
                      Alan Menken
                     </a>
@@ -23218,7 +23218,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Streets_of_Philadelphia" title="Streets of Philadelphia">
                      Streets of Philadelphia
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Bruce_Springsteen" title="Bruce Springsteen">
                      Bruce Springsteen
                     </a>
@@ -23229,7 +23229,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Kiss_from_a_Rose" title="Kiss from a Rose">
                      Kiss from a Rose
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Seal_(musician)" title="Seal (musician)">
                      Seal
                     </a>
@@ -23240,7 +23240,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Change_the_World" title="Change the World">
                      Change the World
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Gordon_Kennedy_(musician)" title="Gordon Kennedy (musician)">
                      Gordon Kennedy
                     </a>
@@ -23259,7 +23259,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Sunny_Came_Home" title="Sunny Came Home">
                      Sunny Came Home
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Shawn_Colvin" title="Shawn Colvin">
                      Shawn Colvin
                     </a>
@@ -23274,7 +23274,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/My_Heart_Will_Go_On" title="My Heart Will Go On">
                      My Heart Will Go On
                     </a>
-                    " 
+                    "
                     <a href="/wiki/James_Horner" title="James Horner">
                      James Horner
                     </a>
@@ -23289,7 +23289,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Smooth_(song)" title="Smooth (song)">
                      Smooth
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Itaal_Shur" title="Itaal Shur">
                      Itaal Shur
                     </a>
@@ -23315,7 +23315,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Beautiful_Day" title="Beautiful Day">
                      Beautiful Day
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Adam_Clayton" title="Adam Clayton">
                      Adam Clayton
                     </a>
@@ -23338,7 +23338,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Fallin%27_(Alicia_Keys_song)" title="Fallin' (Alicia Keys song)">
                      Fallin'
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Alicia_Keys" title="Alicia Keys">
                      Alicia Keys
                     </a>
@@ -23349,7 +23349,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Don%27t_Know_Why" title="Don't Know Why">
                      Don't Know Why
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Jesse_Harris" title="Jesse Harris">
                      Jesse Harris
                     </a>
@@ -23360,7 +23360,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Dance_with_My_Father_(song)" title="Dance with My Father (song)">
                      Dance with My Father
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Richard_Marx" title="Richard Marx">
                      Richard Marx
                     </a>
@@ -23375,7 +23375,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Daughters_(John_Mayer_song)" title="Daughters (John Mayer song)">
                      Daughters
                     </a>
-                    " 
+                    "
                     <a href="/wiki/John_Mayer" title="John Mayer">
                      John Mayer
                     </a>
@@ -23386,7 +23386,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Sometimes_You_Can%27t_Make_It_on_Your_Own" title="Sometimes You Can't Make It on Your Own">
                      Sometimes You Can't Make It on Your Own
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Adam_Clayton" title="Adam Clayton">
                      Adam Clayton
                     </a>
@@ -23409,7 +23409,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Not_Ready_to_Make_Nice" title="Not Ready to Make Nice">
                      Not Ready to Make Nice
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Emily_Robison" title="Emily Robison">
                      Emily Burns Erwin
                     </a>
@@ -23432,7 +23432,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Rehab_(Amy_Winehouse_song)" title="Rehab (Amy Winehouse song)">
                      Rehab
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Amy_Winehouse" title="Amy Winehouse">
                      Amy Winehouse
                     </a>
@@ -23443,7 +23443,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Viva_la_Vida" title="Viva la Vida">
                      Viva la Vida
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Guy_Berryman" title="Guy Berryman">
                      Guy Berryman
                     </a>
@@ -23466,7 +23466,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Single_Ladies_(Put_a_Ring_on_It)" title="Single Ladies (Put a Ring on It)">
                      Single Ladies (Put a Ring on It)
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Kuk_Harrell" title="Kuk Harrell">
                      Thaddis "Kuk" Harrell
                     </a>
@@ -23489,7 +23489,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Need_You_Now_(Lady_Antebellum_song)" title="Need You Now (Lady Antebellum song)">
                      Need You Now
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Dave_Haywood" title="Dave Haywood">
                      Dave Haywood
                     </a>
@@ -23512,7 +23512,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Rolling_in_the_Deep" title="Rolling in the Deep">
                      Rolling in the Deep
                     </a>
-                    " 
+                    "
                     <a class="mw-selflink selflink">
                      Adele Adkins
                     </a>
@@ -23527,7 +23527,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/We_Are_Young" title="We Are Young">
                      We Are Young
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Jack_Antonoff" title="Jack Antonoff">
                      Jack Antonoff
                     </a>
@@ -23550,7 +23550,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Royals_(song)" title="Royals (song)">
                      Royals
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Joel_Little" title="Joel Little">
                      Joel Little
                     </a>
@@ -23569,7 +23569,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Rodney_Jerkins" title="Rodney Jerkins">
                      Darkchild
                     </a>
-                    version) 
+                    version)
                     <a href="/wiki/Jimmy_Napes" title="Jimmy Napes">
                      James Napier
                     </a>
@@ -23584,7 +23584,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Thinking_Out_Loud" title="Thinking Out Loud">
                      Thinking Out Loud
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Ed_Sheeran" title="Ed Sheeran">
                      Ed Sheeran
                     </a>
@@ -23599,7 +23599,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/Hello_(Adele_song)" title="Hello (Adele song)">
                      Hello
                     </a>
-                    " 
+                    "
                     <a class="mw-selflink selflink">
                      Adele Adkins
                     </a>
@@ -23614,7 +23614,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/That%27s_What_I_Like_(Bruno_Mars_song)" title="That's What I Like (Bruno Mars song)">
                      That's What I Like
                     </a>
-                    " 
+                    "
                     <a href="/wiki/1500_or_Nothin%27" title="1500 or Nothin'">
                      Christopher Brody Brown
                     </a>
@@ -23653,7 +23653,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
                     <a href="/wiki/This_Is_America_(song)" title="This Is America (song)">
                      This Is America
                     </a>
-                    " 
+                    "
                     <a href="/wiki/Donald_Glover" title="Donald Glover">
                      Donald Glover
                     </a>
@@ -24522,7 +24522,7 @@ export const Adele= ` export const Adele= ` <!DOCTYPE html>
         </tbody>
        </table>
       </div>
-      <!-- 
+      <!--
 NewPP limit report
 Parsed by mw1269
 Cached time: 20190430144255
@@ -25195,12 +25195,12 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-ar">
         <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A3%D8%AF%D9%8A%D9%84" hreflang="ar" lang="ar" title="  Arabic">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-as">
         <a class="interlanguage-link-target" href="https://as.wikipedia.org/wiki/%E0%A6%8F%E0%A6%A1%E0%A7%87%E0%A6%B2" hreflang="as" lang="as" title="  Assamese">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-ast">
@@ -25215,7 +25215,7 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-bn">
         <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A1%E0%A7%87%E0%A6%B2" hreflang="bn" lang="bn" title="  Bangla">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-bjn">
@@ -25225,12 +25225,12 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-ba">
         <a class="interlanguage-link-target" href="https://ba.wikipedia.org/wiki/%D0%90%D0%B4%D0%B5%D0%BB%D1%8C_(%D0%B9%D1%8B%D1%80%D1%81%D1%8B)" hreflang="ba" lang="ba" title=" ()  Bashkir">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-be">
         <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%90%D0%B4%D1%8D%D0%BB%D1%8C_(%D1%81%D0%BF%D1%8F%D0%B2%D0%B0%D1%87%D0%BA%D0%B0)" hreflang="be" lang="be" title=" ()  Belarusian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-be-x-old">
@@ -25240,7 +25240,7 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-bg">
         <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%90%D0%B4%D0%B5%D0%BB" hreflang="bg" lang="bg" title="  Bulgarian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-bs">
@@ -25290,7 +25290,7 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-el">
         <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CE%AD%CE%BB" hreflang="el" lang="el" title="  Greek">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-eml">
@@ -25315,7 +25315,7 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-fa">
         <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D8%AF%D9%84" hreflang="fa" lang="fa" title="  Persian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-fr">
@@ -25335,17 +25335,17 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-ko">
         <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%95%84%EB%8D%B8" hreflang="ko" lang="ko" title="  Korean">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-hy">
         <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B1%D5%A4%D5%A5%D5%AC" hreflang="hy" lang="hy" title="  Armenian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-hi">
         <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%A1%E0%A5%87%E0%A4%B2_(%E0%A4%97%E0%A4%BE%E0%A4%AF%E0%A4%BF%E0%A4%95%E0%A4%BE)" hreflang="hi" lang="hi" title=" ()  Hindi">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-hr">
@@ -25370,7 +25370,7 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-he">
         <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%93%D7%9C_(%D7%96%D7%9E%D7%A8%D7%AA)" hreflang="he" lang="he" title=" ()  Hebrew">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-jv">
@@ -25380,17 +25380,17 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-kn">
         <a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%85%E0%B2%A1%E0%B3%86%E0%B2%B2%E0%B3%86" hreflang="kn" lang="kn" title="  Kannada">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-ka">
         <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%93%E1%83%94%E1%83%9A%E1%83%98" hreflang="ka" lang="ka" title="  Georgian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-kk">
         <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%90%D0%B4%D0%B5%D0%BB%D1%8C" hreflang="kk" lang="kk" title="  Kazakh">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-ku">
@@ -25400,7 +25400,7 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-ky">
         <a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%90%D0%B4%D0%B5%D0%BB%D1%8C" hreflang="ky" lang="ky" title="  Kyrgyz">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-la">
@@ -25430,37 +25430,37 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-mai">
         <a class="interlanguage-link-target" href="https://mai.wikipedia.org/wiki/%E0%A4%8F%E0%A4%A1%E0%A5%8D%E0%A4%B2%E0%A5%80_(%E0%A4%97%E0%A4%BE%E0%A4%AF%E0%A4%BF%E0%A4%95%E0%A4%BE)" hreflang="mai" lang="mai" title=" ()  Maithili">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-mk">
         <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%90%D0%B4%D0%B5%D0%BB" hreflang="mk" lang="mk" title="  Macedonian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-ml">
         <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%A1%E0%B5%87%E0%B5%BD" hreflang="ml" lang="ml" title="  Malayalam">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-mr">
         <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%85%E2%80%8D%E0%A5%85%E0%A4%A1%E0%A5%87%E0%A4%B2" hreflang="mr" lang="mr" title="  Marathi">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-xmf">
         <a class="interlanguage-link-target" href="https://xmf.wikipedia.org/wiki/%E1%83%90%E1%83%93%E1%83%94%E1%83%9A%E1%83%98" hreflang="xmf" lang="xmf" title="  Mingrelian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-arz">
         <a class="interlanguage-link-target" href="https://arz.wikipedia.org/wiki/%D8%A7%D8%AF%D9%8A%D9%84" hreflang="arz" lang="arz" title="  Egyptian Arabic">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-mzn">
         <a class="interlanguage-link-target" href="https://mzn.wikipedia.org/wiki/%D8%A7%D8%AF%D9%84" hreflang="mzn" lang="mzn" title="  Mazanderani">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-ms">
@@ -25470,12 +25470,12 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-mn">
         <a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%90%D0%B4%D0%B5%D0%BB%D1%8C_(%D0%B4%D1%83%D1%83%D1%87%D0%B8%D0%BD)" hreflang="mn" lang="mn" title=" ()  Mongolian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-my">
         <a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%92%E1%80%B2%E1%80%9C%E1%80%BA" hreflang="my" lang="my" title="  Burmese">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-nl">
@@ -25485,12 +25485,12 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-ne">
         <a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%8F%E0%A4%A1%E0%A5%87%E0%A4%B2" hreflang="ne" lang="ne" title="  Nepali">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-ja">
         <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%87%E3%83%AB_(%E6%AD%8C%E6%89%8B)" hreflang="ja" lang="ja" title=" ()  Japanese">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-no">
@@ -25515,17 +25515,17 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-pa">
         <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%85%E0%A8%A1%E0%A9%88%E0%A8%B2" hreflang="pa" lang="pa" title="  Punjabi">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-pnb">
         <a class="interlanguage-link-target" href="https://pnb.wikipedia.org/wiki/%D8%A7%DA%88%DB%8C%D9%84" hreflang="pnb" lang="pnb" title="  Western Punjabi">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-ps">
         <a class="interlanguage-link-target" href="https://ps.wikipedia.org/wiki/%D8%A7%DA%89%DB%90%D9%84" hreflang="ps" lang="ps" title="  Pashto">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-pl">
@@ -25545,12 +25545,12 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-ru">
         <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B5%D0%BB%D1%8C_(%D0%BF%D0%B5%D0%B2%D0%B8%D1%86%D0%B0)" hreflang="ru" lang="ru" title=" ()  Russian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-sah">
         <a class="interlanguage-link-target" href="https://sah.wikipedia.org/wiki/%D0%90%D0%B4%D0%B5%D0%BB%D1%8C" hreflang="sah" lang="sah" title="  Sakha">
-          
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-sco">
@@ -25565,7 +25565,7 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-si">
         <a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%87%E0%B6%A9%E0%B7%99%E0%B6%BD%E0%B7%8A" hreflang="si" lang="si" title="  Sinhala">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-simple">
@@ -25585,7 +25585,7 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-ckb">
         <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D8%A6%DB%95%D8%AF%DB%8E%D9%84" hreflang="ckb" lang="ckb" title="  Central Kurdish">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-sr">
@@ -25595,7 +25595,7 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-sh">
         <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Adele_(pjeva%C4%8Dica)" hreflang="sh" lang="sh" title="Adele (pjevaica)  Serbo-Croatian">
-         Srpskohrvatski / 
+         Srpskohrvatski /
         </a>
        </li>
        <li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article">
@@ -25615,17 +25615,17 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-ta">
         <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%9F%E0%AF%86%E0%AE%B2%E0%AF%8D_(%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AE%95%E0%AE%BF)" hreflang="ta" lang="ta" title=" ()  Tamil">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-th">
         <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B0%E0%B9%80%E0%B8%94%E0%B8%A5" hreflang="th" lang="th" title="  Thai">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-chr">
         <a class="interlanguage-link-target" href="https://chr.wikipedia.org/wiki/%E1%8E%A0%E1%8F%95%E1%8E%B5" hreflang="chr" lang="chr" title="  Cherokee">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-tr">
@@ -25635,7 +25635,7 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-uk">
         <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%90%D0%B4%D0%B5%D0%BB%D1%8C_(%D1%81%D0%BF%D1%96%D0%B2%D0%B0%D1%87%D0%BA%D0%B0)" hreflang="uk" lang="uk" title=" ()  Ukrainian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-vi">
@@ -25650,7 +25650,7 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-zh-yue">
         <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/Adele" hreflang="yue" lang="yue" title="Adele  Cantonese">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-diq">
@@ -25660,7 +25660,7 @@ Transclusion expansion time report (%,ms,calls,template)
        </li>
        <li class="interlanguage-link interwiki-zh">
         <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%84%9B%E9%BB%9B%E5%85%92" hreflang="zh" lang="zh" title="  Chinese">
-         
+
         </a>
        </li>
       </ul>
@@ -25763,10 +25763,10 @@ additional terms may apply.  By using this site, you agree to the
    (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.692","walltime":"3.127","ppvisitednodes":{"value":15823,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":809242,"limit":2097152},"templateargumentsize":{"value":179350,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":760078,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 2396.492      1 -total"," 57.00% 1365.977      1 Template:Reflist"," 24.71%  592.189    124 Template:Cite_web"," 21.73%  520.728    121 Template:Cite_news","  9.39%  224.911      1 Template:Infobox_person","  8.72%  208.982      2 Template:Infobox","  6.05%  145.064      2 Template:Navboxes","  4.81%  115.194      1 Template:Official_website","  4.69%  112.309     21 Template:Navbox","  2.56%   61.288      7 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"1.336","limit":"10.000"},"limitreport-memusage":{"value":9561732,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20190430144255","ttl":2592000,"transientcontent":false}}});});
   </script>
   <script type="application/ld+json">
-   {"@context":"https:\/\/schema.org","@type":"Article","name":"Adele","url":"https:\/\/en.wikipedia.org\/wiki\/Adele","sameAs":"http:\/\/www.wikidata.org\/entity\/Q23215","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q23215","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-09-01T00:38:36Z","dateModified":"2019-04-30T14:42:42Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7c\/Adele_2016.jpg","headline":"British singer-songwriter"}
+   {"@context":"https:\\/\\/schema.org","@type":"Article","name":"Adele","url":"https:\\/\\/en.wikipedia.org\\/wiki\\/Adele","sameAs":"http:\\/\\/www.wikidata.org\\/entity\\/Q23215","mainEntity":"http:\\/\\/www.wikidata.org\\/entity\\/Q23215","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\\/\\/www.wikimedia.org\\/static\\/images\\/wmf-hor-googpub.png"}},"datePublished":"2007-09-01T00:38:36Z","dateModified":"2019-04-30T14:42:42Z","image":"https:\\/\\/upload.wikimedia.org\\/wikipedia\\/commons\\/7\\/7c\\/Adele_2016.jpg","headline":"British singer-songwriter"}
   </script>
   <script>
    (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":139,"wgHostname":"mw1241"});});
   </script>
  </body>
-</html> `; `;
+</html> `;

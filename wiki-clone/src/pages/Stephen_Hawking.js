@@ -6,10 +6,10 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
    Stephen Hawking - Wikipedia
   </title>
   <script>
-   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+   document.documentElement.className = document.documentElement.className.replace( /(^|\\s)client-nojs(\\s|$)/, "$1client-js$2" );
   </script>
   <script>
-   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stephen_Hawking","wgTitle":"Stephen Hawking","wgCurRevisionId":894801641,"wgRevisionId":894801641,"wgArticleId":19376148,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Pages containing links to subscription-only content","Pages containing London Gazette template with parameter supp set to y","All articles with self-published sources","Articles with self-published sources from March 2018","Wikipedia pages semi-protected against vandalism","Articles with short description","EngvarB from March 2018","Use dmy dates from April 2019","Biography with signature","Infobox person using alma mater","Articles with hCards","Wikipedia articles needing clarification from March 2018","Articles containing French-language text","All articles lacking reliable references","Articles lacking reliable references from August 2018","All articles with unsourced statements","Articles with unsourced statements from March 2018","Portal templates with redlinked portals","Official website different in Wikidata and Wikipedia","Articles with Encyclopdia Britannica links","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with CINII identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz identifiers","Wikipedia articles with MGP identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLA identifiers","Wikipedia articles with ORCID identifiers","Wikipedia articles with SBN identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","AC with 18 elements","Articles containing video clips","Stephen Hawking","1942 births","2018 deaths","20th-century atheists","20th-century astronomers","21st-century astronomers","20th-century English writers","21st-century atheists","21st-century English writers","Academics of the University of Cambridge","Albert Einstein Medal recipients","Alumni of Trinity Hall, Cambridge","Alumni of University College, Oxford","Commanders of the Order of the British Empire","Cosmologists","Deaths from motor neuron disease","English astronomers","English atheists","English children's writers","English humanists","English male non-fiction writers","English memoirists","English people of Scottish descent","English people with disabilities","English physicists","English science writers","English science fiction writers","Fellows of Gonville and Caius College, Cambridge","Fellows of the Royal Society","Labour Party (UK) people","Lucasian Professors of Mathematics","Maxwell Medal and Prize recipients","Members of the American Philosophical Society","Cambridge mathematicians","Members of the Order of the Companions of Honour","Members of the Pontifical Academy of Sciences","Members of the United States National Academy of Sciences","Mental calculators","People educated at St Albans High School for Girls","People educated at St Albans School, Hertfordshire","People from Oxford","People from St Albans","People with tetraplegia","Presidential Medal of Freedom recipients","Project Steve","Recipients of the Copley Medal","Recipients of the Gold Medal of the Royal Astronomical Society","Relativity theorists","Scientists with disabilities","Theoretical physicists","Wolf Prize in Physics laureates","Burials at Westminster Abbey","Transhumanists","British transhumanists","AntiIraq War activists","Breakthrough Prize winners"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stephen_Hawking","wgRelevantArticleId":19376148,"wgRequestId":"XMhYvgpAIDEAABtSX6YAAABM","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q17714","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stephen_Hawking","wgTitle":"Stephen Hawking","wgCurRevisionId":894801641,"wgRevisionId":894801641,"wgArticleId":19376148,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Pages containing links to subscription-only content","Pages containing London Gazette template with parameter supp set to y","All articles with self-published sources","Articles with self-published sources from March 2018","Wikipedia pages semi-protected against vandalism","Articles with short description","EngvarB from March 2018","Use dmy dates from April 2019","Biography with signature","Infobox person using alma mater","Articles with hCards","Wikipedia articles needing clarification from March 2018","Articles containing French-language text","All articles lacking reliable references","Articles lacking reliable references from August 2018","All articles with unsourced statements","Articles with unsourced statements from March 2018","Portal templates with redlinked portals","Official website different in Wikidata and Wikipedia","Articles with Encyclopdia Britannica links","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with CINII identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz identifiers","Wikipedia articles with MGP identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLA identifiers","Wikipedia articles with ORCID identifiers","Wikipedia articles with SBN identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","AC with 18 elements","Articles containing video clips","Stephen Hawking","1942 births","2018 deaths","20th-century atheists","20th-century astronomers","21st-century astronomers","20th-century English writers","21st-century atheists","21st-century English writers","Academics of the University of Cambridge","Albert Einstein Medal recipients","Alumni of Trinity Hall, Cambridge","Alumni of University College, Oxford","Commanders of the Order of the British Empire","Cosmologists","Deaths from motor neuron disease","English astronomers","English atheists","English children's writers","English humanists","English male non-fiction writers","English memoirists","English people of Scottish descent","English people with disabilities","English physicists","English science writers","English science fiction writers","Fellows of Gonville and Caius College, Cambridge","Fellows of the Royal Society","Labour Party (UK) people","Lucasian Professors of Mathematics","Maxwell Medal and Prize recipients","Members of the American Philosophical Society","Cambridge mathematicians","Members of the Order of the Companions of Honour","Members of the Pontifical Academy of Sciences","Members of the United States National Academy of Sciences","Mental calculators","People educated at St Albans High School for Girls","People educated at St Albans School, Hertfordshire","People from Oxford","People from St Albans","People with tetraplegia","Presidential Medal of Freedom recipients","Project Steve","Recipients of the Copley Medal","Recipients of the Gold Medal of the Royal Astronomical Society","Relativity theorists","Scientists with disabilities","Theoretical physicists","Wolf Prize in Physics laureates","Burials at Westminster Abbey","Transhumanists","British transhumanists","AntiIraq War activists","Breakthrough Prize winners"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stephen_Hawking","wgRelevantArticleId":19376148,"wgRequestId":"XMhYvgpAIDEAABtSX6YAAABM","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q17714","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\\\","patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});
 });RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.scripts","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});
   </script>
   <link href="https://en.wikipedia.org/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
@@ -7409,7 +7409,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+Royal+Society+A%3A+Mathematical%2C+Physical+and+Engineering+Sciences&amp;rft.atitle=The+Singularities+of+Gravitational+Collapse+and+Cosmology&amp;rft.volume=314&amp;rft.issue=1519&amp;rft.pages=529-548&amp;rft.date=1970&amp;rft_id=info%3Adoi%2F10.1098%2Frspa.1970.0021&amp;rft_id=info%3Abibcode%2F1970RSPSA.314..529H&amp;rft.aulast=Hawking&amp;rft.aufirst=S.W.&amp;rft.au=Penrose%2C+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStephen+Hawking">
         </span>
         <style data-mw-deduplicate="TemplateStyles:r886058088">
-         .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+         .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\\"""\\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
         </style>
        </li>
        <li>
@@ -7767,7 +7767,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
             <dd>
              <span class="mwe-math-element">
               <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-               <math alttext="{\displaystyle T={\frac {\hbar c^{3}}{8\pi GMk}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+               <math alttext="{\\displaystyle T={\\frac {\\hbar c^{3}}{8\\pi GMk}},}" xmlns="http://www.w3.org/1998/Math/MathML">
                 <semantics>
                  <mrow class="MJX-TeXAtom-ORD">
                   <mstyle displaystyle="true" scriptlevel="0">
@@ -7821,19 +7821,19 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                   </mstyle>
                  </mrow>
                  <annotation encoding="application/x-tex">
-                  {\displaystyle T={\frac {\hbar c^{3}}{8\pi GMk}},}
+                  {\\displaystyle T={\\frac {\\hbar c^{3}}{8\\pi GMk}},}
                  </annotation>
                 </semantics>
                </math>
               </span>
-              <img alt="{\displaystyle T={\frac {\hbar c^{3}}{8\pi GMk}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8f8738cbbe565c644dfed6b3e453b944fdf134df" style="vertical-align: -2.005ex; width:14.192ex; height:5.843ex;"/>
+              <img alt="{\\displaystyle T={\\frac {\\hbar c^{3}}{8\\pi GMk}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8f8738cbbe565c644dfed6b3e453b944fdf134df" style="vertical-align: -2.005ex; width:14.192ex; height:5.843ex;"/>
              </span>
             </dd>
            </dl>
            where
            <span class="mwe-math-element">
             <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-             <math alttext="{\displaystyle T}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <math alttext="{\\displaystyle T}" xmlns="http://www.w3.org/1998/Math/MathML">
               <semantics>
                <mrow class="MJX-TeXAtom-ORD">
                 <mstyle displaystyle="true" scriptlevel="0">
@@ -7843,7 +7843,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                 </mstyle>
                </mrow>
                <annotation encoding="application/x-tex">
-                {\displaystyle T}
+                {\\displaystyle T}
                </annotation>
               </semantics>
              </math>
@@ -7857,7 +7857,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
            ,
            <span class="mwe-math-element">
             <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-             <math alttext="{\displaystyle \hbar }" xmlns="http://www.w3.org/1998/Math/MathML">
+             <math alttext="{\\displaystyle \\hbar }" xmlns="http://www.w3.org/1998/Math/MathML">
               <semantics>
                <mrow class="MJX-TeXAtom-ORD">
                 <mstyle displaystyle="true" scriptlevel="0">
@@ -7868,12 +7868,12 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                 </mstyle>
                </mrow>
                <annotation encoding="application/x-tex">
-                {\displaystyle \hbar }
+                {\\displaystyle \\hbar }
                </annotation>
               </semantics>
              </math>
             </span>
-            <img alt="\hbar " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/de68de3a92517953436c93b5a76461d49160cc41" style="vertical-align: -0.338ex; width:1.306ex; height:2.176ex;"/>
+            <img alt="\\hbar " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/de68de3a92517953436c93b5a76461d49160cc41" style="vertical-align: -0.338ex; width:1.306ex; height:2.176ex;"/>
            </span>
            is
            <a class="mw-redirect" href="/wiki/Planck%27s_constant" title="Planck's constant">
@@ -7883,7 +7883,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
             divided by
             <span class="mwe-math-element">
              <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-              <math alttext="{\displaystyle 2\pi }" xmlns="http://www.w3.org/1998/Math/MathML">
+              <math alttext="{\\displaystyle 2\\pi }" xmlns="http://www.w3.org/1998/Math/MathML">
                <semantics>
                 <mrow class="MJX-TeXAtom-ORD">
                  <mstyle displaystyle="true" scriptlevel="0">
@@ -7897,18 +7897,18 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                  </mstyle>
                 </mrow>
                 <annotation encoding="application/x-tex">
-                 {\displaystyle 2\pi }
+                 {\\displaystyle 2\\pi }
                 </annotation>
                </semantics>
               </math>
              </span>
-             <img alt="2\pi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/73efd1f6493490b058097060a572606d2c550a06" style="vertical-align: -0.338ex; width:2.494ex; height:2.176ex;"/>
+             <img alt="2\\pi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/73efd1f6493490b058097060a572606d2c550a06" style="vertical-align: -0.338ex; width:2.494ex; height:2.176ex;"/>
             </span>
            </a>
            ,
            <span class="mwe-math-element">
             <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-             <math alttext="{\displaystyle c}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <math alttext="{\\displaystyle c}" xmlns="http://www.w3.org/1998/Math/MathML">
               <semantics>
                <mrow class="MJX-TeXAtom-ORD">
                 <mstyle displaystyle="true" scriptlevel="0">
@@ -7918,7 +7918,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                 </mstyle>
                </mrow>
                <annotation encoding="application/x-tex">
-                {\displaystyle c}
+                {\\displaystyle c}
                </annotation>
               </semantics>
              </math>
@@ -7932,7 +7932,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
            ,
            <span class="mwe-math-element">
             <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-             <math alttext="{\displaystyle G}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <math alttext="{\\displaystyle G}" xmlns="http://www.w3.org/1998/Math/MathML">
               <semantics>
                <mrow class="MJX-TeXAtom-ORD">
                 <mstyle displaystyle="true" scriptlevel="0">
@@ -7942,7 +7942,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                 </mstyle>
                </mrow>
                <annotation encoding="application/x-tex">
-                {\displaystyle G}
+                {\\displaystyle G}
                </annotation>
               </semantics>
              </math>
@@ -7956,7 +7956,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
            ,
            <span class="mwe-math-element">
             <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-             <math alttext="{\displaystyle M}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <math alttext="{\\displaystyle M}" xmlns="http://www.w3.org/1998/Math/MathML">
               <semantics>
                <mrow class="MJX-TeXAtom-ORD">
                 <mstyle displaystyle="true" scriptlevel="0">
@@ -7966,7 +7966,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                 </mstyle>
                </mrow>
                <annotation encoding="application/x-tex">
-                {\displaystyle M}
+                {\\displaystyle M}
                </annotation>
               </semantics>
              </math>
@@ -7980,7 +7980,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
            of the black hole, and
            <span class="mwe-math-element">
             <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-             <math alttext="{\displaystyle k}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <math alttext="{\\displaystyle k}" xmlns="http://www.w3.org/1998/Math/MathML">
               <semantics>
                <mrow class="MJX-TeXAtom-ORD">
                 <mstyle displaystyle="true" scriptlevel="0">
@@ -7990,7 +7990,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                 </mstyle>
                </mrow>
                <annotation encoding="application/x-tex">
-                {\displaystyle k}
+                {\\displaystyle k}
                </annotation>
               </semantics>
              </math>
@@ -8030,7 +8030,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
            ,
            <span class="mwe-math-element">
             <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-             <math alttext="{\displaystyle S}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <math alttext="{\\displaystyle S}" xmlns="http://www.w3.org/1998/Math/MathML">
               <semantics>
                <mrow class="MJX-TeXAtom-ORD">
                 <mstyle displaystyle="true" scriptlevel="0">
@@ -8040,7 +8040,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                 </mstyle>
                </mrow>
                <annotation encoding="application/x-tex">
-                {\displaystyle S}
+                {\\displaystyle S}
                </annotation>
               </semantics>
              </math>
@@ -8050,7 +8050,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
            , such that
            <span class="mwe-math-element">
             <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-             <math alttext="{\displaystyle T=Mc^{2}/2S,}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <math alttext="{\\displaystyle T=Mc^{2}/2S,}" xmlns="http://www.w3.org/1998/Math/MathML">
               <semantics>
                <mrow class="MJX-TeXAtom-ORD">
                 <mstyle displaystyle="true" scriptlevel="0">
@@ -8090,17 +8090,17 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                 </mstyle>
                </mrow>
                <annotation encoding="application/x-tex">
-                {\displaystyle T=Mc^{2}/2S,}
+                {\\displaystyle T=Mc^{2}/2S,}
                </annotation>
               </semantics>
              </math>
             </span>
-            <img alt="{\displaystyle T=Mc^{2}/2S,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1df0f52b758651f6c4c9a928470321778aadc040" style="vertical-align: -0.838ex; width:13.709ex; height:3.176ex;"/>
+            <img alt="{\\displaystyle T=Mc^{2}/2S,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1df0f52b758651f6c4c9a928470321778aadc040" style="vertical-align: -0.838ex; width:13.709ex; height:3.176ex;"/>
            </span>
            where
            <span class="mwe-math-element">
             <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-             <math alttext="{\displaystyle Mc^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <math alttext="{\\displaystyle Mc^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
               <semantics>
                <mrow class="MJX-TeXAtom-ORD">
                 <mstyle displaystyle="true" scriptlevel="0">
@@ -8120,12 +8120,12 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                 </mstyle>
                </mrow>
                <annotation encoding="application/x-tex">
-                {\displaystyle Mc^{2}}
+                {\\displaystyle Mc^{2}}
                </annotation>
               </semantics>
              </math>
             </span>
-            <img alt="{\displaystyle Mc^{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7f1e81d5aacf191d5515d34e8c9872e0348cc539" style="vertical-align: -0.338ex; width:4.503ex; height:2.676ex;"/>
+            <img alt="{\\displaystyle Mc^{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7f1e81d5aacf191d5515d34e8c9872e0348cc539" style="vertical-align: -0.338ex; width:4.503ex; height:2.676ex;"/>
            </span>
            is the energy of a (nonspinning) black hole as expressed with
            <a href="/wiki/Mass%E2%80%93energy_equivalence" title="Massenergy equivalence">
@@ -8142,7 +8142,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
             <dd>
              <span class="mwe-math-element">
               <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-               <math alttext="{\displaystyle S={\frac {4\pi GM^{2}k}{\hbar c}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+               <math alttext="{\\displaystyle S={\\frac {4\\pi GM^{2}k}{\\hbar c}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
                 <semantics>
                  <mrow class="MJX-TeXAtom-ORD">
                   <mstyle displaystyle="true" scriptlevel="0">
@@ -8196,12 +8196,12 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                   </mstyle>
                  </mrow>
                  <annotation encoding="application/x-tex">
-                  {\displaystyle S={\frac {4\pi GM^{2}k}{\hbar c}}.}
+                  {\\displaystyle S={\\frac {4\\pi GM^{2}k}{\\hbar c}}.}
                  </annotation>
                 </semantics>
                </math>
               </span>
-              <img alt="{\displaystyle S={\frac {4\pi GM^{2}k}{\hbar c}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/66476fa38886d38b42423d5bf71e77f5ae4700f0" style="vertical-align: -2.005ex; width:15.166ex; height:5.843ex;"/>
+              <img alt="{\\displaystyle S={\\frac {4\\pi GM^{2}k}{\\hbar c}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/66476fa38886d38b42423d5bf71e77f5ae4700f0" style="vertical-align: -2.005ex; width:15.166ex; height:5.843ex;"/>
              </span>
             </dd>
            </dl>
@@ -8212,7 +8212,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
            is given by
            <span class="mwe-math-element">
             <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-             <math alttext="{\displaystyle r={\frac {2GM}{c^{2}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <math alttext="{\\displaystyle r={\\frac {2GM}{c^{2}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
               <semantics>
                <mrow class="MJX-TeXAtom-ORD">
                 <mstyle displaystyle="true" scriptlevel="0">
@@ -8253,12 +8253,12 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                 </mstyle>
                </mrow>
                <annotation encoding="application/x-tex">
-                {\displaystyle r={\frac {2GM}{c^{2}}},}
+                {\\displaystyle r={\\frac {2GM}{c^{2}}},}
                </annotation>
               </semantics>
              </math>
             </span>
-            <img alt="{\displaystyle r={\frac {2GM}{c^{2}}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6657e1ffb078b8f55a3120e9d6dd856765e9cc1f" style="vertical-align: -2.171ex; width:11.061ex; height:5.676ex;"/>
+            <img alt="{\\displaystyle r={\\frac {2GM}{c^{2}}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6657e1ffb078b8f55a3120e9d6dd856765e9cc1f" style="vertical-align: -2.171ex; width:11.061ex; height:5.676ex;"/>
            </span>
            and since its
            <a class="mw-redirect" href="/wiki/Surface_area_of_a_sphere" title="Surface area of a sphere">
@@ -8267,7 +8267,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
            is just
            <span class="mwe-math-element">
             <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-             <math alttext="{\displaystyle A=4\pi r^{2},}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <math alttext="{\\displaystyle A=4\\pi r^{2},}" xmlns="http://www.w3.org/1998/Math/MathML">
               <semantics>
                <mrow class="MJX-TeXAtom-ORD">
                 <mstyle displaystyle="true" scriptlevel="0">
@@ -8300,16 +8300,16 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                 </mstyle>
                </mrow>
                <annotation encoding="application/x-tex">
-                {\displaystyle A=4\pi r^{2},}
+                {\\displaystyle A=4\\pi r^{2},}
                </annotation>
               </semantics>
              </math>
             </span>
-            <img alt="{\displaystyle A=4\pi r^{2},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ba1cbdbb8a22c7db3b3f01dad4ea19f8dfcd502b" style="vertical-align: -0.671ex; width:10.086ex; height:3.009ex;"/>
+            <img alt="{\\displaystyle A=4\\pi r^{2},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ba1cbdbb8a22c7db3b3f01dad4ea19f8dfcd502b" style="vertical-align: -0.671ex; width:10.086ex; height:3.009ex;"/>
            </span>
            <span class="mwe-math-element">
             <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-             <math alttext="{\displaystyle S}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <math alttext="{\\displaystyle S}" xmlns="http://www.w3.org/1998/Math/MathML">
               <semantics>
                <mrow class="MJX-TeXAtom-ORD">
                 <mstyle displaystyle="true" scriptlevel="0">
@@ -8319,7 +8319,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                 </mstyle>
                </mrow>
                <annotation encoding="application/x-tex">
-                {\displaystyle S}
+                {\\displaystyle S}
                </annotation>
               </semantics>
              </math>
@@ -8341,7 +8341,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
             <dd>
              <span class="mwe-math-element">
               <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-               <math alttext="{\displaystyle S_{\text{BH}}={\frac {kc^{3}}{4\hbar G}}A,}" xmlns="http://www.w3.org/1998/Math/MathML">
+               <math alttext="{\\displaystyle S_{\\text{BH}}={\\frac {kc^{3}}{4\\hbar G}}A,}" xmlns="http://www.w3.org/1998/Math/MathML">
                 <semantics>
                  <mrow class="MJX-TeXAtom-ORD">
                   <mstyle displaystyle="true" scriptlevel="0">
@@ -8398,12 +8398,12 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                   </mstyle>
                  </mrow>
                  <annotation encoding="application/x-tex">
-                  {\displaystyle S_{\text{BH}}={\frac {kc^{3}}{4\hbar G}}A,}
+                  {\\displaystyle S_{\\text{BH}}={\\frac {kc^{3}}{4\\hbar G}}A,}
                  </annotation>
                 </semantics>
                </math>
               </span>
-              <img alt="{\displaystyle S_{\text{BH}}={\frac {kc^{3}}{4\hbar G}}A,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/18ab61342a5df6da0a528acf9c4a2036b6fbfd4f" style="vertical-align: -2.005ex; width:14.673ex; height:5.843ex;"/>
+              <img alt="{\\displaystyle S_{\\text{BH}}={\\frac {kc^{3}}{4\\hbar G}}A,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/18ab61342a5df6da0a528acf9c4a2036b6fbfd4f" style="vertical-align: -2.005ex; width:14.673ex; height:5.843ex;"/>
              </span>
             </dd>
            </dl>
@@ -8416,7 +8416,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
             <dd>
              <span class="mwe-math-element">
               <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-               <math alttext="{\displaystyle {\frac {S_{\text{BH}}}{k}}={\frac {1}{4}}{\frac {A}{A_{\text{P}}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+               <math alttext="{\\displaystyle {\\frac {S_{\\text{BH}}}{k}}={\\frac {1}{4}}{\\frac {A}{A_{\\text{P}}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
                 <semantics>
                  <mrow class="MJX-TeXAtom-ORD">
                   <mstyle displaystyle="true" scriptlevel="0">
@@ -8473,19 +8473,19 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                   </mstyle>
                  </mrow>
                  <annotation encoding="application/x-tex">
-                  {\displaystyle {\frac {S_{\text{BH}}}{k}}={\frac {1}{4}}{\frac {A}{A_{\text{P}}}},}
+                  {\\displaystyle {\\frac {S_{\\text{BH}}}{k}}={\\frac {1}{4}}{\\frac {A}{A_{\\text{P}}}},}
                  </annotation>
                 </semantics>
                </math>
               </span>
-              <img alt="{\displaystyle {\frac {S_{\text{BH}}}{k}}={\frac {1}{4}}{\frac {A}{A_{\text{P}}}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2c48a2e1614a2eb40e6e5aeb4ca119fd2140f4d7" style="vertical-align: -2.338ex; width:14.564ex; height:5.843ex;"/>
+              <img alt="{\\displaystyle {\\frac {S_{\\text{BH}}}{k}}={\\frac {1}{4}}{\\frac {A}{A_{\\text{P}}}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2c48a2e1614a2eb40e6e5aeb4ca119fd2140f4d7" style="vertical-align: -2.338ex; width:14.564ex; height:5.843ex;"/>
              </span>
             </dd>
            </dl>
            where
            <span class="mwe-math-element">
             <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-             <math alttext="{\displaystyle A_{\text{P}}=\hbar G/c^{3}}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <math alttext="{\\displaystyle A_{\\text{P}}=\\hbar G/c^{3}}" xmlns="http://www.w3.org/1998/Math/MathML">
               <semantics>
                <mrow class="MJX-TeXAtom-ORD">
                 <mstyle displaystyle="true" scriptlevel="0">
@@ -8527,12 +8527,12 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                 </mstyle>
                </mrow>
                <annotation encoding="application/x-tex">
-                {\displaystyle A_{\text{P}}=\hbar G/c^{3}}
+                {\\displaystyle A_{\\text{P}}=\\hbar G/c^{3}}
                </annotation>
               </semantics>
              </math>
             </span>
-            <img alt="{\displaystyle A_{\text{P}}=\hbar G/c^{3}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ac06457a0368343b53d60008680aedf7a1c5bf48" style="vertical-align: -0.838ex; width:12.55ex; height:3.176ex;"/>
+            <img alt="{\\displaystyle A_{\\text{P}}=\\hbar G/c^{3}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ac06457a0368343b53d60008680aedf7a1c5bf48" style="vertical-align: -0.838ex; width:12.55ex; height:3.176ex;"/>
            </span>
            is the
            <a href="/wiki/Planck_units#Derived_units" title="Planck units">
@@ -8545,7 +8545,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
            (in which
            <span class="mwe-math-element">
             <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-             <math alttext="{\displaystyle k}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <math alttext="{\\displaystyle k}" xmlns="http://www.w3.org/1998/Math/MathML">
               <semantics>
                <mrow class="MJX-TeXAtom-ORD">
                 <mstyle displaystyle="true" scriptlevel="0">
@@ -8555,7 +8555,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                 </mstyle>
                </mrow>
                <annotation encoding="application/x-tex">
-                {\displaystyle k}
+                {\\displaystyle k}
                </annotation>
               </semantics>
              </math>
@@ -8565,7 +8565,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
            and
            <span class="mwe-math-element">
             <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-             <math alttext="{\displaystyle A_{\text{P}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <math alttext="{\\displaystyle A_{\\text{P}}}" xmlns="http://www.w3.org/1998/Math/MathML">
               <semantics>
                <mrow class="MJX-TeXAtom-ORD">
                 <mstyle displaystyle="true" scriptlevel="0">
@@ -8582,19 +8582,19 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                 </mstyle>
                </mrow>
                <annotation encoding="application/x-tex">
-                {\displaystyle A_{\text{P}}}
+                {\\displaystyle A_{\\text{P}}}
                </annotation>
               </semantics>
              </math>
             </span>
-            <img alt="{\displaystyle A_{\text{P}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/130f657fb47d3f3cfdac0dfa95f321d09cf9b13b" style="vertical-align: -0.671ex; width:3.095ex; height:2.509ex;"/>
+            <img alt="{\\displaystyle A_{\\text{P}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/130f657fb47d3f3cfdac0dfa95f321d09cf9b13b" style="vertical-align: -0.671ex; width:3.095ex; height:2.509ex;"/>
            </span>
            are set to unity) reduces it further to:
            <dl>
             <dd>
              <span class="mwe-math-element">
               <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-               <math alttext="{\displaystyle S_{\text{BH}}={\frac {A}{4}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+               <math alttext="{\\displaystyle S_{\\text{BH}}={\\frac {A}{4}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
                 <semantics>
                  <mrow class="MJX-TeXAtom-ORD">
                   <mstyle displaystyle="true" scriptlevel="0">
@@ -8627,12 +8627,12 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                   </mstyle>
                  </mrow>
                  <annotation encoding="application/x-tex">
-                  {\displaystyle S_{\text{BH}}={\frac {A}{4}}.}
+                  {\\displaystyle S_{\\text{BH}}={\\frac {A}{4}}.}
                  </annotation>
                 </semantics>
                </math>
               </span>
-              <img alt="{\displaystyle S_{\text{BH}}={\frac {A}{4}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2104709467b60773575921f501c43f0ff019dd56" style="vertical-align: -1.838ex; width:10.378ex; height:5.343ex;"/>
+              <img alt="{\\displaystyle S_{\\text{BH}}={\\frac {A}{4}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2104709467b60773575921f501c43f0ff019dd56" style="vertical-align: -1.838ex; width:10.378ex; height:5.343ex;"/>
              </span>
             </dd>
            </dl>
@@ -8642,7 +8642,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
            had conjectured the proportionality; Hawking confirmed it and established the constant of proportionality at
            <span class="mwe-math-element">
             <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
-             <math alttext="{\displaystyle 1/4}" xmlns="http://www.w3.org/1998/Math/MathML">
+             <math alttext="{\\displaystyle 1/4}" xmlns="http://www.w3.org/1998/Math/MathML">
               <semantics>
                <mrow class="MJX-TeXAtom-ORD">
                 <mstyle displaystyle="true" scriptlevel="0">
@@ -8660,7 +8660,7 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                 </mstyle>
                </mrow>
                <annotation encoding="application/x-tex">
-                {\displaystyle 1/4}
+                {\\displaystyle 1/4}
                </annotation>
               </semantics>
              </math>
@@ -23065,8 +23065,8 @@ export const Stephen_Hawking= ` <!DOCTYPE html>
                </a>
                :
                <span class="uid">
-                <a class="external text" href="https://opac.sbn.it/opacsbn/opac/iccu/scheda_authority.jsp?bid=IT\ICCU\CFIV\076585" rel="nofollow">
-                 IT\ICCU\CFIV\076585
+                <a class="external text" href="https://opac.sbn.it/opacsbn/opac/iccu/scheda_authority.jsp?bid=IT\\ICCU\\CFIV\\076585" rel="nofollow">
+                 IT\\ICCU\\CFIV\\076585
                 </a>
                </span>
               </span>
@@ -24750,7 +24750,7 @@ additional terms may apply.  By using this site, you agree to the
    </div>
   </div>
   <script>
-   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"4.092","walltime":"4.914","ppvisitednodes":{"value":21074,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":624858,"limit":2097152},"templateargumentsize":{"value":72086,"limit":2097152},"expansiondepth":{"value":22,"limit":40},"expensivefunctioncount":{"value":38,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":792938,"limit":5000000},"entityaccesscount":{"value":7,"limit":400},"timingprofile":["100.00% 3888.484      1 -total"," 42.98% 1671.308      2 Template:Reflist"," 14.97%  582.052    111 Template:Cite_news"," 14.14%  549.715      1 Template:Infobox_scientist"," 13.89%  539.940      1 Template:Infobox_person"," 13.57%  527.501      2 Template:Infobox"," 10.71%  416.322    256 Template:Sfn","  9.80%  381.101      5 Template:Br_separated_entries","  9.12%  354.659     23 Template:Cite_journal","  8.03%  312.223      1 Template:Birth_date"]},"scribunto":{"limitreport-timeusage":{"value":"2.326","limit":"10.000"},"limitreport-memusage":{"value":30744899,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\ntable#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1328","timestamp":"20190430141635","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":5145,"wgHostname":"mw1328"});});
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"4.092","walltime":"4.914","ppvisitednodes":{"value":21074,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":624858,"limit":2097152},"templateargumentsize":{"value":72086,"limit":2097152},"expansiondepth":{"value":22,"limit":40},"expensivefunctioncount":{"value":38,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":792938,"limit":5000000},"entityaccesscount":{"value":7,"limit":400},"timingprofile":["100.00% 3888.484      1 -total"," 42.98% 1671.308      2 Template:Reflist"," 14.97%  582.052    111 Template:Cite_news"," 14.14%  549.715      1 Template:Infobox_scientist"," 13.89%  539.940      1 Template:Infobox_person"," 13.57%  527.501      2 Template:Infobox"," 10.71%  416.322    256 Template:Sfn","  9.80%  381.101      5 Template:Br_separated_entries","  9.12%  354.659     23 Template:Cite_journal","  8.03%  312.223      1 Template:Birth_date"]},"scribunto":{"limitreport-timeusage":{"value":"2.326","limit":"10.000"},"limitreport-memusage":{"value":30744899,"limit":52428800},"limitreport-logs":"table#1 {\\n  [\\"size\\"] = \\"tiny\\",\\n}\\ntable#1 {\\n  [\\"size\\"] = \\"tiny\\",\\n}\\n"},"cachereport":{"origin":"mw1328","timestamp":"20190430141635","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":5145,"wgHostname":"mw1328"});});
   </script>
  </body>
 </html> `;

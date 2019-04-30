@@ -1,4 +1,4 @@
-export const John_F._Kennedy= ` <!DOCTYPE html>
+export const John_F_Kennedy= ` <!DOCTYPE html>
 <html class="client-nojs" dir="ltr" lang="en">
  <head>
   <meta charset="utf-8"/>
@@ -6,10 +6,10 @@ export const John_F._Kennedy= ` <!DOCTYPE html>
    John F. Kennedy - Wikipedia
   </title>
   <script>
-   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+   document.documentElement.className = document.documentElement.className.replace( /(^|\\s)client-nojs(\\s|$)/, "$1client-js$2" );
   </script>
   <script>
-   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"John_F._Kennedy","wgTitle":"John F. Kennedy","wgCurRevisionId":894613222,"wgRevisionId":894613222,"wgArticleId":5119376,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from April 2019","Articles with permanently dead external links","Articles with dead external links from November 2015","Wikipedia pages semi-protected against vandalism","Wikipedia indefinitely move-protected pages","Use mdy dates from August 2018","Articles with short description","Articles containing potentially dated statements from 2019","All articles containing potentially dated statements","Articles with hAudio microformats","All articles with unsourced statements","Articles with unsourced statements from February 2018","Portal templates with all redlinked portals","Articles with Internet Archive links","Articles with LibriVox links","Articles with Encyclopdia Britannica links","Articles with Curlie links","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLA identifiers","Wikipedia articles with RKDartists identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with ULAN identifiers","Wikipedia articles with USCongress identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","AC with 18 elements","Articles containing video clips","John F. Kennedy","1917 births","1963 deaths","1963 murders in the United States","20th-century American politicians","20th-century American writers","20th-century Roman Catholics","20th-century Presidents of the United States","American Roman Catholics","American anti-communists","Massachusetts Democrats","Democratic Party (United States) presidential nominees","Democratic Party Presidents of the United States","Democratic Party United States Senators","Democratic Party members of the United States House of Representatives","Liberalism in the United States","James Cardinal Gibbons Medal winners","Journalists from Massachusetts","Laetare Medal recipients","Members of the United States House of Representatives from Massachusetts","Military personnel from Massachusetts","American naval personnel of World War II","American people of the Vietnam War","Assassinated Presidents of the United States","People from Barnstable, Massachusetts","American people of Irish descent","Kennedy family","Bouvier family","Burials at Arlington National Cemetery","Alumni of the London School of Economics","Choate Rosemary Hall alumni","Harvard College alumni","Deaths by firearm in Texas","People associated with the Boy Scouts of America","People associated with the assassination of John F. Kennedy","People from Brookline, Massachusetts","People murdered in Texas","People of the Congo Crisis","Politicians from Boston","Presidential Medal of Freedom recipients","Presidents of the United States","Pulitzer Prize for Biography or Autobiography winners","Recipients of the Navy and Marine Corps Medal","Space advocates","Star class sailors","United States Navy officers","United States Senators from Massachusetts","1960 United States presidential candidates","1956 United States vice-presidential candidates","Writers from Boston","Catholics from Massachusetts","People from Georgetown (Washington, D.C.)","Failed assassination attempt survivors"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"John_F._Kennedy","wgRelevantArticleId":5119376,"wgRequestId":"XMg9OQpAMFIAAJy7LOgAAAAW","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q9696","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"John_F._Kennedy","wgTitle":"John F. Kennedy","wgCurRevisionId":894613222,"wgRevisionId":894613222,"wgArticleId":5119376,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from April 2019","Articles with permanently dead external links","Articles with dead external links from November 2015","Wikipedia pages semi-protected against vandalism","Wikipedia indefinitely move-protected pages","Use mdy dates from August 2018","Articles with short description","Articles containing potentially dated statements from 2019","All articles containing potentially dated statements","Articles with hAudio microformats","All articles with unsourced statements","Articles with unsourced statements from February 2018","Portal templates with all redlinked portals","Articles with Internet Archive links","Articles with LibriVox links","Articles with Encyclopdia Britannica links","Articles with Curlie links","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLA identifiers","Wikipedia articles with RKDartists identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with ULAN identifiers","Wikipedia articles with USCongress identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","AC with 18 elements","Articles containing video clips","John F. Kennedy","1917 births","1963 deaths","1963 murders in the United States","20th-century American politicians","20th-century American writers","20th-century Roman Catholics","20th-century Presidents of the United States","American Roman Catholics","American anti-communists","Massachusetts Democrats","Democratic Party (United States) presidential nominees","Democratic Party Presidents of the United States","Democratic Party United States Senators","Democratic Party members of the United States House of Representatives","Liberalism in the United States","James Cardinal Gibbons Medal winners","Journalists from Massachusetts","Laetare Medal recipients","Members of the United States House of Representatives from Massachusetts","Military personnel from Massachusetts","American naval personnel of World War II","American people of the Vietnam War","Assassinated Presidents of the United States","People from Barnstable, Massachusetts","American people of Irish descent","Kennedy family","Bouvier family","Burials at Arlington National Cemetery","Alumni of the London School of Economics","Choate Rosemary Hall alumni","Harvard College alumni","Deaths by firearm in Texas","People associated with the Boy Scouts of America","People associated with the assassination of John F. Kennedy","People from Brookline, Massachusetts","People murdered in Texas","People of the Congo Crisis","Politicians from Boston","Presidential Medal of Freedom recipients","Presidents of the United States","Pulitzer Prize for Biography or Autobiography winners","Recipients of the Navy and Marine Corps Medal","Space advocates","Star class sailors","United States Navy officers","United States Senators from Massachusetts","1960 United States presidential candidates","1956 United States vice-presidential candidates","Writers from Boston","Catholics from Massachusetts","People from Georgetown (Washington, D.C.)","Failed assassination attempt survivors"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"John_F._Kennedy","wgRelevantArticleId":5119376,"wgRequestId":"XMg9OQpAMFIAAJy7LOgAAAAW","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q9696","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\\\","patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"});
 });RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});
   </script>
   <link href="https://en.wikipedia.org/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
@@ -506,12 +506,12 @@ export const John_F._Kennedy= ` <!DOCTYPE html>
          <td>
           Motor Torpedo Squadron 2
           <br/>
-          
+
           <a href="/wiki/Motor_Torpedo_Boat_PT-109" title="Motor Torpedo Boat PT-109">
            Patrol Torpedo Boat 109
           </a>
           <br/>
-          
+
           <a href="/wiki/Motor_Torpedo_Boat_PT-59" title="Motor Torpedo Boat PT-59">
            Patrol Torpedo Boat 59
           </a>
@@ -526,7 +526,7 @@ export const John_F._Kennedy= ` <!DOCTYPE html>
            World War II
           </a>
           <br/>
-          
+
           <a href="/wiki/Solomon_Islands_campaign" title="Solomon Islands campaign">
            Solomon Islands campaign
           </a>
@@ -2962,12 +2962,12 @@ export const John_F._Kennedy= ` <!DOCTYPE html>
        </a>
        with three
        <a href="/wiki/Service_star" title="Service star">
-        
+
         <span class="frac nowrap">
          <sup>
           3
          </sup>
-         
+
          <sub>
           16
          </sub>
@@ -3102,7 +3102,7 @@ export const John_F._Kennedy= ` <!DOCTYPE html>
         ) Kennedy unhesitatingly braved the difficulties and hazards of darkness to direct rescue operations, swimming many hours to secure aid and food after he had succeeded in getting his crew ashore. His outstanding courage, endurance and leadership contributed to the saving of several lives and were in keeping with the highest traditions of the United States Naval Service.
        </p>
        <div class="templatequotecite">
-        
+
         <cite>
          <a href="/wiki/James_Forrestal" title="James Forrestal">
           James Forrestal
@@ -8246,7 +8246,7 @@ export const John_F._Kennedy= ` <!DOCTYPE html>
         There'll be great presidents again ... but there will never be another Camelot.
        </p>
        <div class="templatequotecite">
-        
+
         <cite>
          Jacqueline Kennedy
          <sup class="reference" id="cite_ref-336">
@@ -9454,7 +9454,7 @@ export const John_F._Kennedy= ` <!DOCTYPE html>
            <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=John+F.+Kennedy+Miscellaneous+Information&amp;rft.pub=John+F.+Kennedy+Presidential+Library+%26+Museum&amp;rft_id=http%3A%2F%2Fwww.jfklibrary.org%2FHistorical%2BResources%2FArchives%2FReference%2BDesk%2FJohn%2BF.%2BKennedy%2BMiscellaneous%2BInformation.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+F.+Kennedy">
            </span>
            <style data-mw-deduplicate="TemplateStyles:r886058088">
-            .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+            .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\\"""\\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
            </style>
           </span>
          </li>
@@ -20837,7 +20837,7 @@ export const John_F._Kennedy= ` <!DOCTYPE html>
              <li>
               <b>
                <a href="/wiki/Lyndon_B._Johnson" title="Lyndon B. Johnson">
-                Lyndon B. Johnson 
+                Lyndon B. Johnson
                </a>
               </b>
              </li>
@@ -31841,7 +31841,7 @@ export const John_F._Kennedy= ` <!DOCTYPE html>
                  <div id="(1952_)_1956_United_States_presidential_election_(_1960)" style="font-size:114%;margin:0 4em">
                   (
                   <a href="/wiki/1952_United_States_presidential_election" title="1952 United States presidential election">
-                   1952 
+                   1952
                   </a>
                   )
                   <a href="/wiki/1956_United_States_presidential_election" title="1956 United States presidential election">
@@ -32432,7 +32432,7 @@ export const John_F._Kennedy= ` <!DOCTYPE html>
                  <div id="(1956_)_1960_United_States_presidential_election_(_1964)" style="font-size:114%;margin:0 4em">
                   (
                   <a href="/wiki/1956_United_States_presidential_election" title="1956 United States presidential election">
-                   1956 
+                   1956
                   </a>
                   )
                   <a href="/wiki/1960_United_States_presidential_election" title="1960 United States presidential election">
@@ -35850,7 +35850,7 @@ export const John_F._Kennedy= ` <!DOCTYPE html>
                     )
                     <sup>
                      <a href="/wiki/Assassination_of_Abraham_Lincoln" title="Assassination of Abraham Lincoln">
-                      
+
                      </a>
                     </sup>
                    </li>
@@ -35878,7 +35878,7 @@ export const John_F._Kennedy= ` <!DOCTYPE html>
                     </a>
                     <sup>
                      <a href="/wiki/Assassination_of_James_A._Garfield" title="Assassination of James A. Garfield">
-                      
+
                      </a>
                     </sup>
                    </li>
@@ -35896,7 +35896,7 @@ export const John_F._Kennedy= ` <!DOCTYPE html>
                     </a>
                     <sup>
                      <a href="/wiki/Assassination_of_William_McKinley" title="Assassination of William McKinley">
-                      
+
                      </a>
                     </sup>
                    </li>
@@ -35963,7 +35963,7 @@ export const John_F._Kennedy= ` <!DOCTYPE html>
                     )
                     <sup>
                      <a href="/wiki/Assassination_of_John_F._Kennedy" title="Assassination of John F. Kennedy">
-                      
+
                      </a>
                     </sup>
                    </li>
@@ -36185,7 +36185,7 @@ export const John_F._Kennedy= ` <!DOCTYPE html>
                   <sup>
                    1
                   </sup>
-                  died 1825; exhumed and honored before reinterment 
+                  died 1825; exhumed and honored before reinterment
                   <sup>
                    2
                   </sup>
@@ -36599,7 +36599,7 @@ export const John_F._Kennedy= ` <!DOCTYPE html>
         </tbody>
        </table>
       </div>
-      <!-- 
+      <!--
 NewPP limit report
 Parsed by mw1261
 Cached time: 20190430121819
@@ -37448,7 +37448,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-am">
         <a class="interlanguage-link-target" href="https://am.wikipedia.org/wiki/%E1%8C%86%E1%8A%95_%E1%8A%A4%E1%8D%8D_%E1%8A%AC%E1%8A%94%E1%8B%B2" hreflang="am" lang="am" title="    Amharic">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-ang">
@@ -37458,12 +37458,12 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-ab">
         <a class="interlanguage-link-target" href="https://ab.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D0%B4%D0%B8,_%D0%8F%D1%8C%D0%BE%D0%BD_%D0%A4%D0%B8%D1%86%D1%9F%D1%8C%D0%B5%D1%80%D0%B0%D0%BB%D0%B4" hreflang="ab" lang="ab" title=",    Abkhazian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-ar">
         <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AC%D9%88%D9%86_%D9%83%D9%8A%D9%86%D9%8A%D8%AF%D9%8A" hreflang="ar" lang="ar" title="   Arabic">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-an">
@@ -37498,12 +37498,12 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-azb">
         <a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/%D8%AC%D8%A7%D9%86_%D8%A7%D9%81._%DA%A9%D9%86%D8%AF%DB%8C" hreflang="azb" lang="azb" title=" .   South Azerbaijani">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-bn">
         <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%A8_%E0%A6%AB%E0%A6%BF%E0%A6%9F%E0%A7%8D%E2%80%8C%E0%A6%9C%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%A1%E0%A6%BF" hreflang="bn" lang="bn" title="    Bangla">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-zh-min-nan">
@@ -37513,7 +37513,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-be">
         <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BD_%D0%A4%D1%96%D1%86%D0%B4%D0%B6%D1%8D%D1%80%D0%B0%D0%BB%D1%8C%D0%B4_%D0%9A%D0%B5%D0%BD%D1%8D%D0%B4%D0%B7%D1%96" hreflang="be" lang="be" title="    Belarusian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-be-x-old">
@@ -37533,7 +37533,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-bg">
         <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BD_%D0%9A%D0%B5%D0%BD%D0%B5%D0%B4%D0%B8" hreflang="bg" lang="bg" title="   Bulgarian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-bar">
@@ -37558,7 +37558,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-cv">
         <a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D0%B4%D0%B8_%D0%94%D0%B6%D0%BE%D0%BD_%D0%A4%D0%B8%D1%86%D0%B4%D0%B6%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%B4" hreflang="cv" lang="cv" title="    Chuvash">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-ceb">
@@ -37593,7 +37593,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-dv">
         <a class="interlanguage-link-target" href="https://dv.wikipedia.org/wiki/%DE%96%DE%AF%DE%82%DE%B0_%DE%8A%DE%A8%DE%93%DE%B0%DE%92%DE%AC%DE%8E%DE%AC%DE%83%DE%A6%DE%8D%DE%B0%DE%91%DE%B0_%DE%86%DE%AC%DE%82%DE%AC%DE%91%DE%A9" hreflang="dv" lang="dv" title="    Divehi">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-et">
@@ -37603,7 +37603,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-el">
         <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A4%CE%B6%CE%BF%CE%BD_%CE%A6%CE%B9%CF%84%CE%B6%CE%AD%CF%81%CE%B1%CE%BB%CE%BD%CF%84_%CE%9A%CE%AD%CE%BD%CE%BD%CE%B5%CE%BD%CF%84%CF%85" hreflang="el" lang="el" title="    Greek">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-eml">
@@ -37628,7 +37628,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-fa">
         <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AC%D8%A7%D9%86_%D8%A7%D9%81._%DA%A9%D9%86%D8%AF%DB%8C" hreflang="fa" lang="fa" title=" .   Persian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-fo">
@@ -37678,22 +37678,22 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-ko">
         <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A1%B4_F._%EC%BC%80%EB%84%A4%EB%94%94" hreflang="ko" lang="ko" title=" F.   Korean">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-hy">
         <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8B%D5%B8%D5%B6_%D5%96._%D5%94%D5%A5%D5%B6%D5%A5%D5%A4%D5%AB" hreflang="hy" lang="hy" title=" .   Armenian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-hyw">
         <a class="interlanguage-link-target" href="https://hyw.wikipedia.org/wiki/%D5%83%D5%B8%D5%B6_%D5%94%D5%A5%D5%B6%D5%A5%D5%BF%D5%AB" hreflang="hyw" lang="hyw" title="   Western Armenian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-hi">
         <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A5%89%E0%A4%A8_%E0%A4%8F%E0%A4%AB%E0%A5%B0_%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A5%87%E0%A4%A1%E0%A5%80" hreflang="hi" lang="hi" title="    Hindi">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-hr badge-Q17437796 badge-featuredarticle" title="featured article">
@@ -37713,7 +37713,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-bpy">
         <a class="interlanguage-link-target" href="https://bpy.wikipedia.org/wiki/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%A1%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%87_%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A7%87%E0%A6%A1%E0%A7%8D%E0%A6%AF" hreflang="bpy" lang="bpy" title="   Bishnupriya">
-          
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-id">
@@ -37748,7 +37748,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-he">
         <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%92%27%D7%95%D7%9F_%D7%A4%D7%99%D7%A6%D7%92%27%D7%A8%D7%9C%D7%93_%D7%A7%D7%A0%D7%93%D7%99" hreflang="he" lang="he" title="' '   Hebrew">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-jv">
@@ -37758,7 +37758,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-kn">
         <a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%9C%E0%B2%BE%E0%B2%A8%E0%B3%8D_%E0%B2%8E%E0%B2%AB%E0%B3%8D.%E0%B2%95%E0%B3%86%E0%B2%A8%E0%B3%86%E0%B2%A1%E0%B2%BF" hreflang="kn" lang="kn" title=" .  Kannada">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-pam">
@@ -37768,12 +37768,12 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-ka">
         <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%AF%E1%83%9D%E1%83%9C_%E1%83%A4%E1%83%98%E1%83%AA%E1%83%AF%E1%83%94%E1%83%A0%E1%83%90%E1%83%9A%E1%83%93_%E1%83%99%E1%83%94%E1%83%9C%E1%83%94%E1%83%93%E1%83%98" hreflang="ka" lang="ka" title="    Georgian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-kk">
         <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BD_%D0%A4%D0%B8%D1%86%D0%B4%D0%B6%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%B4_%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D0%B4%D0%B8" hreflang="kk" lang="kk" title="    Kazakh">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-kw">
@@ -37803,12 +37803,12 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-ky">
         <a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%96%D0%BE%D0%BD_%D0%A4%D0%B8%D1%86%D0%B6%D0%B5%D1%80%D0%B0%D0%BB%D0%B4_%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D0%B4%D0%B8" hreflang="ky" lang="ky" title="    Kyrgyz">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-mrj">
         <a class="interlanguage-link-target" href="https://mrj.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D0%B4%D0%B8,_%D0%94%D0%B6%D0%BE%D0%BD_%D0%A4%D0%B8%D1%86%D0%B4%D0%B6%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%B4" hreflang="mrj" lang="mrj" title=",    Western Mari">
-          
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-la">
@@ -37853,7 +37853,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-mk">
         <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%8F%D0%BE%D0%BD_%D0%A4._%D0%9A%D0%B5%D0%BD%D0%B5%D0%B4%D0%B8" hreflang="mk" lang="mk" title=" .   Macedonian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-mg">
@@ -37863,27 +37863,27 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-ml">
         <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%9C%E0%B5%8B%E0%B5%BA_%E0%B4%8E%E0%B4%AB%E0%B5%8D._%E0%B4%95%E0%B5%86%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B4%A1%E0%B4%BF" hreflang="ml" lang="ml" title=" .   Malayalam">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-mr">
         <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%9C%E0%A5%89%E0%A4%A8_%E0%A4%8F%E0%A4%AB._%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A5%87%E0%A4%A1%E0%A5%80" hreflang="mr" lang="mr" title=" .   Marathi">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-xmf">
         <a class="interlanguage-link-target" href="https://xmf.wikipedia.org/wiki/%E1%83%AF%E1%83%9D%E1%83%9C_%E1%83%A4%E1%83%98%E1%83%AA%E1%83%AF%E1%83%94%E1%83%A0%E1%83%90%E1%83%9A%E1%83%93_%E1%83%99%E1%83%94%E1%83%9C%E1%83%94%E1%83%93%E1%83%98" hreflang="xmf" lang="xmf" title="    Mingrelian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-arz">
         <a class="interlanguage-link-target" href="https://arz.wikipedia.org/wiki/%D8%AC%D9%88%D9%86_%D9%83%D9%8A%D9%86%D9%8A%D8%AF%D9%89" hreflang="arz" lang="arz" title="   Egyptian Arabic">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-mzn">
         <a class="interlanguage-link-target" href="https://mzn.wikipedia.org/wiki/%D8%AC%D8%A7%D9%86_%D8%A7%D9%81._%DA%A9%D9%86%D8%AF%DB%8C" hreflang="mzn" lang="mzn" title=" .   Mazanderani">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-ms">
@@ -37898,12 +37898,12 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-mn">
         <a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%96%D0%BE%D0%BD_%D0%A4%D0%B8%D1%86%D0%B6%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%B4_%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D0%B4%D0%B8" hreflang="mn" lang="mn" title="    Mongolian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-my">
         <a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%82%E1%80%BB%E1%80%BD%E1%80%94%E1%80%BA_%E1%80%A1%E1%80%80%E1%80%BA%E1%80%96%E1%80%BA_%E1%80%80%E1%80%94%E1%80%B1%E1%80%92%E1%80%AE" hreflang="my" lang="my" title="    Burmese">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-nl">
@@ -37913,12 +37913,12 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-ne">
         <a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%9C%E0%A5%8B%E0%A4%A8_%E0%A4%8F%E0%A4%AB_%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A5%87%E0%A4%A1%E0%A5%80" hreflang="ne" lang="ne" title="    Nepali">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-ja">
         <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BBF%E3%83%BB%E3%82%B1%E3%83%8D%E3%83%87%E3%82%A3" hreflang="ja" lang="ja" title="F  Japanese">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-no">
@@ -37938,7 +37938,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-or">
         <a class="interlanguage-link-target" href="https://or.wikipedia.org/wiki/%E0%AC%9C%E0%AC%A8%E0%AD%8D_%E0%AC%8F%E0%AC%AB%E0%AD%8D._%E0%AC%95%E0%AD%87%E0%AC%A8%E0%AD%87%E0%AC%A1%E0%AC%BC%E0%AC%BF" hreflang="or" lang="or" title=" .   Odia">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-uz">
@@ -37948,17 +37948,17 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-pa">
         <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%9C%E0%A9%87.%E0%A8%90%E0%A8%AB%E0%A8%BC_%E0%A8%95%E0%A9%88%E0%A8%A8%E0%A9%87%E0%A8%A1%E0%A9%80" hreflang="pa" lang="pa" title=".   Punjabi">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-pnb">
         <a class="interlanguage-link-target" href="https://pnb.wikipedia.org/wiki/%D8%AC%D8%A7%D9%86_%D8%A7%DB%8C%D9%81_%DA%A9%DB%8C%D9%86%DB%8C%DA%88%DB%8C" hreflang="pnb" lang="pnb" title="    Western Punjabi">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-km">
         <a class="interlanguage-link-target" href="https://km.wikipedia.org/wiki/John_F._Kennedy" hreflang="km" lang="km" title="John F. Kennedy  Khmer">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-pms">
@@ -38003,12 +38003,12 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-ru">
         <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D0%B4%D0%B8,_%D0%94%D0%B6%D0%BE%D0%BD_%D0%A4%D0%B8%D1%86%D0%B4%D0%B6%D0%B5%D1%80%D0%B0%D0%BB%D0%B4" hreflang="ru" lang="ru" title=",    Russian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-sah">
         <a class="interlanguage-link-target" href="https://sah.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BD_%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D0%B4%D0%B8" hreflang="sah" lang="sah" title="   Sakha">
-          
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-sco">
@@ -38033,7 +38033,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-si">
         <a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%A2%E0%B7%9D%E0%B6%B1%E0%B7%8A_%E0%B6%91%E0%B7%86%E0%B7%8A._%E0%B6%9A%E0%B7%99%E0%B6%B1%E0%B6%A9%E0%B7%92" hreflang="si" lang="si" title=" .   Sinhala">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-simple">
@@ -38043,7 +38043,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-sd">
         <a class="interlanguage-link-target" href="https://sd.wikipedia.org/wiki/%D8%AC%D8%A7%D9%86_%D8%A7%D9%8A%D9%81_%DA%AA%D9%8A%D9%86%D9%8A%DA%8A%D9%8A" hreflang="sd" lang="sd" title="    Sindhi">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-sk">
@@ -38058,7 +38058,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-ckb">
         <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D8%AC%D8%A7%D9%86_%D8%A6%DB%8E%D9%81._%DA%A9%DB%8E%D9%86%DB%8C%D8%AF%DB%8C" hreflang="ckb" lang="ckb" title=" .   Central Kurdish">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-sr">
@@ -38068,7 +38068,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-sh">
         <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/John_F._Kennedy" hreflang="sh" lang="sh" title="John F. Kennedy  Serbo-Croatian">
-         Srpskohrvatski / 
+         Srpskohrvatski /
         </a>
        </li>
        <li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article">
@@ -38088,7 +38088,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-ta">
         <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%9C%E0%AE%BE%E0%AE%A9%E0%AF%8D_%E0%AE%8E%E0%AE%83%E0%AE%AA%E0%AF%8D._%E0%AE%95%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%9F%E0%AE%BF" hreflang="ta" lang="ta" title=" .   Tamil">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-tt">
@@ -38098,17 +38098,17 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-te">
         <a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%9C%E0%B0%BE%E0%B0%A8%E0%B1%8D_%E0%B0%8E%E0%B0%AB%E0%B1%8D_%E0%B0%95%E0%B1%86%E0%B0%A8%E0%B0%A1%E0%B0%BF" hreflang="te" lang="te" title="    Telugu">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-th">
         <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99_%E0%B9%80%E0%B8%AD%E0%B8%9F._%E0%B9%80%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%94%E0%B8%B5" hreflang="th" lang="th" title=" .   Thai">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-tg">
         <a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/%D2%B6%D0%BE%D0%BD_%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D0%B4%D0%B8" hreflang="tg" lang="tg" title="   Tajik">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-tr">
@@ -38123,12 +38123,12 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-uk">
         <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BD_%D0%A4%D1%96%D1%82%D1%86%D0%B4%D0%B6%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%B4_%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D0%B4%D1%96" hreflang="uk" lang="uk" title="    Ukrainian">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-ur">
         <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%AC%D8%A7%D9%86_%D8%A7%DB%8C%D9%81_%DA%A9%DB%8C%D9%86%DB%8C%DA%88%DB%8C" hreflang="ur" lang="ur" title="    Urdu">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-ug">
@@ -38148,12 +38148,12 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-wuu">
         <a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E8%82%AF%E5%B0%BC%E8%BF%AA" hreflang="wuu" lang="wuu" title="  Wu Chinese">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-yi">
         <a class="interlanguage-link-target" href="https://yi.wikipedia.org/wiki/%D7%96%D7%A9%D7%90%D7%9F_%D7%A2%D7%A3._%D7%A7%D7%A2%D7%A0%D7%A2%D7%93%D7%99" hreflang="yi" lang="yi" title=" .   Yiddish">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-yo">
@@ -38163,7 +38163,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-zh-yue">
         <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E7%B4%84%E7%BF%B0%E7%94%98%E8%BF%BA%E8%BF%AA" hreflang="yue" lang="yue" title="  Cantonese">
-         
+
         </a>
        </li>
        <li class="interlanguage-link interwiki-diq">
@@ -38178,7 +38178,7 @@ You can view its source [e]">
        </li>
        <li class="interlanguage-link interwiki-zh">
         <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E8%82%AF%E5%B0%BC%E8%BF%AA" hreflang="zh" lang="zh" title="  Chinese">
-         
+
         </a>
        </li>
       </ul>
@@ -38278,7 +38278,7 @@ additional terms may apply.  By using this site, you agree to the
    </div>
   </div>
   <script>
-   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"4.600","walltime":"5.476","ppvisitednodes":{"value":42398,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":1254702,"limit":2097152},"templateargumentsize":{"value":374163,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":55,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":676314,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00% 3954.279      1 -total"," 29.78% 1177.553      2 Template:Reflist"," 13.90%  549.809      1 Template:Infobox_officeholder"," 12.94%  511.783      7 Template:Infobox"," 12.92%  510.980     90 Template:Cite_web"," 10.98%  434.250     60 Template:Cite_book"," 10.66%  421.446      2 Template:Navboxes"," 10.46%  413.451    227 Template:Sfn","  7.35%  290.830     33 Template:Navbox","  5.91%  233.703      1 Template:Birth_date"]},"scribunto":{"limitreport-timeusage":{"value":"2.025","limit":"10.000"},"limitreport-memusage":{"value":17357783,"limit":52428800},"limitreport-logs":"3\ntable#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1261","timestamp":"20190430121819","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":171,"wgHostname":"mw1247"});});
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"4.600","walltime":"5.476","ppvisitednodes":{"value":42398,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":1254702,"limit":2097152},"templateargumentsize":{"value":374163,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":55,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":676314,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00% 3954.279      1 -total"," 29.78% 1177.553      2 Template:Reflist"," 13.90%  549.809      1 Template:Infobox_officeholder"," 12.94%  511.783      7 Template:Infobox"," 12.92%  510.980     90 Template:Cite_web"," 10.98%  434.250     60 Template:Cite_book"," 10.66%  421.446      2 Template:Navboxes"," 10.46%  413.451    227 Template:Sfn","  7.35%  290.830     33 Template:Navbox","  5.91%  233.703      1 Template:Birth_date"]},"scribunto":{"limitreport-timeusage":{"value":"2.025","limit":"10.000"},"limitreport-memusage":{"value":17357783,"limit":52428800},"limitreport-logs":"3\\ntable#1 {\\n  [\\"size\\"] = \\"tiny\\",\\n}\\n"},"cachereport":{"origin":"mw1261","timestamp":"20190430121819","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":171,"wgHostname":"mw1247"});});
   </script>
  </body>
 </html> `;
