@@ -1,6 +1,6 @@
 ## CryptoJacker CS460-Project
 
-Final Project
+Security Labatory CS460 - Final Project
 
 Contributers
 - [Rseligm2 - Russell Seligmann](https://github.com/rseligm2)
@@ -14,11 +14,11 @@ First, clone the repository
 $ git clone https://github.com/jasonvooo/cs460-project.git
 ```
 
-## WebScraper
+#### WebScraper
 + Beautifulsoup
 
 
-To run the client (localhost:3000)
+#### To run the client (localhost:3000)
 
 ```
 $ cd wiki-clone
