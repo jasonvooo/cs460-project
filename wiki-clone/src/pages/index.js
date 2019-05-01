@@ -96,3 +96,5 @@ export {Glee_TV_series} from './Glee_TV_series.js';
 export {Abraham_Lincoln} from './Abraham_Lincoln.js';
 export {Web_scraping} from './Web_scraping.js';
 export {Lionel_Messi} from './Lionel_Messi.js';
+export {Home} from './Home.js';
+export {Not_Found} from './Not_Found.js';
